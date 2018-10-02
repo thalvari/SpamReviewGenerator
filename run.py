@@ -1,4 +1,4 @@
-import string as str
+import string
 
 import markovify
 import nltk
@@ -9,12 +9,14 @@ reviews = pd.read_csv('data/7282_with_textcat_languagetags.csv', index_col=0)
 reviews = reviews[['reviews.rating', 'language.textcat', 'reviews.text']]
 reviews.columns = ['rating', 'language', 'text']
 reviews = reviews.query('language in ["english", "scots"]')
-reviews = reviews.query('rating in [1, 2, 3, 4, 5]')
 reviews = reviews.drop('language', axis=1)
+# reviews = pd.read_csv('data/predator.csv', index_col=0, encoding = "ISO-8859-1")
+
+reviews = reviews.query('rating in [1, 2, 3, 4, 5]')
 # print('\n'.join('{}: {}'.format(i, reviews.query('rating == {}'.format(i)).shape[0]) for i in range(1, 6)))
 
 nltk.download('wordnet')
-punctuation = set(str.punctuation)
+punctuation = set(string.punctuation)
 punctuation -= {'.', '!', '?'}
 lemmatizer = WordNetLemmatizer()
 reviews['text'] = reviews['text'].str.lower()
