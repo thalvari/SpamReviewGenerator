@@ -1,5 +1,6 @@
 # SpamReviewGenerator
 
 ### Documentation
-* [Installation guide](/doc/installation_guide.md)
+* [Installation](/doc/installation.md)
 * [Project description](/doc/project_description.md)
+* [Basic usage](/doc/basic_usage.md)

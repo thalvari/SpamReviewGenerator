@@ -1,4 +1,4 @@
-aenum==2.1.2
+Click==7.0
 markovify==0.7.1
 nltk==3.3
 numpy==1.15.2
