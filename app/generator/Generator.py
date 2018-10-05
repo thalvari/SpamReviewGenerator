@@ -1,4 +1,4 @@
-from markovify import NewlineText
+from model_creator.POSifiedNewLineText import POSifiedNewLineText
 
 
 class Generator:
@@ -8,10 +8,10 @@ class Generator:
 
     def load_model(self, exported_model, rating, state_size):
         file = open(exported_model.path.format(rating, state_size))
-        self.model = NewlineText.from_json(file.read())
+        self.model = POSifiedNewLineText.from_json(file.read())
         file.close()
 
     def generate_review(self):
         if self.model is None:
             return None
-        return str(self.model.make_sentence(tries=1000, max_words=25))
+        return str(self.model.make_sentence(tries=10000, max_words=30))

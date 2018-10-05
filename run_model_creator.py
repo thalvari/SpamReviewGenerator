@@ -15,6 +15,7 @@ def main(path_to_dataset, rating, state_size):
         exit()
     preprocessor.load_and_normalize_dataset()
     preprocessor.create_model()
+    # print(preprocessor.reviews['sentence'].head(10).values)
     preprocessor.write_model_to_file()
 
 

@@ -2,10 +2,9 @@ import string
 from ntpath import basename, splitext
 
 import pandas as pd
-from markovify import NewlineText
-from nltk.stem import WordNetLemmatizer
 
 from model_creator import Dataset
+from model_creator.POSifiedNewLineText import POSifiedNewLineText
 
 
 class Preprocessor:
@@ -36,27 +35,30 @@ class Preprocessor:
 
     def create_model(self):
         self.reviews = self.reviews.query('rating == {}'.format(self.rating))
-        punctuation = set(string.punctuation)
-        punctuation -= {'.', '\''}
         self.reviews['text'] = self.reviews['text'].str.lower()
+        self.reviews['text'] = self.reviews['text'].str.replace('<br/>', '')
+        self.__remove_punctuation()
+        self.__text_to_sentences()
+        self.reviews = self.reviews.query('sentence != ["", "more"]')
+        self.__clean_sentences()
+        text = '\n'.join([sentence for sentence in self.reviews['sentence']])
+        self.model = POSifiedNewLineText(text, state_size=self.state_size)
+
+    def __remove_punctuation(self):
+        punctuation = set(string.punctuation)
+        punctuation -= {'.', '\'', '%'}
         self.reviews['text'] = self.reviews['text'].str.replace('\?|!', '.')
         self.reviews['text'] = self.reviews['text'].apply(
             lambda review: ''.join([char for char in review if char not in punctuation]))
-        self.__text_to_sentences()
-        self.__lemmatize_sentences()
-        self.reviews = self.reviews.query('sentence != ["", "more"]')
-        text = '\n'.join([sentence for sentence in self.reviews['sentence']])
-        self.model = NewlineText(text, state_size=self.state_size)
 
     def __text_to_sentences(self):
-        self.reviews = self.reviews.join(
-            self.reviews['text'].str.split('.').apply(pd.Series).stack().reset_index(level=1, drop=True).to_frame(
-                'sentence'))
+        sentences = self.reviews['text'].str.split('.').apply(pd.Series).stack().reset_index(level=1, drop=True)
+        sentences = sentences.apply(lambda sentence: sentence.strip())
+        self.reviews = self.reviews.join(sentences.to_frame('sentence'))
 
-    def __lemmatize_sentences(self):
-        lemmatizer = WordNetLemmatizer()
+    def __clean_sentences(self):
         self.reviews['sentence'] = self.reviews['sentence'].apply(
-            lambda sentence: " ".join([lemmatizer.lemmatize(word) for word in sentence.split()]))
+            lambda sentence: " ".join([word for word in sentence.split() if not word.isspace()]))
 
     def write_model_to_file(self):
         f = open('models/{}_{}_{}.json'.format(splitext(basename(self.dataset.path))[0], self.rating, self.state_size),
