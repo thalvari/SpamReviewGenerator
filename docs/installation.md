@@ -9,6 +9,7 @@
 * ```source venv/bin/activate```
 * ```python -m pip install -U pip setuptools```
 * ```pip install -r requirements.txt```
+* ```python -m spacy download en```
 
 ### Windows
 * Install Python 3.6.6 (SpaCy has problems with 3.7.0) and Git
@@ -20,3 +21,4 @@
 * ```source venv/Scripts/activate```
 * ```python -m pip install -U pip setuptools```
 * ```pip install -r requirements.txt```
+* ```python -m spacy download en```
