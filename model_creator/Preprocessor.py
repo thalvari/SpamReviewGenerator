@@ -36,7 +36,6 @@ class Preprocessor:
     def create_model(self):
         self.reviews = self.reviews.query('rating == {}'.format(self.rating))
         self.reviews['text'] = self.reviews['text'].str.lower()
-        self.reviews['text'] = self.reviews['text'].str.replace('<br/>', '')
         self.__remove_punctuation()
         self.__text_to_sentences()
         self.reviews = self.reviews.query('sentence != ["", "more"]')
@@ -47,9 +46,11 @@ class Preprocessor:
     def __remove_punctuation(self):
         punctuation = set(string.punctuation)
         punctuation -= {'.', '\'', '%'}
+        self.reviews['text'] = self.reviews['text'].str.replace('<br/>| \'|\' ', ' ')
         self.reviews['text'] = self.reviews['text'].str.replace('\?|!', '.')
+        self.reviews['text'] = self.reviews['text'].str.replace('%', ' %')
         self.reviews['text'] = self.reviews['text'].apply(
-            lambda review: ''.join([char for char in review if char not in punctuation]))
+            lambda review: ''.join([char if char not in punctuation else ' ' for char in review]))
 
     def __text_to_sentences(self):
         sentences = self.reviews['text'].str.split('.').apply(pd.Series).stack().reset_index(level=1, drop=True)

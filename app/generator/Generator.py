@@ -14,4 +14,7 @@ class Generator:
     def generate_review(self):
         if self.model is None:
             return None
-        return str(self.model.make_sentence(tries=10000, max_words=30))
+        sentence = str(self.model.make_sentence(tries=100, max_words=30))
+        sentence = sentence.replace(' \'', '\'')
+        sentence = sentence.replace(' n\'', 'n\'')
+        return sentence
