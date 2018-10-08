@@ -14,7 +14,16 @@ class Generator:
     def generate_review(self):
         if self.model is None:
             return None
-        sentence = str(self.model.make_sentence(tries=100, max_words=30))
+        sentence = str(self.model.make_sentence(tries=100, max_words=25))
+        sentence = self.__postprocess_review(sentence)
+        return sentence
+
+    def __postprocess_review(self, sentence):
         sentence = sentence.replace(' \'', '\'')
-        sentence = sentence.replace(' n\'', 'n\'')
+        sentence = sentence.replace(' - ', '-')
+        sentence = sentence.replace(' n\'t ', 'n\'t ')
+        sentence = sentence.replace(' nt ', 'nt ')
+        sentence = sentence.replace(' ll ', 'll ')
+        sentence = sentence.replace(' ve ', 've ')
+        sentence = sentence.replace('i m ', 'im ')
         return sentence

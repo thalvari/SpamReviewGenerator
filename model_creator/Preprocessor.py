@@ -1,4 +1,5 @@
 import string
+from builtins import print
 from ntpath import basename, splitext
 
 import pandas as pd
@@ -36,26 +37,26 @@ class Preprocessor:
     def create_model(self):
         self.reviews = self.reviews.query('rating == {}'.format(self.rating))
         self.reviews['text'] = self.reviews['text'].str.lower()
-        self.__remove_punctuation()
+        self.reviews['text'] = self.reviews['text'].str.replace('\?|!', '.')
         self.__text_to_sentences()
-        self.reviews = self.reviews.query('sentence != ["", "more"]')
+        self.__remove_punctuation()
         self.__clean_sentences()
+        self.reviews = self.reviews.query('sentence != ["", "more"]')
         text = '\n'.join([sentence for sentence in self.reviews['sentence']])
         self.model = POSifiedNewLineText(text, state_size=self.state_size)
 
-    def __remove_punctuation(self):
-        punctuation = set(string.punctuation)
-        punctuation -= {'.', '\'', '%'}
-        self.reviews['text'] = self.reviews['text'].str.replace('<br/>| \'|\' ', ' ')
-        self.reviews['text'] = self.reviews['text'].str.replace('\?|!', '.')
-        self.reviews['text'] = self.reviews['text'].str.replace('%', ' %')
-        self.reviews['text'] = self.reviews['text'].apply(
-            lambda review: ''.join([char if char not in punctuation else ' ' for char in review]))
-
     def __text_to_sentences(self):
         sentences = self.reviews['text'].str.split('.').apply(pd.Series).stack().reset_index(level=1, drop=True)
-        sentences = sentences.apply(lambda sentence: sentence.strip())
         self.reviews = self.reviews.join(sentences.to_frame('sentence'))
+
+    def __remove_punctuation(self):
+        punctuation = set(string.punctuation)
+        punctuation -= {'.', '\'', '%', '-'}
+        self.reviews['sentence'] = self.reviews['sentence'].str.replace('<br/>', ' ')
+        self.reviews['sentence'] = self.reviews['sentence'].apply(
+            lambda sentence: ''.join([char if char not in punctuation else ' ' for char in sentence]))
+        self.reviews['sentence'] = self.reviews['sentence'].str.replace('\' | \' |\'\'|- | - |--', ' ')
+        self.reviews['sentence'] = self.reviews['sentence'].str.replace(' \'| -', ' ')
 
     def __clean_sentences(self):
         self.reviews['sentence'] = self.reviews['sentence'].apply(

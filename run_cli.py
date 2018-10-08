@@ -8,7 +8,7 @@ from app.generator import ExportedModel, Generator
               help='Class of the reviews generated.')
 @click.option('--rating', '-r', prompt='Rating', type=click.IntRange(1, 5), help='Rating of the reviews generated.')
 @click.option('--state_size', '-s', prompt='States', type=click.IntRange(2, 12), help='Markov chain state size.')
-@click.option('--n_reviews', '-n', prompt='How many', type=click.IntRange(1, 100),
+@click.option('--n_reviews', '-n', prompt='How many', type=click.IntRange(1, 1000),
               help='Number of the reviews generated.')
 def main(review_class, rating, state_size, n_reviews):
     path_to_exported_model = 'models/{}_{}_{}.json'.format(review_class, '{}', '{}')
