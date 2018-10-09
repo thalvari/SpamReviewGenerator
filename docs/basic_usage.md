@@ -18,5 +18,6 @@ Options:
   -r, --rating INTEGER RANGE      Rating of the reviews generated.
   -s, --state_size INTEGER RANGE  Markov chain state size.
   -n, --n_reviews INTEGER RANGE   Number of the reviews generated.
+  -o, --output_format [csv|txt]   Generates a dataset of given format.
   --help                          Show this message and exit.
 ```
