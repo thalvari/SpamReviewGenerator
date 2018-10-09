@@ -1,6 +1,6 @@
 import click
 
-from model_creator import Dataset, Preprocessor
+from model_creator import Dataset, ModelCreator
 
 
 @click.command()
@@ -9,7 +9,7 @@ from model_creator import Dataset, Preprocessor
 @click.option('--state_size', '-s', prompt='States', type=click.IntRange(2, 12), help='Markov chain state size.')
 def main(path_to_dataset, rating, state_size):
     try:
-        preprocessor = Preprocessor(Dataset(path_to_dataset), rating, state_size)
+        preprocessor = ModelCreator(Dataset(path_to_dataset), rating, state_size)
     except ValueError:
         print('Dataset not supported.')
         exit()

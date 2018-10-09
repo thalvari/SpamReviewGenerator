@@ -4,10 +4,10 @@ from ntpath import basename, splitext
 import pandas as pd
 
 from model_creator import Dataset
-from model_creator.POSifiedNewLineText import POSifiedNewLineText
+from model_creator import POSifiedNewLineText
 
 
-class Preprocessor:
+class ModelCreator:
 
     def __init__(self, dataset, rating, state_size):
         self.dataset = dataset
