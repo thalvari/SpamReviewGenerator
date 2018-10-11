@@ -21,6 +21,7 @@ class Generator:
     def generate_output(self):
         output_df = pd.DataFrame([self.__generate_sentence() for _ in range(self.n_reviews)], columns=['text'])
         output_df['rating'] = self.rating
+        output_df = output_df.query('text != "None"')
         path = 'generated_datasets/{}_{}_{}_{}.{}'.format(self.review_type, self.rating, self.state_size,
                                                           self.n_reviews, self.output_format)
         if self.output_format is None:
@@ -51,5 +52,7 @@ class Generator:
         return sentence
 
     def __print_statistics(self, output_df):
+        output_df = output_df.query('text != "None"')
         print('\nStatistics: ')
+        print('{}/{} generated.'.format(output_df.shape[0], self.n_reviews))
         print('{}/{} unique.'.format(output_df['text'].nunique(), output_df.shape[0]))
