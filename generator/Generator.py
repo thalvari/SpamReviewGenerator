@@ -5,39 +5,40 @@ from model_creator.POSifiedNewLineText import POSifiedNewLineText
 
 class Generator:
 
-    def __init__(self, review_type, rating, state_size, n_reviews, output_format):
-        self.review_type = review_type
+    def __init__(self, category, rating, state_size, output_type, debug):
+        self.category = category
         self.rating = rating
         self.state_size = state_size
-        self.n_reviews = n_reviews
-        self.output_format = output_format
+        self.output_type = output_type
+        self.debug = debug
         self.model = None
 
     def load_model(self):
-        file = open('models/{}_{}_{}.json'.format(self.review_type, self.rating, self.state_size))
+        file = open('models/{}_{}_{}.json'.format(self.category, self.rating, self.state_size))
         self.model = POSifiedNewLineText.from_json(file.read())
         file.close()
 
-    def generate_output(self):
-        output_df = pd.DataFrame([self.__generate_sentence() for _ in range(self.n_reviews)], columns=['text'])
+    def generate_output(self, n_sentences):
+        output_df = pd.DataFrame([self.__generate_sentence() for _ in range(n_sentences)], columns=['text'])
         output_df['rating'] = self.rating
         output_df = output_df.query('text != "None"')
-        path = 'generated_datasets/{}_{}_{}_{}.{}'.format(self.review_type, self.rating, self.state_size,
-                                                          self.n_reviews, self.output_format)
-        if self.output_format is None:
+        path = 'generated_datasets/{}_{}_{}_{}.{}'.format(self.category, self.rating, self.state_size, n_sentences,
+                                                          self.output_type)
+        if self.output_type is None:
             print('\n'.join(output_df['text']))
-        elif self.output_format == 'csv':
+        elif self.output_type == 'csv':
             output_df.to_csv(path)
-        elif self.output_format == 'txt':
+        elif self.output_type == 'txt':
             f = open(path, 'w')
             f.write('. '.join(output_df['text']))
             f.close()
-        self.__print_statistics(output_df)
+        if self.debug:
+            self.__print_stats(output_df, n_sentences)
 
     def __generate_sentence(self):
         if self.model is None:
             return None
-        sentence = str(self.model.make_sentence(tries=100, max_words=25))
+        sentence = str(self.model.make_sentence(tries=10000, max_words=25))
         sentence = self.__postprocess_sentence(sentence)
         return sentence
 
@@ -51,8 +52,6 @@ class Generator:
         sentence = sentence.replace('i m ', 'im ')
         return sentence
 
-    def __print_statistics(self, output_df):
-        output_df = output_df.query('text != "None"')
-        print('\nStatistics: ')
-        print('{}/{} generated.'.format(output_df.shape[0], self.n_reviews))
-        print('{}/{} unique.'.format(output_df['text'].nunique(), output_df.shape[0]))
+    def __print_stats(self, output_df, n_sentences):
+        print('\nStats:')
+        print('{}/{} unique.'.format(output_df['text'].nunique(), n_sentences))
