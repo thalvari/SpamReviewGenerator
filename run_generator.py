@@ -4,15 +4,14 @@ from generator import Generator
 
 
 @click.command()
-@click.option('--category', '-c', prompt='Category', type=click.Choice(['hotel', 'predator', 'cell']),
+@click.option('--category', '-c', prompt='Category', type=click.Choice(['marvel', 'hotel', 'cell']),
               help='Category of the generated reviews.')
 @click.option('--rating', '-r', prompt='Rating (1-5)', type=click.IntRange(1, 5),
               help='Rating of the generated reviews.')
 @click.option('--state_size', '-s', type=click.IntRange(2, 8), help='Markov model state size.', default=4)
 @click.option('--output_type', '-o', type=click.Choice(['csv', 'txt']), help='Output file type.')
-@click.option('--debug/--no-debug', default=False, help='Debug mode.')
-def main(category, rating, state_size, output_type, debug):
-    generator = Generator(category, rating, state_size, output_type, debug)
+def main(category, rating, state_size, output_type):
+    generator = Generator(category, rating, state_size, output_type)
     try:
         generator.load_model()
     except FileNotFoundError:

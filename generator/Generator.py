@@ -5,12 +5,11 @@ from model_creator.POSifiedNewLineText import POSifiedNewLineText
 
 class Generator:
 
-    def __init__(self, category, rating, state_size, output_type, debug):
+    def __init__(self, category, rating, state_size, output_type):
         self.category = category
         self.rating = rating
         self.state_size = state_size
         self.output_type = output_type
-        self.debug = debug
         self.model = None
 
     def load_model(self):
@@ -30,10 +29,10 @@ class Generator:
             output_df.to_csv(path)
         elif self.output_type == 'txt':
             f = open(path, 'w')
-            f.write('. '.join(output_df['text']))
+            text = '. '.join(output_df['text'])
+            text += '.\n'
+            f.write(text)
             f.close()
-        if self.debug:
-            self.__print_stats(output_df, n_sentences)
 
     def __generate_sentence(self):
         if self.model is None:
@@ -49,9 +48,6 @@ class Generator:
         sentence = sentence.replace(' nt ', 'nt ')
         sentence = sentence.replace(' ll ', 'll ')
         sentence = sentence.replace(' ve ', 've ')
+        sentence = sentence.replace(' s ', 's ')
         sentence = sentence.replace('i m ', 'im ')
         return sentence
-
-    def __print_stats(self, output_df, n_sentences):
-        print('\nStats:')
-        print('{}/{} unique.'.format(output_df['text'].nunique(), n_sentences))
