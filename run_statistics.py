@@ -5,15 +5,12 @@ xi = [i for i in range(2, 7)]
 yi = [i for i in range(0, 12000, 2000)]
 plt.xticks(xi)
 plt.yticks(yi)
-marvel_path = 'generated_datasets/marvel_5_{}_10000.csv'
-hotel_path = 'generated_datasets/hotel_5_{}_10000.csv'
-# cell_path = 'generated_datasets/cell_5_{}_10000.csv'
-plt.plot(xi, [df['text'].nunique() for df in [pd.read_csv(marvel_path.format(i)) for i in xi]], label='marvel')
-plt.plot(xi, [df['text'].nunique() for df in [pd.read_csv(hotel_path.format(i)) for i in xi]], label='hotel')
-# plt.plot(xi, [df['text'].nunique() for df in [pd.read_csv(cell_path.format(i)) for i in xi]], label='cell')
-plt.legend(loc='upper right')
+for category in ['marvel', 'hotel', 'cell']:
+    path = 'generated_datasets/{}_5_{}_10000.csv'.format(category, '{}')
+    plt.plot(xi, [df['text'].nunique() for df in [pd.read_csv(path.format(i)) for i in xi]], label=category)
+plt.legend(loc='lower left')
 plt.xlabel('state size')
 plt.ylabel('unique sentences')
-plt.title('rating 5 model')
+plt.title('Rating 5 models: unique sentences / 10000 generated')
 plt.grid(True)
 plt.show()
