@@ -1,5 +1,5 @@
-import pandas as pd
 import matplotlib.pyplot as plt
+import pandas as pd
 
 xi = [i for i in range(2, 7)]
 yi = [i for i in range(0, 12000, 2000)]
