@@ -35,3 +35,49 @@ To use other models aside from the premade ones already in the repository, for e
 The following graph shows the number of unique sentences per 10000 generated sentences for different rating 5 models.
 
 ![Unique sentences](rating_5_unique.png)
+
+## 6 Data gathering
+
+The data for the project was gathered by using premade datasets such as Amazon product reviews from:
+http://jmcauley.ucsd.edu/data/amazon/ and a premade hotel review dataset that consists of TripAdvisor hotel reviews. From the Amazon 
+product reviews we used the Cell Phones and Accessories 5-core dataset with 194,439 reviews. 
+The movie review dataset was made by web scraping audience reviews from several movies belonging in the Marvel Cinematic Universe from 
+Rotten Tomatoes. The scraped reviews were 1000 most recent ones visible on the website. The web scraper was coded for the purposes of this project
+and was created using the BeautifulSoup library for python. Originally we attempted to scrape more reviews from TripAdvisor but that proved to
+be too diificult after a while of trying to get a web scraper to work on their website.
+
+Other data used in the project consists of generated datasets created using the review generator
+
+## 7 Sentiment analysis of data
+
+The datasets and generated datasets were further used in sentiment analysis of the reviews. In the sentiment analysis the objectives were to find
+what words were the most common in each review category, what words were contributing the most to positive and negative sentiments, how much different
+sentiments such as negativity and anger were expressed by words in different review categories by negative and positive ratings, calculating tf-idf 
+scores for different review categories to find words specific to them and then for each category to calculate tf-idf scores for reviews by ratings.
+
+For the sentiment analysis the data was first processed by lemmatizing all review texts, so that words like movies and movie would be counted as one word
+instead of two. This was done by utilising WordNetLemmatizer available in python library nltk. 
+
+The sentiment analysis itself was done using R studio and libaries: tidytext, dplyr, stringr and visualisation by using: ggplot2 and gridExtra. Sentiment 
+libraries used were 'bing', which offeres a positive or negative sentiment for each word, and 'nrc', which offers sentiments based on emotions such as anger or joy and
+general negative and positive sentiments. Using a combination of tidytext, dplyr and stringr offers an easy way to analyse sentiments in texts.
+However the limitations of this model was that the libraris do not recognise negation in sentences as it only analyses words. Thus "not good" will be counted
+as positive since it contains the word "good". Other limitations are that the libraries do not take into account the context of a word thus in Marvel reviews
+the word "stark" is considered negative even if it is the surname of a character and should be considered neutral.
+
+Visualisation of the sentiment analysis results can be viewed fully in reviewsvisualisation.pdf .
+
+### 7.1 Example graph of sentiment analysis results
+
+In the following graph the first row shows most common words in generated Cell Phone and accessories reviews and in generated hotel reviews and shows the number of times the word is encountered (n). 
+The second row shows which words contribute most to negative and positive sentiments in genrated Marvel movie reviews and real hotel reviews and the number of times the word is encountered (n).
+The third row shows the sentiments expressed in real negative and positive hotel reviews and how many words in the reviews had such sentiment (n). Then negative reviews are reviews with rating of two or less and positive ones have rating 
+above three. 
+
+![Sentiment analysis results](sentimentanalysisvisualisationexample.png)
+
+### 7.2 tf-idf scores of different review categories
+
+The following graph shows tf-idf scores of different review categories.
+
+![tf-idf reviews](tfidfreviews.png)
