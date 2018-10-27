@@ -72,7 +72,7 @@ class ModelCreator:
 
     def write_sample_to_file(self, n_sample):
         n_sample = min(self.reviews.shape[0], n_sample)
-        text = '. '.join([sentence for sentence in self.reviews['sentence'].head(n_sample)])
+        text = '. '.join([sentence for sentence in self.reviews['sentence'].sample(n_sample)])
         text += '.\n'
         f = open('datasets/{}_{}_sample_{}.txt'.format(self.category, self.rating, n_sample), 'w')
         f.write(text)
