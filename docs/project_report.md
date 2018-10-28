@@ -37,7 +37,7 @@ Our generator is basically a sentence generator which utilizes [Markovify](https
 1. First a model is loaded to memory from a json file. Some of the models are big so they can use gigabytes of memory when loaded. This phase is by far the most time consuming part of the pipeline.
 1. In the actual generation phase, our generator tries 10000 times to generate a sentence of max 25 words from the model. The sentence is not accepted if it overlaps more than 70 % with any of the original sentences stored in the model.
 1. In the postprocessing phase the aim is to fix some of the issues we run into when using Markovify with spaCy's tagger. In the tagger example above we discussed how the tagger separates the verb and the adverb from the word "couldn't". Now if the same combination is generated we have to join the two words back together.
-1. In the last phase the review or a single sentence is either written to a file or printed for the user.
+1. In the last phase the given amount of generated sentences are either written to a file or printed for the user.
 
 ## 5 Model comparison
 

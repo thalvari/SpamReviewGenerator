@@ -1,5 +1,6 @@
 # Basic usage
 Create and export Markov chain models with ```python run_model_creator.py```.
+
 ```
 Usage: run_model_creator.py [OPTIONS]
 
@@ -12,7 +13,9 @@ Options:
                                   with the given rating to a file (1-100000).
   --help                          Show this message and exit.
 ```
+
 Print generated sentences from premade models with ```python run_generator.py```.
+
 ```
 Usage: run_generator.py [OPTIONS]
 
@@ -25,3 +28,5 @@ Options:
                                   review (txt) to a file of given type.
   --help                          Show this message and exit.
 ```
+
+To ignore possible warnings use ```python -W ignore```.
