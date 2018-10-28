@@ -6,11 +6,12 @@ from model_creator import ModelCreator
 @click.command()
 @click.option('--category', '-c', prompt='Category', type=click.Choice(['marvel', 'hotel', 'cell']),
               help='Dataset category.')
-@click.option('--rating', '-r', prompt='Rating (1-5)', type=click.IntRange(1, 5), help='Rating of the reviews used.')
-@click.option('--state_size', '-s', prompt='State size (2-8)', type=click.IntRange(2, 8),
-              help='Markov model state size.')
+@click.option('--rating', '-r', prompt='Rating (1-5)', type=click.IntRange(1, 5),
+              help='Rating of the reviews used (1-5).')
+@click.option('--state_size', '-s', prompt='State size (2-6)', type=click.IntRange(2, 6),
+              help='Markov model state size (2-6).')
 @click.option('--n_sample', '-n', type=click.IntRange(1, 100000),
-              help='Only write a sample of original review sentences to a file.')
+              help='Only write a sample of n original sentences with the given rating to a file (1-100000).')
 def main(category, rating, state_size, n_sample):
     try:
         model_creator = ModelCreator(category, rating, state_size)

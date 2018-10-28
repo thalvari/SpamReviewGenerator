@@ -12,8 +12,8 @@
 * ```python -m spacy download en```
 
 ### Windows
-* Install Python 3.6.6 (SpaCy has problems with 3.7.0) and Git
-* Download 'Build Tools for Visual Studio 2017' and install 'VC++ 2015.3 v14.00 (v140) toolset for desktop'
+* Install Python 3.6 (SpaCy has problems with 3.7) and Git (with Git LFS)
+* Download [Build Tools for Visual Studio 2017](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2017) and install 'VC++ 2015.3 v14.00 (v140) toolset for desktop'
 * Run the following as administrator:
 * ```git clone git@github.com:thalvari/SpamReviewGenerator.git```
 * ```cd SpamReviewGenerator```
