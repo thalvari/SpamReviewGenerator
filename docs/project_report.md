@@ -59,16 +59,22 @@ For the sentiment analysis the data was first processed by lemmatizing all revie
 
 The sentiment analysis itself was done using R studio and libaries: tidytext, dplyr, stringr and visualisation by using: ggplot2 and gridExtra. Sentiment libraries used were 'bing', which offeres a positive or negative sentiment for each word, and 'nrc', which offers sentiments based on emotions such as anger or joy and general negative and positive sentiments. Using a combination of tidytext, dplyr and stringr offers an easy way to analyse sentiments in texts. However the limitations of this model was that the libraris do not recognise negation in sentences as it only analyses words. Thus "not good" will be counted as positive since it contains the word "good". Other limitations are that the libraries do not take into account the context of a word thus in Marvel reviews the word "stark" is considered negative even if it is the surname of a character and should be considered neutral.
 
-Visualisation of the sentiment analysis results can be viewed fully in reviewsvisualisation.pdf.
+Visualisation of the sentiment analysis results can be viewed fully in [reviewsvisualisation.pdf](reviewsvisualisation.pdf).
 
-### 7.1 Example graph of sentiment analysis results
+### 6.1 Example graph of sentiment analysis results
 
 In the following graph the first row shows most common words in generated Cell Phone and accessories reviews and in generated hotel reviews and shows the number of times the word is encountered (n). The second row shows which words contribute most to negative and positive sentiments in genrated Marvel movie reviews and real hotel reviews and the number of times the word is encountered (n). The third row shows the sentiments expressed in real negative and positive hotel reviews and how many words in the reviews had such sentiment (n). Then negative reviews are reviews with rating of two or less and positive ones have rating above three. 
 
 ![Sentiment analysis results](sentimentanalysisvisualisationexample.png)
 
-### 7.2 tf-idf scores of different review categories
+### 6.2 tf-idf scores of different review categories
 
 The following graph shows tf-idf scores of different review categories.
 
 ![tf-idf reviews](tfidfreviews.png)
+
+## 7 Testing with spam filters
+
+### 7.1 Review Sceptic
+
+[Review Sceptic](http://reviewskeptic.com/) is a spam review filter from 2011 developed by researchers at Cornell University. It uses machine learning to identify fake hotel reviews by combining keyword analysis with the ways certain words are combined in pairs. They claim a 89.8 percent accuracy. Their grading is either deceptive or truthful. Using our generated sample reviews of 100 sentences (for example [hotel_1_4_100.txt](../generated_samples/hotel_1_4_100.txt)) for each rating, all five are rated as truthful.

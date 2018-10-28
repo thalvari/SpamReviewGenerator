@@ -6,7 +6,7 @@ yi = [i for i in range(0, 12000, 2000)]
 plt.xticks(xi)
 plt.yticks(yi)
 for category in ['marvel', 'hotel', 'cell']:
-    path = 'generated_datasets/{}_5_{}_10000.csv'.format(category, '{}')
+    path = 'generated_samples/{}_5_{}_10000.csv'.format(category, '{}')
     plt.plot(xi, [df['text'].nunique() for df in [pd.read_csv(path.format(i)) for i in xi]], label=category)
 plt.legend(loc='lower left')
 plt.xlabel('state size')

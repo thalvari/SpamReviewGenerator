@@ -21,7 +21,7 @@ class Generator:
         output_df = pd.DataFrame([self.__generate_sentence() for _ in range(n_sentences)], columns=['text'])
         output_df['rating'] = self.rating
         output_df = output_df.query('text != "None"')
-        path = 'generated_datasets/{}_{}_{}_{}.{}'.format(self.category, self.rating, self.state_size, n_sentences,
+        path = 'generated_samples/{}_{}_{}_{}.{}'.format(self.category, self.rating, self.state_size, n_sentences,
                                                           self.output_type)
         if self.output_type is None:
             print('\n'.join(output_df['text']))
