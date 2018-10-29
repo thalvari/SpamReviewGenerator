@@ -82,3 +82,9 @@ The following graph shows tf-idf scores of different review categories.
 ### 7.1 Review Sceptic
 
 [Review Sceptic](http://reviewskeptic.com/) is a spam review filter from 2011 developed by researchers at Cornell University. It claims to use machine learning (technique not specified) to identify fake hotel reviews by combining keyword analysis with the ways certain words are combined in pairs. They claim a 89.8 percent accuracy. Their grading is either deceptive or truthful. Using our generated sample reviews of 100 sentences (for example [hotel_1_4_100.txt](../generated_samples/hotel_1_4_100.txt)) for each rating, all five are rated as truthful.
+
+### 7.2 Naïve Bayes classifier
+
+Our team also devised a [spamfilter](https://github.com/thalvari/SpamReviewGenerator/blob/master/spamfilter/Spamfilter.java) of its own to test the spam generator. The filter is based on email spam/ham data from the Apache SpamAssassin project, not exactly reviews, but distinct data from what we have used as training data regardless. We hypothesised that the naïve bayes technique would perform poorly at identifying bot reviews created by our methods. This, we figured, is due to the fact that spam in this very simple filter is mainly identified by keywords, not context or grammar, whereas vocabulary wise the contents of our data set and reviews generated using our algorithm would be expected to be identical.
+
+The test results seem to support the above hypothesis: both real-life reviews and our own bot reviews get very similar spamicity scores. This is also in agreement with the results in the Review Sceptic test.
