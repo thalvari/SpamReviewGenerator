@@ -94,3 +94,7 @@ The test results seem to support the above hypothesis: both real-life reviews an
 ![Marvel spam plot](https://github.com/thalvari/SpamReviewGenerator/blob/master/docs/Marvel%20spam%20plot.png)
 
 Although one should be careful not to jump to conclusions, in this limited test case, it seems based on the plots shown above that actually our "fake" reviews fare a little bit better against the spam filter than "real" reviews!
+
+## 8 Conclusion
+
+The spambot project has been a very didactic experience indeed for the whole group, deepening our understanding of the mechanisms the spam we encounter every day. It has been amazing to see how comparatively simple models such as Markov chains combined with some NLP techniques can render reviews that are, at times, absolutely indistinguishable from what a (seriously minded) human would write. One can only imagine what might be accomplished with more advanced technology, given enough time and skill... 
