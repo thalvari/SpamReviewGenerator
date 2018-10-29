@@ -65,6 +65,8 @@ The sentiment analysis itself was done using R studio and libaries: tidytext, dp
 
 Visualisation of the sentiment analysis results can be viewed fully in [reviewsvisualisation.pdf](reviewsvisualisation.pdf).
 
+The resulting word frequencies and tf-idf scores for different review types generally reflect the type of words one would expect to find from them. Similarly most positive and negative words have generally positive and negative words such as 'nice' and 'bad' and words that reflect the review category more closely. The tf-idf scores for the reviews by rating on the other hand are somewhat less reflective of the content of the reviews. In general the real and generated reviews didin't differ much from each other.
+
 ### 6.1 Example graph of sentiment analysis results
 
 In the following graph the first row shows most common words in generated Cell Phone and accessories reviews and in generated hotel reviews and shows the number of times the word is encountered (n). The second row shows which words contribute most to negative and positive sentiments in genrated Marvel movie reviews and real hotel reviews and the number of times the word is encountered (n). The third row shows the sentiments expressed in real negative and positive hotel reviews and how many words in the reviews had such sentiment (n). Then negative reviews are reviews with rating of two or less and positive ones have rating above three. 
