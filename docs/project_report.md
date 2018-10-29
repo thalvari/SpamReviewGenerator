@@ -85,6 +85,12 @@ The following graph shows tf-idf scores of different review categories.
 
 ### 7.2 Naïve Bayes classifier
 
-Our team also devised a [spam filter](https://github.com/thalvari/SpamReviewGenerator/blob/master/spamfilter/Spamfilter.java) of its own to test the spam generator. The filter is based on email spam/ham data from the Apache SpamAssassin project, not exactly reviews, but distinct data from what we have used as training data regardless. We hypothesised that the naïve bayes technique would perform poorly at identifying bot reviews created by our methods. This, we figured, is due to the fact that spam in this very simple filter is mainly identified by keywords, not context or grammar, whereas vocabulary wise the contents of our data set and reviews generated using our algorithm would be expected to be identical.
+Our team also devised a [spam filter](https://github.com/thalvari/SpamReviewGenerator/blob/master/spamfilter/Spamfilter.java) of its own to test the spam generator. The filter is based on email spam/ham data from the Apache SpamAssassin project, not exactly reviews nor ideal, but distinct data from what we have used as training data regardless. If a review has more than 50 % chance of being spam it is classified as such by our filter, else as a legit message. We hypothesised that the naïve bayes technique would perform poorly at identifying bot reviews created by our methods. This, we figured, is due to the fact that spam in this very simple filter is mainly identified by keywords, not context or grammar, whereas vocabulary wise the contents of our data set and reviews generated using our algorithm would be expected to be identical.
 
-The test results seem to support the above hypothesis: both real-life reviews and our own bot reviews get very similar spamicity scores. This is also in agreement with the results in the Review Sceptic test.
+The test results seem to support the above hypothesis: both real-life reviews and our own bot reviews get very similar spamicity scores. This is also in agreement with the results in the previous Review Sceptic test.
+
+![Cell spam plot](https://github.com/thalvari/SpamReviewGenerator/blob/master/docs/Cell%20spam%20plot.png)
+![Hotel spam plot](https://github.com/thalvari/SpamReviewGenerator/blob/master/docs/Hotel%20spam%20plot.png)
+![Marvel spam plot](https://github.com/thalvari/SpamReviewGenerator/blob/master/docs/Marvel%20spam%20plot.png)
+
+Although one should be careful not to jump to conclusions, in this limited test case, it seems based on the plots shown above that actually our "fake" reviews fare a little bit better against the spam filter than "real" reviews!
