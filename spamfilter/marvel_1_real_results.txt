@@ -1,0 +1,101 @@
+Sentence "a boring lifeless movie from start to finish " has a 53 % probability of being spam.
+Sentence " it almost made me want to turn into tony stark's more accurate comic counterpart " has a 0 % probability of being spam.
+Sentence " an alcoholic " has a 49 % probability of being spam.
+Sentence " the plot might be interesting but 2008's iron man suffers from a not compelling villain miscasting and cheesy action courtesy of director jon favreau " has a 0 % probability of being spam.
+Sentence " what " has a 50 % probability of being spam.
+Sentence " this movie sucks " has a 20 % probability of being spam.
+Sentence " i don't understand why anyone thinks this is a good movie " has a 8 % probability of being spam.
+Sentence " the characters aren't likeable the tone is all over the place and the storyline is boring " has a 16 % probability of being spam.
+Sentence " thor two is better don't recommend this one at all " has a 7 % probability of being spam.
+Sentence " movie was dull " has a 38 % probability of being spam.
+Sentence " iron man has never been my favorite character " has a 3 % probability of being spam.
+Sentence " barely-watchable trash " has a 37 % probability of being spam.
+Sentence " i stuck through it to be polite to the person who wanted me to see it but managed to get out of enduring any of the sequels " has a 1 % probability of being spam.
+Sentence " loud noises and expensive special effects can't make up for the absence of a plot writing characterisation or really anything interesting " has a 0 % probability of being spam.
+Sentence " just a blockbuster hollywood movie with tons of special effect and surely tons of millions dollars but no scenario bad acting and a story seen so many times nice to see but only one time " has a 0 % probability of being spam.
+Sentence " this was kind of terrible " has a 9 % probability of being spam.
+Sentence " boring overrated lacks a lot of important things robert downey jr really doesn't fit this role " has a 0 % probability of being spam.
+Sentence " the suit had more abilities than spider-man and parker wasn't really the outcast that persevered and made you want to root for him like in the comics and earlier movies " has a 0 % probability of being spam.
+Sentence " spider-man was just too dependent on iron man for both his core initiative and succeeding in his mission " has a 2 % probability of being spam.
+Sentence " the story was forced in order to set-up the character for avengers infinity war which made an iconic comic hero seem incredibly insignificant " has a 1 % probability of being spam.
+Sentence " very boring and uninteresting " has a 46 % probability of being spam.
+Sentence " doesn't capture the real spirit of a spiderman film " has a 3 % probability of being spam.
+Sentence " very very unmeaningful " has a 44 % probability of being spam.
+Sentence " i could not even know that people could have done such shallow movie like this " has a 4 % probability of being spam.
+Sentence " spider-man is young ok fine " has a 0 % probability of being spam.
+Sentence " but that is definitely not an excuse for the childishness of this movie " has a 22 % probability of being spam.
+Sentence " young audience is not an excuse either " has a 24 % probability of being spam.
+Sentence " maybe holland did well in this 17 spider-man version or it just because he is young and naive too " has a 0 % probability of being spam.
+Sentence " this role can ruin his other up-coming performances " has a 8 % probability of being spam.
+Sentence " how the hell this this movie hit 92% " has a 17 % probability of being spam.
+Sentence " movie was ok at best maybe its time to watch the movies before firing reviews online " has a 25 % probability of being spam.
+Sentence " one of the most generic and forgettable films i've ever seen " has a 57 % probability of being spam.
+Sentence " spider-man homecomingi agree with the economists review " has a 8 % probability of being spam.
+Sentence " spider-man homecoming was not amazing " has a 76 % probability of being spam.
+Sentence " the film was an iron man movie not a spider-man movie and this is an amazing mistake " has a 2 % probability of being spam.
+Sentence " let's go over the differences " has a 27 % probability of being spam.
+Sentence " the iron man story is about physics and the american spirit of capitalism and innovation " has a 0 % probability of being spam.
+Sentence " tony stark the man behind the iron man suit is a flamboyant billionaire who invents gadgets and new technology " has a 0 % probability of being spam.
+Sentence " in fact tony stark is based of the flamboyant billionaire howard hughes " has a 0 % probability of being spam.
+Sentence " the theme of iron man is money and creativity " has a 31 % probability of being spam.
+Sentence " iron man has unique abilities to concur evil because of his enormous amounts of money and genius allowed him to create a special suit " has a 2 % probability of being spam.
+Sentence " because of this special suit his superpowers are acquired " has a 75 % probability of being spam.
+Sentence " in comparison spider-man is a story about genetics " has a 4 % probability of being spam.
+Sentence " spider dna somehow mixing with human dna has occurred in a man " has a 0 % probability of being spam.
+Sentence " the mans name is peter parker of new york city " has a 60 % probability of being spam.
+Sentence " spider-man has a unique ability to concur evil because of genetics " has a 1 % probability of being spam.
+Sentence " he has some of the same abilities of a spider because of the spider dna mixing with his own " has a 0 % probability of being spam.
+Sentence " because of a genetic mutation his superpowers are innate " has a 29 % probability of being spam.
+Sentence " now in spider-man homecoming it's all horribly mixed up " has a 26 % probability of being spam.
+Sentence " you have a spider-man film that doesn't touch on the science of genetics once in the script " has a 0 % probability of being spam.
+Sentence " and spider-mans powers so to say are in large measure because of a special suit that iron man has made for him " has a 0 % probability of being spam.
+Sentence " this is stupid " has a 5 % probability of being spam.
+Sentence " it shows a lack of understanding about the fundamentals of the science and story behind the spider-man and iron man characters " has a 0 % probability of being spam.
+Sentence " spider-man's unique ability to fight crime has been acquired because of a super suit tony stark made with a drone on his chest and an augmented reality heads up visual display " has a 0 % probability of being spam.
+Sentence " really " has a 17 % probability of being spam.
+Sentence " give me a break " has a 6 % probability of being spam.
+Sentence " a great spider-man flick should be heavily concentrated on the science of genetics not a suit tony stark made " has a 1 % probability of being spam.
+Sentence " moreover where are the iconic new york city scenes " has a 89 % probability of being spam.
+Sentence " where are the camera angles that show the point of view that spider-man would see as he swings though nyc giving the audience an almost vr experience " has a 1 % probability of being spam.
+Sentence " micheal keaton is a great actor perhaps one of the greats of our time " has a 4 % probability of being spam.
+Sentence " hannibal buress was absolutely fantastic in his role " has a 36 % probability of being spam.
+Sentence " but the rest of the cast was " has a 20 % probability of being spam.
+Sentence " can anyone really say they enjoyed looking at jacob batalon for two hours " has a 24 % probability of being spam.
+Sentence " how did zendaya make it though casting " has a 6 % probability of being spam.
+Sentence " laura harrier is spider-man's love interest " has a 88 % probability of being spam.
+Sentence " and why is spider-man once again played by a british actor " has a 12 % probability of being spam.
+Sentence " i love the uk but for integrity purposes spider-man could have be played by an american " has a 47 % probability of being spam.
+Sentence " preferably a new yorker " has a 30 % probability of being spam.
+Sentence " there are tons of qualified kids out of nyu " has a 85 % probability of being spam.
+Sentence " contrary to what the economist spider-man review says teenagers are not annoying " has a 0 % probability of being spam.
+Sentence " but creating an iron man film because you can't come up with a decent spider-man script is " has a 0 % probability of being spam.
+Sentence " great movie minus all the virtue signalling " has a 78 % probability of being spam.
+Sentence " spider-man is one of my all time favorites " has a 53 % probability of being spam.
+Sentence " i have been waiting and hoping he would join the mcu " has a 40 % probability of being spam.
+Sentence " the movie is good the actor is great but changing all the supporting cast for the sake of virtue signaling really ticked me off " has a 1 % probability of being spam.
+Sentence " btw mj is an all american redhead girl " has a 8 % probability of being spam.
+Sentence " not the sjw bs that she was changed to " has a 5 % probability of being spam.
+Sentence " the only reason i didn't abandon the movie entirely is because her name isn't mary jane " has a 82 % probability of being spam.
+Sentence " also flash isn't some stupid debate team jock that acts like this moron " has a 1 % probability of being spam.
+Sentence " he is a literal jock and bully " has a 50 % probability of being spam.
+Sentence " not this stupid idiot the producer came up with " has a 20 % probability of being spam.
+Sentence " a disappointing reliance on a mish-mash of avengers characters and pretentious teenage angst " has a 4 % probability of being spam.
+Sentence " so uninteresting i couldn't finish watching it " has a 14 % probability of being spam.
+Sentence " didn't end up with the asian " has a 38 % probability of being spam.
+Sentence " who the fudge wants to see white guy with a black girl " has a 1 % probability of being spam.
+Sentence " dans game i would not recommend watching this movie at all resident sleeper all day " has a 43 % probability of being spam.
+Sentence " another comic destoyed by insufferable liberal sjw's " has a 4 % probability of being spam.
+Sentence " by far the worst of the spidey reboots that has ruined this action hero who should now be called an affirmative action hero " has a 1 % probability of being spam.
+Sentence " took all the likable qualities of peter from the comics and washed them down the drain " has a 8 % probability of being spam.
+Sentence " this movie is complete garbage spidey doesn't even throw a punch " has a 26 % probability of being spam.
+Sentence " not to mention the complete comic book inaccuracy to the supporting cast thanks to sjw disney and amy pascal " has a 0 % probability of being spam.
+Sentence " thanks for taking a big dump on my favorite character " has a 0 % probability of being spam.
+Sentence " lame " has a 8 % probability of being spam.
+Sentence " i thought the original with toby was too much a loser " has a 4 % probability of being spam.
+Sentence " but this thing drags on and on and on and on totally juvenile " has a 14 % probability of being spam.
+Sentence " more cgi than actually real stunts " has a 38 % probability of being spam.
+Sentence " story is boring " has a 14 % probability of being spam.
+Sentence " child's play " has a 52 % probability of being spam.
+Sentence " they ruined it " has a 59 % probability of being spam.
+Sentence " characters were needlessly black brown yellow-washed for no reason other than to virtue signal " has a 1 % probability of being spam.
+15 % of sentences in chosen data set are classified as spam by us.

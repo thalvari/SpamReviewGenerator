@@ -1,0 +1,101 @@
+Sentence "i have been a fan of spider-man but this movie made me instantly love him " has a 22 % probability of being spam.
+Sentence " nonetheless the action sequences were amazing and even the movie is just so brilliant and emotional 10 years of hard work " has a 0 % probability of being spam.
+Sentence " it goes without saying that the soundtrack is completely phenomenal to go along with fights to make it a total entertainment package " has a 65 % probability of being spam.
+Sentence " one of the greatest movies of all time and one of the best marvel movies i ever watched " has a 98 % probability of being spam.
+Sentence " if you like superhero movies this is up there with the dark knight as the greatest superhero movie of all-time " has a 62 % probability of being spam.
+Sentence " marvel the avengers is one of the best visual amp makeup effects of 2015 " has a 98 % probability of being spam.
+Sentence " and i am a big marvel fan and this is one of the best marvel movies its a great movie 10 10 " has a 42 % probability of being spam.
+Sentence " as tony stark iron man chris evans steve rogers mark ruffalo bruce banner and many other actors " has a 0 % probability of being spam.
+Sentence " the conflict is not only against loki and his army in a war like situation in new york city " has a 2 % probability of being spam.
+Sentence " the movie does a fantastic job as this character and he was the perfect choice to be tony stark " has a 3 % probability of being spam.
+Sentence " to get to the point this movie is instantly one of the best movies i've ever seen in my entire life " has a 98 % probability of being spam.
+Sentence " warning you have got to watch the end of the movie on what was to happen to tom in the future " has a 2 % probability of being spam.
+Sentence " whether you're a superhero fan or not you can't help but root pun intended for him the whole way through " has a 1 % probability of being spam.
+Sentence " that was the best movie of 2012 " has a 71 % probability of being spam.
+Sentence " black panther is a must see for mcu fans " has a 33 % probability of being spam.
+Sentence " this proves itself to be one of the greatest superhero movies of all time " has a 84 % probability of being spam.
+Sentence " by far the best superhero movie ever with the possible exception of rdj as stark " has a 19 % probability of being spam.
+Sentence " easy in the top 3 of marvel movies and just a great movie with great humor and excellent action " has a 98 % probability of being spam.
+Sentence " amazing cast and amazing hero's one of the best superheroe movies ever great acting and great fight scenes " has a 98 % probability of being spam.
+Sentence " i love that this movie is full of action and the fact that he's been in such comedic films i " has a 12 % probability of being spam.
+Sentence " because it was the and still like i said one of the best things marvel has ever done " has a 1 % probability of being spam.
+Sentence " superior to the first one the action is great it's a little bit better than the first " has a 31 % probability of being spam.
+Sentence " but that is one of the most ambitious movies of all time and nearly every aspect is flawless " has a 7 % probability of being spam.
+Sentence " overall this well directed movie is one of the best that hollywood has to offer " has a 92 % probability of being spam.
+Sentence " what it is is a great superhero movie it's a great movie " has a 64 % probability of being spam.
+Sentence " the only problem with the movie is the biggest testament to peter's character " has a 5 % probability of being spam.
+Sentence " ending is brutal and clearly a 2-parter but was a lot of fun watching spiderman grow into his power " has a 0 % probability of being spam.
+Sentence " watch ant-man amp the wasp started the avengers " has a 100 % probability of being spam.
+Sentence " funny full of heart and character this stands as one of the best movies i've seen " has a 2 % probability of being spam.
+Sentence " reading all the online reviews i guess it's a small enough distraction from his work " has a 3 % probability of being spam.
+Sentence " at first i had no desire to see this movie and was fully aboard the hype train " has a 90 % probability of being spam.
+Sentence " the chemistry between pepper and tony is really good and i really enjoyed it can't wait for avengers 4 " has a 0 % probability of being spam.
+Sentence " he murdered a dog of his opponent in a chess play in which he can't loose " has a 80 % probability of being spam.
+Sentence " bradley cooper was the real mvp here as rocket raccoon was by far the best of the stand alone mcu films " has a 23 % probability of being spam.
+Sentence " it is a completely new and different type of spider-man but this movie made up for it with character development " has a 11 % probability of being spam.
+Sentence " what more do i need to say is that this is the best mcu movie ever " has a 74 % probability of being spam.
+Sentence " this is my all time favorite comic movies " has a 70 % probability of being spam.
+Sentence " a truly phenomenal superhero movie with exhilarating action great performances and great tunes and jokes but raises the bar for super hero films " has a 25 % probability of being spam.
+Sentence " the mcu starts out with a bang in 2008's iron man is by far the best movie marvel ever released " has a 1 % probability of being spam.
+Sentence " marvel's the avengers is the best thing that could happen to marvel " has a 36 % probability of being spam.
+Sentence " way better movie than i thought it was a little over the top but it was cool " has a 3 % probability of being spam.
+Sentence " also visually this is one of the best ever marvel movies " has a 94 % probability of being spam.
+Sentence " one of the best superhero movie i've seen twice in theaters " has a 18 % probability of being spam.
+Sentence " they know each other their chemistry is set and now they're on the same team with similar intentions " has a 3 % probability of being spam.
+Sentence " the latest chapter in the marvel cinematic universe couldn't get bigger it does it doesn't take away that it is great " has a 1 % probability of being spam.
+Sentence " this movie will give you hope for future marvel movies than the trailers before the movie " has a 96 % probability of being spam.
+Sentence " 4 1 17after my fourth viewing of guardians of the galaxy fans more volume movies upcoming soon " has a 17 % probability of being spam.
+Sentence " even with this it doesn't take away from the overall experience at all " has a 12 % probability of being spam.
+Sentence " it's just that the best super hero movies of all time " has a 98 % probability of being spam.
+Sentence " marvel you done it again making a film that isn't even his and make spider-man seem weak dependent " has a 1 % probability of being spam.
+Sentence " iron man is my all time personal favorite " has a 36 % probability of being spam.
+Sentence " great acting all around with perfect balance of action and comedy this is what a fun superhero movie should be " has a 43 % probability of being spam.
+Sentence " this iron man movie is because this is the movie that quite possibly put marvel back on the map " has a 0 % probability of being spam.
+Sentence " i can only give this movie 5 out of 5 stars and recommend it for ages 10 to 18 " has a 25 % probability of being spam.
+Sentence " i was scared it wouldn't be after all the hype but it is clearly one of the best superhero movies " has a 87 % probability of being spam.
+Sentence " avengers infinity war dazzles viewers with great special effects and even greater performances from some of the best action sequences ever seen in cinema " has a 1 % probability of being spam.
+Sentence " it was probably the most anticipated movie of the mcu and a great half of a finale " has a 11 % probability of being spam.
+Sentence " the fight scenes in this movie were very present in the movie because of how much i didn't care about him " has a 40 % probability of being spam.
+Sentence " avengers infinity war is my favorite marvel movie i think it's works fine in a movie " has a 0 % probability of being spam.
+Sentence " after watching guardians of the galaxy was one of the best villains in a comic book adventure snappy dialogue commentary on terrorism " has a 13 % probability of being spam.
+Sentence " top notch spy political thrill ride in a vibrant settting with one of the most satisfying superhero films in a long time " has a 9 % probability of being spam.
+Sentence " the musical score by ramin djawadi is one of the best movies that marvel has ever made " has a 14 % probability of being spam.
+Sentence " just as the plot of avengers age of ultron is very fast action surprisingly funny and action packed " has a 82 % probability of being spam.
+Sentence " it's funnier the action scenes are better and it's got a blue suitcase ark of the covenant maltese falcon kind of vibe " has a 1 % probability of being spam.
+Sentence " this movie is what i would call one of the greatest superhero movies of all time " has a 99 % probability of being spam.
+Sentence " the final showdown is a bit of a surprise to me " has a 19 % probability of being spam.
+Sentence " their on screen chemistry is awesome and the soundtrack is incredible " has a 39 % probability of being spam.
+Sentence " i was shocked how much i loved this and i think you will find it's worth your time " has a 22 % probability of being spam.
+Sentence " not only is this a very crowd pleasing experience it's just a prance-about stage name " has a 42 % probability of being spam.
+Sentence " way better than the first and ultron as a villain is probably the greatest villain ever " has a 24 % probability of being spam.
+Sentence " highly recommend if you love marvel and spider-man final word karen best girl " has a 2 % probability of being spam.
+Sentence " iron man is the base of the avengers universe and robert downey jr was born to play you can't watch an iron man movie " has a 0 % probability of being spam.
+Sentence " i love the first guardians movie it's one of the funnest superhero movies that has been made " has a 70 % probability of being spam.
+Sentence " the best of the marvel movies and this is definitely one of the best super hero movies of all time " has a 99 % probability of being spam.
+Sentence " this direction indicates director peyton reed's intention of positioning ant-man's character was well developed both as a teenager and a hero " has a 0 % probability of being spam.
+Sentence " marvel has done a great job with their performances in this film " has a 2 % probability of being spam.
+Sentence " but even with the twist it's an amazing sequel and an instant classic " has a 84 % probability of being spam.
+Sentence " it's powerful to the epic scale of the action and drama all in one movie " has a 11 % probability of being spam.
+Sentence " epic and exciting the avengers brings together for the first time i saw it in 4d and it was amazing " has a 81 % probability of being spam.
+Sentence " with likable characters and an excellent story i believe infinity war is the culmination of all these marvel stories and it was amazing " has a 6 % probability of being spam.
+Sentence " that said i was jacked to see this movie and wow it was amazing definitely one of my favorites the fifth element " has a 1 % probability of being spam.
+Sentence " this story was a fresh take on spider-man and it has a fantastic groovy soundtrack " has a 35 % probability of being spam.
+Sentence " marvel utilized their budget to the max and the cgi in this movie was very good and had great actors " has a 69 % probability of being spam.
+Sentence " not one moment of boredom during this movie and the soundtrack was really good " has a 24 % probability of being spam.
+Sentence " a must buy on blu-ray everybody that worked on this movie needs a t-shirt that says i piss excellence " has a 72 % probability of being spam.
+Sentence " overall the avengers is a fantastic film and one of the funniest movie i have ever seen in my life " has a 9 % probability of being spam.
+Sentence " do i even need to mention that the movie is basically a better version of the first avengers " has a 0 % probability of being spam.
+Sentence " the avengers infinity war is one of my favorite superhero movies and one of my favorite marvel movies " has a 73 % probability of being spam.
+Sentence " a movie that started mcu and to this day i only have a few " has a 93 % probability of being spam.
+Sentence " and yeah this movie has some of the best of the two " has a 5 % probability of being spam.
+Sentence " i still feel like this movie was really good better than captain america " has a 1 % probability of being spam.
+Sentence " with its great special effects and some of the most badass women in movie history " has a 5 % probability of being spam.
+Sentence " i think this is one of the best motion pictures ever made " has a 9 % probability of being spam.
+Sentence " it's funnier the action scenes are humorous and exciting " has a 61 % probability of being spam.
+Sentence " the movie does a fantastic job as this character and he was the perfect choice for the role " has a 10 % probability of being spam.
+Sentence " plus the soundtrack is one of the best spider-man movie " has a 91 % probability of being spam.
+Sentence " the first film in the marvel cinematic universe ant man is a film that deserves all the praise it's getting " has a 0 % probability of being spam.
+Sentence " it was a perfect way to start the marvel cinematic universe that sends it in exciting new directions " has a 97 % probability of being spam.
+Sentence " tony stark will go down as one of my all-time favorite movies " has a 23 % probability of being spam.
+Sentence " and it features one of the best marvel cinematic universe movie since the last guardians of the galaxy is a product " has a 40 % probability of being spam.
+33 % of sentences in chosen data set are classified as spam by us.

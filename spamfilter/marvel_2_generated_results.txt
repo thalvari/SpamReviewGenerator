@@ -1,0 +1,101 @@
+Sentence "disappointing at best the majority of the comedy in this movie is the action and iron mans suits still this movie is actually ok " has a 0 % probability of being spam.
+Sentence " this movie was as stupid as i thought it was very dull and boring " has a 1 % probability of being spam.
+Sentence " the controversial twist in the film does seem like a man who has better things to do " has a 0 % probability of being spam.
+Sentence " well i'm glad you asked because i don't know if marvel disney is willingly offensive or just obliviously offensive " has a 27 % probability of being spam.
+Sentence " the film takes pride hiding in its comfort zone and doesn't have the same rewatchable feeling that other mcu movies have " has a 3 % probability of being spam.
+Sentence " the film also features michael douglas as the original ant-man but this film does nothing on it's own " has a 0 % probability of being spam.
+Sentence " the story was a bit shallow but the visuals were great some scene were just absolutely terrific " has a 0 % probability of being spam.
+Sentence " i never was a huge fan of the ant-man when thanos invaded the planet and snapped his fingers " has a 29 % probability of being spam.
+Sentence " a big step down from the first movie and some of the funny moments " has a 15 % probability of being spam.
+Sentence " iron man 3 isnt terrible but it's the same kind of fun kind of lame " has a 0 % probability of being spam.
+Sentence " edward norton while a good actor does not make a good bruce banner " has a 60 % probability of being spam.
+Sentence " with stale humor and a forced plot it just didn't land many punches and in some cases was awkwardly over trying " has a 15 % probability of being spam.
+Sentence " this movie did a great job with him " has a 14 % probability of being spam.
+Sentence " it tried to top the first one but still really damn good " has a 0 % probability of being spam.
+Sentence " i did enjoy some of the humor does hit the rest of the mcu " has a 2 % probability of being spam.
+Sentence " scenes from trailer are also one of the worst ones that could have become of it " has a 30 % probability of being spam.
+Sentence " iron man on screen for the first time in a marvel film " has a 0 % probability of being spam.
+Sentence " iron man 2 is a boring mess which does not live up to the expectations i had going in but still quite enjoyable " has a 0 % probability of being spam.
+Sentence " the movie is really forgettable and is one of the good things that happens in this movie will surprise you in any considerable way " has a 1 % probability of being spam.
+Sentence " he was just there and it would've preferable if he wasn't a part of the main marvel universe " has a 3 % probability of being spam.
+Sentence " wicked twisted and fun iron man 3 is the worst film in the iron man trilogy " has a 0 % probability of being spam.
+Sentence " everything else is terrible one of the worst films of all time " has a 1 % probability of being spam.
+Sentence " the main villain is so predictable and out of place for a marvel movie " has a 7 % probability of being spam.
+Sentence " the ang lee version had many problems but in my opinion it's a very forgettable film " has a 1 % probability of being spam.
+Sentence " firstly this is not a bad movie but i was disappointed " has a 55 % probability of being spam.
+Sentence " the good guys beat the bad guys and save the world " has a 7 % probability of being spam.
+Sentence " the action is outshined by captain america civil war and that was far from what i received " has a 4 % probability of being spam.
+Sentence " the whole movie seemed like it was made for kids " has a 7 % probability of being spam.
+Sentence " however in spite of all that i just listed it was not a bad film but feels like it came off the disney conveyor belt " has a 0 % probability of being spam.
+Sentence " yeah it keeps things light-hearted but it was way too long for my attention to stay focused " has a 0 % probability of being spam.
+Sentence " tony is an idiot in this movie and i tried to like it i really did " has a 0 % probability of being spam.
+Sentence " not sure what tyler is doing in this movie and there was lots of laughter from the whole audience " has a 2 % probability of being spam.
+Sentence " it makes the film more unique from other marvel films and it's still passable entertainment but it's completely average " has a 1 % probability of being spam.
+Sentence " there's a lot of it but let's be real it's the worst so far in the marvel cinematic universe " has a 1 % probability of being spam.
+Sentence " judging by his previous projects i'm surprised that this movie got such good reviews " has a 12 % probability of being spam.
+Sentence " a hero like superman endures but i don't feel so good memes make sense " has a 13 % probability of being spam.
+Sentence " like the third installment of the cinematic universe " has a 5 % probability of being spam.
+Sentence " this movie was as stupid as i thought it would be so i give it a c " has a 2 % probability of being spam.
+Sentence " look this is a fun mindless summer flick that i know a lot of people liked quicksilver i don't know " has a 4 % probability of being spam.
+Sentence " it was fair but i wouldn't call him legendary here " has a 47 % probability of being spam.
+Sentence " i really like the first ant-man movie notably dumb and derivative the quintessential filler movie " has a 1 % probability of being spam.
+Sentence " because yes it felt like a dead horse " has a 1 % probability of being spam.
+Sentence " taylor-johnson is better but he can't get past the kurt russell poor and wooden acting " has a 8 % probability of being spam.
+Sentence " one thing about this film is it felt like it was missing a little something " has a 0 % probability of being spam.
+Sentence " the movie has a lot of dumb messages " has a 1 % probability of being spam.
+Sentence " to be honest i didn't really find that involving " has a 19 % probability of being spam.
+Sentence " the best thing that i can say about ant-man as i didn't grow up reading this particular comic " has a 0 % probability of being spam.
+Sentence " the only mcu movie i don't like this one very much " has a 45 % probability of being spam.
+Sentence " a lot of people liked quicksilver i don't know if i'll ever see again a huge disappointment " has a 32 % probability of being spam.
+Sentence " this movie suffers from having far too many characters and uneven focus a regular occurrence in game of thrones " has a 0 % probability of being spam.
+Sentence " first there's the subplot where tony stark is just a video game hero in this sequel " has a 4 % probability of being spam.
+Sentence " new characters were briefly introduced and in some cases was awkwardly over trying " has a 0 % probability of being spam.
+Sentence " really wanted it to be great but it doesn't happen in an overly telegraphed audience-patronizing way " has a 4 % probability of being spam.
+Sentence " marvel sometimes puts one-liners and bad second unit direction " has a 0 % probability of being spam.
+Sentence " rhodey never even killed anybody nor kicked ass in the iron patriot suit at nighttime in the third act in the docks " has a 4 % probability of being spam.
+Sentence " even if it may contain some pro-human message by the end of the movie and again it felt like a dead horse " has a 0 % probability of being spam.
+Sentence " basically almost every character regardless of the fact that the civil war film will take it far into that direction " has a 0 % probability of being spam.
+Sentence " fall a bit flat but maybe that's just because the mcu has terrible villains " has a 0 % probability of being spam.
+Sentence " many have lauded this movie's villain-hero dynamic as one of the best castings for marvel in scarlett johansson as black widow " has a 44 % probability of being spam.
+Sentence " i thought it could top the first avengers film this sequel leaves the viewer wanting a bit more " has a 0 % probability of being spam.
+Sentence " eric savin killian's sidekick steals the iron patriot suit and forces him to fly off to the docks " has a 1 % probability of being spam.
+Sentence " strange and stark exchange some funny lines but lots of inappropriate junk " has a 0 % probability of being spam.
+Sentence " paul rudd is really good but overall this movie doesn't have a lot going for it " has a 0 % probability of being spam.
+Sentence " to me the critical acclaim for this movie is just fine nothing special its just ok " has a 0 % probability of being spam.
+Sentence " then there is the disturbing side of tony stark as it is more about the man inside the suit " has a 0 % probability of being spam.
+Sentence " it tried to be cute and funny but it just didn't cut it for where the franchise has set the bar today " has a 12 % probability of being spam.
+Sentence " not as bad as iron man 2 but the tune its getting tired " has a 0 % probability of being spam.
+Sentence " it was interesting to fell sleepy for the most part been somewhat realistic and believable " has a 0 % probability of being spam.
+Sentence " the good guys beat the bad guys and save the world " has a 7 % probability of being spam.
+Sentence " the majority of the comedy in this movie is the action and iron mans suits still this movie is actually ok " has a 0 % probability of being spam.
+Sentence " more tony stark character development enjoyable but to me it wasn't a film that made you want to see more of them " has a 0 % probability of being spam.
+Sentence " was great and some action scenes were fun and rdj giving it all this movie is still alright to this point " has a 0 % probability of being spam.
+Sentence " it's not terrible by any means but the weakest of the phase one marvel movies " has a 11 % probability of being spam.
+Sentence " like its pint-sized superhero the film doesn't do so well with her is show us her pain " has a 0 % probability of being spam.
+Sentence " another disappointing factor was the action in this wasn't enough for me though " has a 0 % probability of being spam.
+Sentence " paul rudd michael pena are the only good actors characters in this movie are being broken like they were k-mart toys " has a 0 % probability of being spam.
+Sentence " i was thoroughly disappointed with this film the weakest of the iron man suits so crappy in this film " has a 0 % probability of being spam.
+Sentence " to me this is the worst film of the iron man suits so crappy in this film " has a 0 % probability of being spam.
+Sentence " i'm sorry to get political but i can't believe how may like this movie " has a 26 % probability of being spam.
+Sentence " i did enjoy some of the humor does hit the rest of the actors don't carry the african accent in their daily lives " has a 0 % probability of being spam.
+Sentence " the whitewashed miles morales paradigm of spider-man will probably be forgotten about in a relatively short period of time " has a 0 % probability of being spam.
+Sentence " again it's not one of the worst characters ever made " has a 20 % probability of being spam.
+Sentence " strange and stark exchange some funny lines but lots of inappropriate junk " has a 0 % probability of being spam.
+Sentence " review although this movie made a massive profit i really didn't like this one it's just a bore " has a 8 % probability of being spam.
+Sentence " overall it was an ok movie at best " has a 3 % probability of being spam.
+Sentence " in my opinion this movie could have been so much more " has a 35 % probability of being spam.
+Sentence " her acting in the action sequences were all lackluster " has a 0 % probability of being spam.
+Sentence " the general design of wakanda was great and the concept was something a little different " has a 0 % probability of being spam.
+Sentence " and for the first time i saw it i thought it was too long and boring " has a 4 % probability of being spam.
+Sentence " i didn't really get what was going on in the next avengers film " has a 2 % probability of being spam.
+Sentence " although entertaining and at times technically impressive the incredible hulk is possibly the most ideal version of the hulk looked more realistic " has a 0 % probability of being spam.
+Sentence " there are some great one-liners in this movie and is a complete 180 from her role in the first film " has a 1 % probability of being spam.
+Sentence " a hero like superman endures but i don't think i've ever remained completely focused watching this pile of trash " has a 8 % probability of being spam.
+Sentence " it's a good hulk movie but not a good sequel that disappoints the expectations and horrible villain " has a 9 % probability of being spam.
+Sentence " chemistry between characters just didn't seem to be able to watch it " has a 0 % probability of being spam.
+Sentence " spewing out bad military one-liners and bad second unit direction " has a 0 % probability of being spam.
+Sentence " yeah it keeps things light-hearted but it was way too long for my attention to stay focused " has a 0 % probability of being spam.
+Sentence " however my problem with spider-man being spider-man " has a 14 % probability of being spam.
+Sentence " one of the worst films of all time but it's just too ordinary and plays too safe " has a 45 % probability of being spam.
+Sentence " the final scene sets us up for a sequel where the ant-man when thanos invaded the planet and snapped his fingers " has a 0 % probability of being spam.
+2 % of sentences in chosen data set are classified as spam by us.

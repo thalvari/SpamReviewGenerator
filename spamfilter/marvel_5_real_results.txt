@@ -1,0 +1,101 @@
+Sentence "with only one hero to keep us entertained and a modest budget compared to some of the larger scale mcu films with dozens of heroes and significant dependency on cgi iron man still holds its own to this day and is without a doubt one of the best movies marvel studios has made " has a 1 % probability of being spam.
+Sentence " robert downey jr plays his role perfectly " has a 1 % probability of being spam.
+Sentence " his humor lightens up all the serious stuff going on in the movie " has a 17 % probability of being spam.
+Sentence " very interesting " has a 2 % probability of being spam.
+Sentence " amazing " has a 76 % probability of being spam.
+Sentence " tony stark is rdj " has a 3 % probability of being spam.
+Sentence " grade airon man is an intelligent and fun movie with a great story and awesome action " has a 6 % probability of being spam.
+Sentence " grade airon man is an intelligent and fun movie with a great script and fantastic action " has a 3 % probability of being spam.
+Sentence " before everyone gathered this was the beginning " has a 2 % probability of being spam.
+Sentence " one of the greatest superheroes movie all time is recognized for its classic elements and so-strong loneliness " has a 10 % probability of being spam.
+Sentence " robert downey jr " has a 50 % probability of being spam.
+Sentence " shows how a billionaire with his intelligence is able to describe whom actually the figure of the superhero the figure behind the costume in iron " has a 1 % probability of being spam.
+Sentence " with a continuous duration which was never boring iron man became one of the first mcu films start to everything with humor that was pretty funny and action that didn't exaggerate the cgi " has a 0 % probability of being spam.
+Sentence " iron man is a great way to start the marvel cinematic universe 95 100 " has a 36 % probability of being spam.
+Sentence " after years of crap super hero movies iron man reinvents the genre " has a 16 % probability of being spam.
+Sentence " it is to super hero films what alien was to space ones and jaws to " has a 18 % probability of being spam.
+Sentence " well " has a 40 % probability of being spam.
+Sentence " everything " has a 46 % probability of being spam.
+Sentence " amazing first entry into this amazing franchise " has a 61 % probability of being spam.
+Sentence " the first offering from marvel studios is still possibly its finest " has a 9 % probability of being spam.
+Sentence " robert downey jr " has a 50 % probability of being spam.
+Sentence " is letter perfect as tony stark " has a 52 % probability of being spam.
+Sentence " robert downey jr " has a 50 % probability of being spam.
+Sentence " is the perfect ironman " has a 83 % probability of being spam.
+Sentence " great film " has a 7 % probability of being spam.
+Sentence " wooooooooosuper hero never made in great circumstances " has a 59 % probability of being spam.
+Sentence " the movie that kicked off the entirety of the marvel cinematic universe still holds up great after ten years " has a 3 % probability of being spam.
+Sentence " the amazing action great plot and fantastic performances led by robert downey jr " has a 27 % probability of being spam.
+Sentence " makes this marvel movie one of the best " has a 65 % probability of being spam.
+Sentence " a " has a 50 % probability of being spam.
+Sentence " action-packed fun and exciting " has a 90 % probability of being spam.
+Sentence " the first installment in the mcu introduces us to the things that we love about mcu great action realistic cgi light tones and films that never feel exhausting " has a 2 % probability of being spam.
+Sentence " this movie was the perfect way to start the mcu " has a 87 % probability of being spam.
+Sentence " one of the best superheroes origin stories " has a 58 % probability of being spam.
+Sentence " the start of the superhero era " has a 20 % probability of being spam.
+Sentence " iron man brought a whole genre of film back to life and inspired many films alike " has a 0 % probability of being spam.
+Sentence " this film is destined to become a classic for its incredible accomplishments and outstanding content " has a 72 % probability of being spam.
+Sentence " still the greatest mcu movie " has a 66 % probability of being spam.
+Sentence " iron man is a fantastic masterpiece " has a 12 % probability of being spam.
+Sentence " it is one of the greatest superhero and comic book films ever made " has a 79 % probability of being spam.
+Sentence " this movie is a blast from beginning to end " has a 1 % probability of being spam.
+Sentence " robert downey jr " has a 50 % probability of being spam.
+Sentence " was born for the role of iron man tony stark " has a 0 % probability of being spam.
+Sentence " he is the perfect character for the main protagonist " has a 8 % probability of being spam.
+Sentence " when i first watched this movie i honestly had no idea about iron man and never even heard of that character before but this movie made me instantly love him " has a 0 % probability of being spam.
+Sentence " he is such an interesting character and robert downey jr " has a 0 % probability of being spam.
+Sentence " 's charisma and performance makes tony stark a " has a 2 % probability of being spam.
+Sentence " k " has a 50 % probability of being spam.
+Sentence " a " has a 50 % probability of being spam.
+Sentence " iron man even better and more beloved " has a 7 % probability of being spam.
+Sentence " robert downey jr " has a 50 % probability of being spam.
+Sentence " is the icing on the cake " has a 37 % probability of being spam.
+Sentence " jeff bridges as obadiah stane is a brilliant and perfect casting too " has a 14 % probability of being spam.
+Sentence " gwyneth paltrow is fine as virginia pepper potts " has a 7 % probability of being spam.
+Sentence " terrence howard is perfect as lt " has a 97 % probability of being spam.
+Sentence " col " has a 89 % probability of being spam.
+Sentence " james rhodey rhodes " has a 22 % probability of being spam.
+Sentence " the casting is great and perfect " has a 79 % probability of being spam.
+Sentence " the acting is great " has a 50 % probability of being spam.
+Sentence " the dialogue is great " has a 60 % probability of being spam.
+Sentence " the characters are great " has a 11 % probability of being spam.
+Sentence " the pacing is perfectly fine " has a 0 % probability of being spam.
+Sentence " the first act of the movie is tony stark getting kidnapped by a terrorist organization known as the ten rings " has a 0 % probability of being spam.
+Sentence " then the movie shows events of things that happened 48 ours before the incident and introduces us to the character of tony stark and his personality and what he's like as an arrogant smart handsome charming rich billionaire playboy genius and visionary who is also a ladies man " has a 0 % probability of being spam.
+Sentence " the movie did a fabulous job introducing tony stark to the audience and getting us to know the character " has a 0 % probability of being spam.
+Sentence " then back after the incident he is kidnapped in a cave in afghanistan by the terrorist organization the ten rings " has a 2 % probability of being spam.
+Sentence " he meets an old man with a lovely accent named ho yinsen " has a 7 % probability of being spam.
+Sentence " who is forced to make weapons for the ten rings " has a 2 % probability of being spam.
+Sentence " tony gets forced by the ten rings to build them a diabolical and powerful weapon known as the jerricho missile " has a 0 % probability of being spam.
+Sentence " while he and yinsen are in the cave tony makes an electromagnet and uses it as an artificial heart and puts it to cover the whole in his chest so he can stay alive " has a 0 % probability of being spam.
+Sentence " he then decides to build a weaponized armored suit and mask of iron to escape " has a 72 % probability of being spam.
+Sentence " yinsen agrees to help him " has a 40 % probability of being spam.
+Sentence " tony and yinsen eventually finish building the suit of iron " has a 0 % probability of being spam.
+Sentence " tony wears it and yinsen downloads the weapons system online for the suit but then the ten rings soldiers come to kill them before it finishes loading so yinsen buys stark some more time and grabs a gun and chases the two soldiers which ultimately led to his sacrifice after being outnumbered by a bunch of them unexpectedly " has a 0 % probability of being spam.
+Sentence " the weapons systems for the armor finally finish loading 100% " has a 0 % probability of being spam.
+Sentence " in the dark inside the cave tony suddenly kills the two soldiers that yinsen chased off by punching them so hard that one of them gets send flying away fast and knocks the other one down " has a 0 % probability of being spam.
+Sentence " he goes kill the other soldiers in the cave by hitting them so hard that they die " has a 2 % probability of being spam.
+Sentence " he finds yinsen lying on the ground dying and yells his name in shock of seeing him bleeding and dying while lying on the ground " has a 0 % probability of being spam.
+Sentence " he tries shooting a missile at raza the leader of the ten rings but he ends up shooting the missile at the part of the ceiling of cave which causes debris to fall on him that knocks him unconscious " has a 0 % probability of being spam.
+Sentence " yinsen dies and his death is pretty emotional " has a 4 % probability of being spam.
+Sentence " tony puts back on his iron helmet and walks outside the cave to kill the rest of the soldiers " has a 0 % probability of being spam.
+Sentence " when he makes it outside he stops for a few moments while they're shooting at him but the bullets are barely damaging the iron suit and helmet he's wearing " has a 2 % probability of being spam.
+Sentence " then he says in a deep and badass voice my turn and uses his flamethrowers from his suit to shoot fire at the soldiers and burn them all to death " has a 4 % probability of being spam.
+Sentence " he then also burns his stark weapons in that area that they bought from stark industries " has a 12 % probability of being spam.
+Sentence " the he causes so much fire that it surrounds him and he decides to escape by flying out of that area and he flies all the way up high in the air a few miles away from that area and then falls down on the ground so hard that the suit breaks apart in the sand that he landed on " has a 0 % probability of being spam.
+Sentence " rhodey and his air force unit find tony safe and alive and take him home in california " has a 1 % probability of being spam.
+Sentence " in the second act he goes to stark industries and makes a speech to the press and announces that he'll shut down the weapons manufacturing division of stark industries " has a 0 % probability of being spam.
+Sentence " his time in that cave really changed his life and had a huge impact on him " has a 6 % probability of being spam.
+Sentence " that is truly amazing character development " has a 9 % probability of being spam.
+Sentence " very great writing " has a 55 % probability of being spam.
+Sentence " he said i saw young americans die out there from the weapons i created to protect them " has a 0 % probability of being spam.
+Sentence " his view on weapons completely changed his point of view on weapons " has a 0 % probability of being spam.
+Sentence " so he decides to stop selling weapons " has a 16 % probability of being spam.
+Sentence " he became a changed man " has a 1 % probability of being spam.
+Sentence " stane is upset by this and wants stark industries to keep continuing making and selling weapons " has a 4 % probability of being spam.
+Sentence " so later at his house tony decides to secretly build a new suit of armor that's stable and flies properly which he labels as mark ii " has a 10 % probability of being spam.
+Sentence " he tests it out and wears the armor and flies out at night outside of his house high in the sky " has a 0 % probability of being spam.
+Sentence " it was such a cool and mind-blowing scene especially watching it for the very first time " has a 0 % probability of being spam.
+Sentence " later when he's sitting on his chair at his house he decides to try to solve the icing problem whenever he flies extremely high in the sky " has a 4 % probability of being spam.
+Sentence " he watches live tv and hears the anchorwoman mention him on television and says that no one expects an appearance from tony stark at the red carpet at the disney concert hall " has a 0 % probability of being spam.
+22 % of sentences in chosen data set are classified as spam by us.

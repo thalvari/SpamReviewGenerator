@@ -1,0 +1,101 @@
+Sentence "it was ok hotel is nice from in and out but room was small we paid for double bed bat they atteched 2 single bed " has a 0 % probability of being spam.
+Sentence " room was tiny-bed saggy-bathroom door didn't work " has a 26 % probability of being spam.
+Sentence " good breakfast and convenient location " has a 43 % probability of being spam.
+Sentence " wouldn't return or recommend " has a 10 % probability of being spam.
+Sentence " if you're looking for a hotel where the action is go elsewhere " has a 34 % probability of being spam.
+Sentence " the hotel is on the lido which is about a 10-15 minute waterbus ride away from venice " has a 86 % probability of being spam.
+Sentence " however if you're looking for a place on the lido this is a well-priced option " has a 42 % probability of being spam.
+Sentence " the staff was great with handling recommending dinner reservations even during an insane carnevale weekend " has a 0 % probability of being spam.
+Sentence " the doors are a little thin and since the building is old the soundproofing needs improvement " has a 73 % probability of being spam.
+Sentence " the quarters are cramped but the room comes with breakfast " has a 21 % probability of being spam.
+Sentence " if we wanted to stay on the lido again this would be a good option but next time i think we'll opt for a place closer to the action " has a 31 % probability of being spam.
+Sentence " recommended " has a 38 % probability of being spam.
+Sentence " we stayed here because of a family medical emergency " has a 76 % probability of being spam.
+Sentence " did not have any options for a room " has a 5 % probability of being spam.
+Sentence " we had the small queen room think it may have been laundry area previously " has a 20 % probability of being spam.
+Sentence " bed fair " has a 51 % probability of being spam.
+Sentence " room quite " has a 2 % probability of being spam.
+Sentence " was ok for one night " has a 2 % probability of being spam.
+Sentence " this hotel is near the stadium " has a 42 % probability of being spam.
+Sentence " price was ok " has a 48 % probability of being spam.
+Sentence " 99 plus tax " has a 92 % probability of being spam.
+Sentence " this is the old address for thunderbird " has a 87 % probability of being spam.
+Sentence " the new one is thunderbird school of global management1 global placeglendale az 85306-6000 usasee their website thunderbird " has a 22 % probability of being spam.
+Sentence " edu about thunderbird contact us " has a 59 % probability of being spam.
+Sentence " htm " has a 36 % probability of being spam.
+Sentence " the room was fine and the mattress was very comfortable " has a 2 % probability of being spam.
+Sentence " unfortunately i arrived while the front entrance was under-construction " has a 21 % probability of being spam.
+Sentence " there was not sufficient signage to find out how to enter the building " has a 65 % probability of being spam.
+Sentence " i would have left had i not already had a reservation through hotels " has a 7 % probability of being spam.
+Sentence " having never been to livermore imagine my shock when the 2nd floor balcony room overlooked a parking lot and a gas station with a jack in the box thrown in for good measure " has a 0 % probability of being spam.
+Sentence " i thought i was staying in wine country " has a 89 % probability of being spam.
+Sentence " it would also have been nice to know that it is under construction " has a 1 % probability of being spam.
+Sentence " granted i should have done more research but it was a last minute decision to go " has a 18 % probability of being spam.
+Sentence " the only good thing i could say is the bed was comfortable " has a 17 % probability of being spam.
+Sentence " if you are looking for a hotel right off of a freeway this one fits the bill although way overpriced " has a 5 % probability of being spam.
+Sentence " the bathroom sink splashes water need to be fixed " has a 29 % probability of being spam.
+Sentence " the bathtub shower make loud noises " has a 15 % probability of being spam.
+Sentence " other than that it was a good stay " has a 22 % probability of being spam.
+Sentence " nice in out along the freeway " has a 6 % probability of being spam.
+Sentence " i thought it was a little high for what it was " has a 39 % probability of being spam.
+Sentence " beds and pillows were nice " has a 2 % probability of being spam.
+Sentence " and the television was good as well " has a 22 % probability of being spam.
+Sentence " the pool was closed " has a 67 % probability of being spam.
+Sentence " all the rooms have been recently renovated " has a 72 % probability of being spam.
+Sentence " they are in the process of renovating the lobby area " has a 49 % probability of being spam.
+Sentence " the room was new and clean " has a 1 % probability of being spam.
+Sentence " the beds were very comfortable " has a 43 % probability of being spam.
+Sentence " the bed linen looks new too " has a 1 % probability of being spam.
+Sentence " its also nice to have electrical sockets at desk level and plenty of them " has a 5 % probability of being spam.
+Sentence " the breakfast was so so " has a 50 % probability of being spam.
+Sentence " eggs sausages and hashbrown no fruits but barely edible " has a 23 % probability of being spam.
+Sentence " the most convenient place to stay in livermor and where we will stay in the future " has a 91 % probability of being spam.
+Sentence " all was great until the heater ac came on " has a 14 % probability of being spam.
+Sentence " it sounded like a vacuum cleaner every time it turned on " has a 3 % probability of being spam.
+Sentence " waking me up over and over " has a 82 % probability of being spam.
+Sentence " the room would get to hot then to cold " has a 9 % probability of being spam.
+Sentence " had a horrible night sleep " has a 42 % probability of being spam.
+Sentence " vroom vroom " has a 50 % probability of being spam.
+Sentence " clean friendly comfy bed all ruined by a motel-6 quality wall unit " has a 8 % probability of being spam.
+Sentence " there's nothing wrong with the hotel except that there are flood lights shining in your window while you sleep and the curtains don't close " has a 1 % probability of being spam.
+Sentence " i really like the furniture the bedding was clean the pillows are great " has a 0 % probability of being spam.
+Sentence " next time i will ask for a room with windows on the other side " has a 10 % probability of being spam.
+Sentence " the hotel is under renovation so lobby and other areas were blocked off " has a 1 % probability of being spam.
+Sentence " room was very nice but breakfast were less than tasty " has a 1 % probability of being spam.
+Sentence " stayed here for a wedding weekend " has a 2 % probability of being spam.
+Sentence " easily accessible from the freeway 5min drive to downtown livermore good weekend stay for wine tasting or weddings not much of a view in any direction " has a 57 % probability of being spam.
+Sentence " rooms were clean with modern decor " has a 0 % probability of being spam.
+Sentence " parking was free " has a 76 % probability of being spam.
+Sentence " free continental breakfast " has a 91 % probability of being spam.
+Sentence " they were remodeling the dining area during our stay but it didn't bother us too much " has a 2 % probability of being spam.
+Sentence " super solid well-maintained but nothing to write home about " has a 77 % probability of being spam.
+Sentence " breakfast buffet while complimentary was pretty lackluster but a nice feature nonetheless " has a 1 % probability of being spam.
+Sentence " i expected more from a wyndham hotel " has a 15 % probability of being spam.
+Sentence " bathroom was very small not enough counter space for makeup bag and shaving kit " has a 92 % probability of being spam.
+Sentence " amenities were not replenished " has a 33 % probability of being spam.
+Sentence " had to ask for coffee replacements then were given single serve bags for a 4 cup coffee maker " has a 1 % probability of being spam.
+Sentence " coffee maker eventually replaced but i had to ask " has a 15 % probability of being spam.
+Sentence " twice " has a 10 % probability of being spam.
+Sentence " and the word suite " has a 62 % probability of being spam.
+Sentence " is not too accurate " has a 5 % probability of being spam.
+Sentence " the hotel was fine i with the shower specifically the shower head was cleaner it could you a thorough scrubbing and white vinegar cleaning " has a 0 % probability of being spam.
+Sentence " our room was on the ground floor facing the parking lot " has a 0 % probability of being spam.
+Sentence " this meant that any time our curtains were open we were on display for whoever was walking driving by " has a 0 % probability of being spam.
+Sentence " it also meant we couldn't safely leave our window s open at night and had to rely on the very very loud air conditioner " has a 4 % probability of being spam.
+Sentence " although outdated our room was very reasonable " has a 1 % probability of being spam.
+Sentence " there " has a 50 % probability of being spam.
+Sentence " rooms are very small especially for a family of 4 " has a 20 % probability of being spam.
+Sentence " beds were not very comfortable and the bathroom was also small straddle the toilet to close the door small " has a 21 % probability of being spam.
+Sentence " the pool area was not so great " has a 82 % probability of being spam.
+Sentence " hot tub was cloudy and the whole area had a septic smell " has a 69 % probability of being spam.
+Sentence " it was convenient a little noisy in the room with the traffic on the road room facing the front of the building " has a 3 % probability of being spam.
+Sentence " we stayed at this property to attend an event about 20 miles away " has a 96 % probability of being spam.
+Sentence " it's close to the highway which was convenient for us " has a 65 % probability of being spam.
+Sentence " room was quite comfortable and had relatively new furnishings " has a 1 % probability of being spam.
+Sentence " however upon arrival we were greeted by a large roll away bed standing on end i " has a 2 % probability of being spam.
+Sentence " e " has a 50 % probability of being spam.
+Sentence " it blocked part of the entry and wouldn't have fit in room if it were set up " has a 1 % probability of being spam.
+Sentence " when i went to front desk to see about having it removed i had to wait about 10 minutes for desk person who apparently was only staff person on duty and was working desk and dealing with room issues she went with me to room to remove bed " has a 3 % probability of being spam.
+Sentence " also lobby was a little iffy lobby restroom was not clean and there was a carpet runner in the lobby that was really several pieces of leftover wall-to-wall remnants that had been hand cut a bit tacky and a tripping hazard " has a 0 % probability of being spam.
+Sentence " finally a couple had a huge screaming fight in the middle of the night which i found quite disturbing because i was concerned it could turn violent not hotel's fault but still " has a 0 % probability of being spam.
+27 % of sentences in chosen data set are classified as spam by us.

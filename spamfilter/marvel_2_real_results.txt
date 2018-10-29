@@ -1,0 +1,101 @@
+Sentence "sci-fi blockbuster expect no less " has a 44 % probability of being spam.
+Sentence " it's ok i understand it's the birth of the mcu but it is kind of a cliche plotline when it comes to the villain " has a 15 % probability of being spam.
+Sentence " there still are some solid parts but none that really blew me away " has a 0 % probability of being spam.
+Sentence " the biggest mistake to me was casting an established actor in the lead role and that holds true for the dozens of marvel movies that have since followed " has a 19 % probability of being spam.
+Sentence " i don't think i would have cared much for iron man even with a different cast though anyways " has a 0 % probability of being spam.
+Sentence " the character is obnoxious and the story didn't speak to me " has a 1 % probability of being spam.
+Sentence " first and only viewing 10 27 2011 " has a 25 % probability of being spam.
+Sentence " we should've skipped the origin story " has a 1 % probability of being spam.
+Sentence " iron man is a movie about a war criminal that suddenly grows a guilty conscience when he finds out his weapons kill people " has a 0 % probability of being spam.
+Sentence " he then ends up creating his own villain who tries to kill him " has a 0 % probability of being spam.
+Sentence " what a good superhero " has a 27 % probability of being spam.
+Sentence " rdj was great the rest " has a 31 % probability of being spam.
+Sentence " not so great " has a 51 % probability of being spam.
+Sentence " pure cheese with all the bells and whistles of cgi thrown in " has a 34 % probability of being spam.
+Sentence " tony stark is a completely unbelievable arrogant and insincere character and it is quite mystifying to me how so many fans of the film were able to identify with him " has a 0 % probability of being spam.
+Sentence " comic book film fans are used to this sort of thing but i thoroughly disagree with the assertion that it would appeal to many people that aren't normally fans of this genre " has a 0 % probability of being spam.
+Sentence " while i appreciate the dazzling action scenes and downey's performance throughout stark's character development iron man needs to slow down and take time to hash out some details before trying to build suits from sand " has a 0 % probability of being spam.
+Sentence " recently watched it again and you know what " has a 24 % probability of being spam.
+Sentence " it's not as good as i remembered " has a 27 % probability of being spam.
+Sentence " every superhero has a story to begin with but i did not like this one a whole lot not a nuff action and fights so not my first pick " has a 0 % probability of being spam.
+Sentence " not my favorite iron man because it's all about introduction who the characters are how he became iron man there is just not enough fighting for me i thought " has a 0 % probability of being spam.
+Sentence " iron man is an above average comic book movie " has a 44 % probability of being spam.
+Sentence " i don't know if that's saying much " has a 16 % probability of being spam.
+Sentence " i enjoy it for what it is " has a 46 % probability of being spam.
+Sentence " it's a fun movie if you have a home theater system and sludge if you don't " has a 40 % probability of being spam.
+Sentence " the plot is full of holes and the action bits are bland compared to what has been seen of the character in past comics and cartoons " has a 0 % probability of being spam.
+Sentence " it's hard to cheer much for iron man when everything comes so easy for him he's just not a very likable or believable character " has a 1 % probability of being spam.
+Sentence " and that might be what's most wrong with iron man " has a 1 % probability of being spam.
+Sentence " in looking back at this film one can't help but not the sequels that came after and all the casting drama that followed " has a 36 % probability of being spam.
+Sentence " this film feels childish like it came out in the 90's " has a 1 % probability of being spam.
+Sentence " we have a setup of the origin of iron man but what really needed was a setup story of tony stark first " has a 0 % probability of being spam.
+Sentence " we jump right in and he has no troubles really in the world " has a 40 % probability of being spam.
+Sentence " he has no real conflict or struggles " has a 6 % probability of being spam.
+Sentence " even later his brilliant engineering skills just seem to come out of now where " has a 44 % probability of being spam.
+Sentence " it does not make him feel human " has a 12 % probability of being spam.
+Sentence " the characters in this movie are very bland " has a 12 % probability of being spam.
+Sentence " who do you connect with " has a 28 % probability of being spam.
+Sentence " the only ones that have a shred of connection are the terrorists and shaun toub as yinsen " has a 0 % probability of being spam.
+Sentence " i think kids like iron man because of the tech he has " has a 0 % probability of being spam.
+Sentence " or the attraction of dancing strippers of his own plane " has a 27 % probability of being spam.
+Sentence " but it's so shallow we don't care collectively about tony stark at all " has a 4 % probability of being spam.
+Sentence " then when you throw on the super suit he's lost even more " has a 58 % probability of being spam.
+Sentence " like i said earlier it's a fun turn your brain off for 2 hours kind of movie " has a 1 % probability of being spam.
+Sentence " the main villain is so predictable and out of place " has a 6 % probability of being spam.
+Sentence " what a waste of jeff freakin bridges " has a 46 % probability of being spam.
+Sentence " so much more could come out of it and the sequels improve on this but this first flight of iron man is just that a comic book movie for all the pains and praise that might bring " has a 13 % probability of being spam.
+Sentence " crank up that sound system baby " has a 4 % probability of being spam.
+Sentence " best actor gwyneth paltrow as pepper pottsthe obvious choice would be to pick robert downey jr " has a 3 % probability of being spam.
+Sentence " as iron man " has a 12 % probability of being spam.
+Sentence " but really he's just playing himself " has a 6 % probability of being spam.
+Sentence " or his onscreen persona much like matthew mcconaughey does in mcconaughey things " has a 4 % probability of being spam.
+Sentence " like bad car commercials " has a 46 % probability of being spam.
+Sentence " gwyneth paltrow has some character to her we learn things about her " has a 4 % probability of being spam.
+Sentence " she changes in the way she things about tony stark well at least a little " has a 0 % probability of being spam.
+Sentence " the other characters in the movie don't change at all they just do different things that's not character development " has a 0 % probability of being spam.
+Sentence " paltrow has an innocent quality and seems to glow on the screen " has a 16 % probability of being spam.
+Sentence " she's fun to watch " has a 72 % probability of being spam.
+Sentence " i wish she had more to do in the film " has a 48 % probability of being spam.
+Sentence " it's a shame she pretty much got axed out of the series " has a 1 % probability of being spam.
+Sentence " worst actor terrence howard as james rhodey rhodesit's no wonder why he was re-cast in the second film " has a 1 % probability of being spam.
+Sentence " spewing out bad military one-liners and flag waving propaganda is really not that hard " has a 0 % probability of being spam.
+Sentence " anybody on fox news does it every day " has a 49 % probability of being spam.
+Sentence " so why is watching him in this film so ear bleeding bad " has a 0 % probability of being spam.
+Sentence " we care nothing about him at all to boot " has a 5 % probability of being spam.
+Sentence " best scene big robot battlethe lead up is the big battle at the end " has a 0 % probability of being spam.
+Sentence " and while it's fun it's not really epic and kind of predictable " has a 4 % probability of being spam.
+Sentence " the fact that obadiah could build a more improved suit and bigger than iron man in a short amount of time " has a 7 % probability of being spam.
+Sentence " what seemed like mere hours in movie time is ridiculous " has a 27 % probability of being spam.
+Sentence " while we get the idea that stark's company is huge like wal-mart in scale " has a 24 % probability of being spam.
+Sentence " he builds the robot at the main plant right " has a 4 % probability of being spam.
+Sentence " how could tony not know about it or how could they figure out how to do that " has a 3 % probability of being spam.
+Sentence " lame " has a 8 % probability of being spam.
+Sentence " the most interesting character scenes are when obadiah comes in and paralyses tony with some weird men in black device " has a 0 % probability of being spam.
+Sentence " i think he steals something from him " has a 2 % probability of being spam.
+Sentence " i forgot " has a 13 % probability of being spam.
+Sentence " it's not important " has a 53 % probability of being spam.
+Sentence " well obadiah clearly wanted tony dead and just like 5 minutes later tries to kill him in the suit so why not just kill him right there on the couch " has a 0 % probability of being spam.
+Sentence " ugh " has a 37 % probability of being spam.
+Sentence " worse plot hole than a james bond villain " has a 0 % probability of being spam.
+Sentence " again potts sneaks into stark to steal plans or research and confronts obadiah " has a 78 % probability of being spam.
+Sentence " this is a fun scene you don't know what's going to happen " has a 13 % probability of being spam.
+Sentence " but he lets her go " has a 63 % probability of being spam.
+Sentence " again idiot " has a 27 % probability of being spam.
+Sentence " no wonder you are second in command " has a 1 % probability of being spam.
+Sentence " bridges character really needed a makeover and bigger motivation than greed " has a 0 % probability of being spam.
+Sentence " worst scene desert base buildingthe idea that stark could build an iron man suit in a cave in the middle of the desert under the cameras and watch of terrorists is absolutely crazy " has a 0 % probability of being spam.
+Sentence " at least take your audience out of the movie at the one hour mark not 10 minutes in " has a 54 % probability of being spam.
+Sentence " even then we are not seeing stark struggle with how to do this or planning it out " has a 1 % probability of being spam.
+Sentence " we are following the events through the terrorist eyes not stark " has a 27 % probability of being spam.
+Sentence " well the terrorist's names are not on the movie title " has a 92 % probability of being spam.
+Sentence " just dumb slog " has a 11 % probability of being spam.
+Sentence " improvementsi like to talk about how i would improve the movies i watch but this film has too many things to list " has a 1 % probability of being spam.
+Sentence " i would be here for hours " has a 86 % probability of being spam.
+Sentence " my brain hurts just thinking about it " has a 8 % probability of being spam.
+Sentence " just turn the surround sound up and enjoy the movie " has a 18 % probability of being spam.
+Sentence " pass the salt " has a 92 % probability of being spam.
+Sentence " hits cool action bits jeff freakin bridges " has a 0 % probability of being spam.
+Sentence " iron man on screen for the first time " has a 4 % probability of being spam.
+Sentence " misses obligatory iron man black sabbath song at the end " has a 1 % probability of being spam.
+Sentence " more plot holes than there are stars in our galaxy " has a 36 % probability of being spam.
+10 % of sentences in chosen data set are classified as spam by us.

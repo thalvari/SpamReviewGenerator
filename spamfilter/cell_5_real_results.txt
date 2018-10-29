@@ -1,0 +1,101 @@
+Sentence "these stickers work like the review says they do " has a 8 % probability of being spam.
+Sentence " they stick on great and they stay on the phone " has a 34 % probability of being spam.
+Sentence " they are super stylish and i can share them with my sister " has a 93 % probability of being spam.
+Sentence " these are awesome and make my phone look so stylish " has a 50 % probability of being spam.
+Sentence " i have only used one so far and have had it on for almost a year " has a 16 % probability of being spam.
+Sentence " can you believe that " has a 64 % probability of being spam.
+Sentence " one year " has a 75 % probability of being spam.
+Sentence " great quality " has a 78 % probability of being spam.
+Sentence " awesome " has a 49 % probability of being spam.
+Sentence " stays on and looks great " has a 2 % probability of being spam.
+Sentence " can be used on multiple apple products " has a 18 % probability of being spam.
+Sentence " especially having nails it helps to have an elevated key " has a 0 % probability of being spam.
+Sentence " came just as described " has a 56 % probability of being spam.
+Sentence " it doesn't come unstuck and its cute " has a 21 % probability of being spam.
+Sentence " people ask where i got them from it's great when driving " has a 12 % probability of being spam.
+Sentence " good case solid build " has a 5 % probability of being spam.
+Sentence " protects phone all around with good access to buttons " has a 63 % probability of being spam.
+Sentence " battery charges with full battery lasts me a full day " has a 65 % probability of being spam.
+Sentence " i usually leave my house around 7am and return at 10pm " has a 17 % probability of being spam.
+Sentence " i'm glad that it lasts from start to end " has a 57 % probability of being spam.
+Sentence " 5 5 " has a 50 % probability of being spam.
+Sentence " this is a fantastic case " has a 45 % probability of being spam.
+Sentence " very stylish and protects my phone " has a 45 % probability of being spam.
+Sentence " easy access to all buttons and features without any loss of phone reception " has a 100 % probability of being spam.
+Sentence " but most importantly it double power just as promised " has a 23 % probability of being spam.
+Sentence " great buy " has a 88 % probability of being spam.
+Sentence " this case fits perfectly on the s4 and keeps me powerd all day i can't complain " has a 2 % probability of being spam.
+Sentence " a recommend it to all " has a 10 % probability of being spam.
+Sentence " this is the first battery case i have had for my galaxy s4 " has a 15 % probability of being spam.
+Sentence " the s4 fits very well is slim and doesn't add much weight to the galaxy s4 " has a 93 % probability of being spam.
+Sentence " it doubles the battery life " has a 48 % probability of being spam.
+Sentence " you can charge either the battery the phone or both " has a 56 % probability of being spam.
+Sentence " there is a handy on-off switch with leds to indicate the level of charge " has a 42 % probability of being spam.
+Sentence " the battery case came on time and was packaged well " has a 4 % probability of being spam.
+Sentence " well worth the price " has a 83 % probability of being spam.
+Sentence " performs exactly as advertised " has a 57 % probability of being spam.
+Sentence " it's very sturdily built and provides lots of boost " has a 0 % probability of being spam.
+Sentence " it does exactly what it's supposed too " has a 11 % probability of being spam.
+Sentence " easy to insert phone in and out " has a 73 % probability of being spam.
+Sentence " definitely a 5 star experience " has a 4 % probability of being spam.
+Sentence " don't know what i would do without this case love love love it " has a 15 % probability of being spam.
+Sentence " unlike most of the rechargeable battery cases powerbear lasts up to 2 whole days " has a 23 % probability of being spam.
+Sentence " it doesn't heat up like most of the other ones and i was completely fascinated by the ultra light and sleek design for the case " has a 0 % probability of being spam.
+Sentence " before i was using the mophie case but i couldn't wear it often because it was like having a hot brick in your pocket hence i had to always leave it at home " has a 96 % probability of being spam.
+Sentence " on the contrary with powerbear i never take it off because i can't even tell the difference " has a 12 % probability of being spam.
+Sentence " also it is build in a super strong manner and even though i dropped my phone a few times its shock resistant technology won't let a single thing happen to the case or the phone " has a 0 % probability of being spam.
+Sentence " the powerbear case became an extension to my phone that i never have to take off because when i charge it at night it charges both my phone and the case and i have battery life for more than two days " has a 52 % probability of being spam.
+Sentence " i was also shocked to hear all the positive compliments i was hearing from people at my job fitness center and throughout the community " has a 34 % probability of being spam.
+Sentence " everybody was loving the case and what they don't know is that it cost me 60 % cheaper then all the other brand " has a 48 % probability of being spam.
+Sentence " this is the best purchase i've made on the internet and i am going to buy more for my family in time for the holidays " has a 100 % probability of being spam.
+Sentence " thank you powerbear " has a 86 % probability of being spam.
+Sentence " just what i needed " has a 43 % probability of being spam.
+Sentence " i needed a phone case for myself and my two sons but i also needed new replacement batteries " has a 70 % probability of being spam.
+Sentence " now this isn't the case since i got both in one " has a 19 % probability of being spam.
+Sentence " awesome thanks a " has a 21 % probability of being spam.
+Sentence " when there is no outlets or chargers near by its powerbear to the rescue " has a 3 % probability of being spam.
+Sentence " ordered one for my husband and myself " has a 94 % probability of being spam.
+Sentence " great purchase " has a 95 % probability of being spam.
+Sentence " it works great " has a 44 % probability of being spam.
+Sentence " doesn't heat up like crazy like the other ones i got and cheaper too " has a 0 % probability of being spam.
+Sentence " its definetly the best power case for the s4 you can get thats why i got one for me and my wife " has a 1 % probability of being spam.
+Sentence " i wonder why its called power bear " has a 0 % probability of being spam.
+Sentence " surprisingly this inexpensive version works just as well and just as reliably as the expensive variety " has a 14 % probability of being spam.
+Sentence " it has been working for me for months now " has a 67 % probability of being spam.
+Sentence " no problem " has a 16 % probability of being spam.
+Sentence " excellent value " has a 90 % probability of being spam.
+Sentence " i have tested this against the griffin dual output unit " has a 0 % probability of being spam.
+Sentence " i checked the charging current " has a 6 % probability of being spam.
+Sentence " this unit was charging my galaxy note battery with 70 ma " has a 3 % probability of being spam.
+Sentence " griffin was charging with 40 ma " has a 4 % probability of being spam.
+Sentence " and the griffin was 4 times more expensive " has a 14 % probability of being spam.
+Sentence " i have not used these for very long " has a 24 % probability of being spam.
+Sentence " i bought 15 of them because they are so cheap and because they actually do seem to provide high current " has a 51 % probability of being spam.
+Sentence " no idea how long they last " has a 21 % probability of being spam.
+Sentence " i assume they will work fine " has a 3 % probability of being spam.
+Sentence " i have not been using them much " has a 28 % probability of being spam.
+Sentence " i did the testing just to stock up on a high current charger " has a 56 % probability of being spam.
+Sentence " this passed and i stocked up " has a 74 % probability of being spam.
+Sentence " i love that it has two ports for my phone and ipod " has a 16 % probability of being spam.
+Sentence " who wants to be putting too many things in one socket " has a 0 % probability of being spam.
+Sentence " sleek and convenient to store and i just love it " has a 71 % probability of being spam.
+Sentence " just what you need i am always having to charge my phone and then find i have another item to charge also " has a 87 % probability of being spam.
+Sentence " i bought this a little skeptical " has a 41 % probability of being spam.
+Sentence " after i tried it i bought two more " has a 33 % probability of being spam.
+Sentence " it works great and so far it has lasted for about 3 months " has a 18 % probability of being spam.
+Sentence " if that changes i will update this review " has a 2 % probability of being spam.
+Sentence " this is a terribly awesome product in my subaru's console " has a 36 % probability of being spam.
+Sentence " passengers love it i love it because it emits a blue glow because it has held up to abuse over the years and performs like new " has a 8 % probability of being spam.
+Sentence " i've bough a munch of different things like this over the years " has a 11 % probability of being spam.
+Sentence " most wouldn't stay in the jack or would give out after a few days " has a 23 % probability of being spam.
+Sentence " this one is great " has a 51 % probability of being spam.
+Sentence " it works great i like i can charge two thing at the same now i dont have to wait for my to finish charging her phone " has a 2 % probability of being spam.
+Sentence " purchased two and we put one in each car " has a 99 % probability of being spam.
+Sentence " now we charge our ipad and iohone together " has a 83 % probability of being spam.
+Sentence " can also use to power my galaxy note 2 or recharge other usb devices " has a 0 % probability of being spam.
+Sentence " if you have to think about it you need counseling " has a 62 % probability of being spam.
+Sentence " great charger for 2 devices and i haven't had any problems so far 3yrs now " has a 2 % probability of being spam.
+Sentence " i bought this to charge my iphone and tablet in the car " has a 99 % probability of being spam.
+Sentence " works for iphone but not the tablet " has a 43 % probability of being spam.
+Sentence " i needed a stronger charge for that but this is still great for both iphoe and ipod together " has a 26 % probability of being spam.
+36 % of sentences in chosen data set are classified as spam by us.

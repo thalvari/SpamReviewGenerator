@@ -1,0 +1,101 @@
+Sentence "iron man works because of two reasons the storyline flows smoothly and the powerhouse performance of robert downey jr " has a 4 % probability of being spam.
+Sentence " as the titular iron man tony stark " has a 0 % probability of being spam.
+Sentence " the charisma of downey jr " has a 76 % probability of being spam.
+Sentence " coupled with a great emphasis on character development makes iron man one of the best superhero avatars of all time " has a 0 % probability of being spam.
+Sentence " the non-suited human element of a superhero film should be interesting in someway be it his sorrow or travails or in his embodiment of a larger than life cool figure and this is a fact many films do not foresee or even realize " has a 0 % probability of being spam.
+Sentence " jon favreau has crafted a great movie and robert downey jr " has a 13 % probability of being spam.
+Sentence " is so good you cannot picture anyone else play him " has a 2 % probability of being spam.
+Sentence " the film is fun in a charming way and the action pieces are embedded to flow the story and not as a stopover for special effect show-off " has a 1 % probability of being spam.
+Sentence " the side parts are played well by everyone involved from gwyneth paltrow to terrence howard " has a 1 % probability of being spam.
+Sentence " its been ten years since iron man was released and so much has happened both in his journey and the ascent of superhero movies but the first film remains a pinnacle " has a 0 % probability of being spam.
+Sentence " probably the first great superhero film for the masses " has a 0 % probability of being spam.
+Sentence " the film which kickstarted the marvel cinematic universe so successfully and which gave robert downey jr " has a 1 % probability of being spam.
+Sentence " the ultimate big screen comeback " has a 21 % probability of being spam.
+Sentence " downey jr " has a 76 % probability of being spam.
+Sentence " and tony stark are one and the same with one of the best casting choices i've ever seen " has a 0 % probability of being spam.
+Sentence " jon favreau confidently directs the film which works well as a great solo adventure but also serves as a starting point for some rather big things to come " has a 0 % probability of being spam.
+Sentence " the movie is mu and entertained and it works very well it's a good start for the marvel cinematographic universe " has a 37 % probability of being spam.
+Sentence " the performance of robert downey was brilliant " has a 13 % probability of being spam.
+Sentence " enjoyed my time watching " has a 20 % probability of being spam.
+Sentence " iron man is a great superhero movie and sadly the reason there was an explosion of superhero films back then which never seems to end " has a 0 % probability of being spam.
+Sentence " as a standalone this is a great film about tony stark and his origins " has a 0 % probability of being spam.
+Sentence " played superbly by robert downey jr " has a 14 % probability of being spam.
+Sentence " and ably assisted by jon favreau iron man seems like a derelict of the past when viewed through the lens of 2018 " has a 0 % probability of being spam.
+Sentence " but this straightforward no nonsense tale about a wisecracking billionaire tech genius will keep you enthralled " has a 11 % probability of being spam.
+Sentence " very watchable its funny fresh and a good start to the mcu " has a 3 % probability of being spam.
+Sentence " iron man is unarguably one of the best movies of mcu which started the whole mcu which is a smart and sarcastically funny from time to time with great performance by rdj " has a 1 % probability of being spam.
+Sentence " it was the shot that started it all " has a 25 % probability of being spam.
+Sentence " the mcu has grabbed nearly 17 billion in the box offices and it all started here " has a 7 % probability of being spam.
+Sentence " i think the rt and audience score is a little high but it is a solid b and on a good day a b " has a 1 % probability of being spam.
+Sentence " the bad guys could have been stronger but the stabbing in the back aspect is very cool " has a 0 % probability of being spam.
+Sentence " don't get me wrong this is a great film and a great way to start the mcu but to be honest this movie is overrated because of the that " has a 4 % probability of being spam.
+Sentence " some parts get you excited others are just boring " has a 2 % probability of being spam.
+Sentence " all previous marvel movies have been horrible but iron man undoubtedly astonishes " has a 35 % probability of being spam.
+Sentence " it's a good movie but the plot needs work " has a 56 % probability of being spam.
+Sentence " jeff bridges is terrible at the least in the role of obadiah stane and war machine isn't in the movie " has a 0 % probability of being spam.
+Sentence " tony stark robert downey jr " has a 3 % probability of being spam.
+Sentence " hides his identity " has a 68 % probability of being spam.
+Sentence " gwneyth paltrow and jon favreau are bright spots " has a 1 % probability of being spam.
+Sentence " downey did a good job but the plot needs direction and a better villain " has a 4 % probability of being spam.
+Sentence " the third act is horrible " has a 43 % probability of being spam.
+Sentence " this movie has amazing performances great effects and fantastic action " has a 60 % probability of being spam.
+Sentence " the villain is a bit " has a 15 % probability of being spam.
+Sentence " meh " has a 50 % probability of being spam.
+Sentence " but that doesn't take away the fun to be had " has a 64 % probability of being spam.
+Sentence " great start to the franchise " has a 88 % probability of being spam.
+Sentence " bit of a nothing film building up to iron man 2 " has a 0 % probability of being spam.
+Sentence " watchable though " has a 20 % probability of being spam.
+Sentence " witty unique compelling and openly satisfying iron-man opens up the marvel cinematic universe in style with a sassy pitch-perfect performance from lead actor robert downey jr " has a 0 % probability of being spam.
+Sentence " boring at times but still a very well done film by jon favreau " has a 0 % probability of being spam.
+Sentence " robert downey jr makes his comeback roll " has a 52 % probability of being spam.
+Sentence " story and characters that we should see grow for future films " has a 2 % probability of being spam.
+Sentence " the first half of this movie had purpose there was a reason for each action " has a 49 % probability of being spam.
+Sentence " the villain obadiah is pure evil i just don't understand why " has a 1 % probability of being spam.
+Sentence " i wish marvel would learn that villains need characterization too " has a 98 % probability of being spam.
+Sentence " otherwise this movie was captivating with the creation of iron man " has a 1 % probability of being spam.
+Sentence " this movie was awesome until they had to rush in a terrible 3rd act " has a 92 % probability of being spam.
+Sentence " title iron manstory writing message plot 4character acting 3music sound 3cinematography editing 4age originality 4total 18 25 " has a 6 % probability of being spam.
+Sentence " iron man is best when it strays away from the genre formula such as taking a bad guy or at least indifferent guy and making him care but without any of the angst or melodrama that often plagues the genre and the reverse-gender taming of the shrew by paltrow's long-suffering love interest " has a 0 % probability of being spam.
+Sentence " sadly these strong characters are contrasted by a cackling cartoon of an antagonist " has a 4 % probability of being spam.
+Sentence " the combination results in a highly entertaining first two-thirds things fall apart by the third act when the villainous plot comes to the fore and things become by-the-numbers hammy and lacking in suspense " has a 1 % probability of being spam.
+Sentence " the film took its time in developing the character before a bunch of action " has a 0 % probability of being spam.
+Sentence " a must see for fans of the genre " has a 17 % probability of being spam.
+Sentence " incredibly solid and entertaining movie that holds up years later " has a 91 % probability of being spam.
+Sentence " rdj is perfect in his role and carries almost the whole film on his back " has a 1 % probability of being spam.
+Sentence " better action sequences and a better villain would've made me rate this film higher " has a 0 % probability of being spam.
+Sentence " as it is the action sequences are just alright and obadiah is a pretty weak villain " has a 0 % probability of being spam.
+Sentence " the ending fight between tony and obadiah was meh " has a 0 % probability of being spam.
+Sentence " there's some cheesy product placement thanks to burger king that really detracts from a big moment in the movie when tony stark returns to the u " has a 0 % probability of being spam.
+Sentence " s " has a 50 % probability of being spam.
+Sentence " and announces he's going to stop making weapons for sale " has a 9 % probability of being spam.
+Sentence " as usual there is a black sidekick for the white lead character " has a 1 % probability of being spam.
+Sentence " on the other hand tony and yinsen's final scene together was unexpectedly moving and i also liked that tony stark's transformation from weapons-dealing playboy to hero was actually believable given what happened to him in the movie " has a 0 % probability of being spam.
+Sentence " a very workable film version with downey jr " has a 3 % probability of being spam.
+Sentence " as a great choice to play tony stark " has a 4 % probability of being spam.
+Sentence " the key problem was having stane as the main villain for this first iron man flick " has a 0 % probability of being spam.
+Sentence " they should have chosen someone else because it simply didn't work for stane was a cerebral character and not what you want in today's cinematic experience that involves bigger faster and better technology to mesmerize the audience " has a 0 % probability of being spam.
+Sentence " enjoyable for the most part with some down sides otherwise amazing film and great start for the mcu " has a 1 % probability of being spam.
+Sentence " hard to say should i rate 3 " has a 41 % probability of being spam.
+Sentence " 5 or 4 " has a 50 % probability of being spam.
+Sentence " it's somewhere in that area " has a 6 % probability of being spam.
+Sentence " fantastic start to the mcu and great performances all round most noticeably robert downey jr " has a 56 % probability of being spam.
+Sentence " 3 " has a 50 % probability of being spam.
+Sentence " 5 5 " has a 50 % probability of being spam.
+Sentence " an okay at best superhero origin story but unmemorable at the end of the day " has a 6 % probability of being spam.
+Sentence " when marvel started to show the world how to make a silly yet entertaining superhero movie " has a 7 % probability of being spam.
+Sentence " enjoyable enough with an agreeably offbeat lead performance from robery downey jr " has a 27 % probability of being spam.
+Sentence " and an unusually engaging performance from gwyneth paltrow before she's made to cower and whimper as women in action movies are wont to do " has a 47 % probability of being spam.
+Sentence " but that's a different story " has a 7 % probability of being spam.
+Sentence " pity the latter half of the movie amounts to typical nonsensical action movie plotting and requires the usually skilful jeff bridges to scream his lines to show how bad in both senses of the word a villain he is " has a 0 % probability of being spam.
+Sentence " still the bench-mark from which all marvel films are judged " has a 7 % probability of being spam.
+Sentence " impeccable casting that is still yielding dividends " has a 11 % probability of being spam.
+Sentence " not as good as everyone says it is but it is still a exelent example of character building and is a great starting point for the mcu marvel cinematic universe " has a 0 % probability of being spam.
+Sentence " robert downey jr " has a 50 % probability of being spam.
+Sentence " sort of plays himself and it works " has a 1 % probability of being spam.
+Sentence " iron man is a very confident movie and has every reason to be " has a 42 % probability of being spam.
+Sentence " downey jr " has a 76 % probability of being spam.
+Sentence " 's stark is charming and interesting yet the confused-superhero card is not overplayed " has a 2 % probability of being spam.
+Sentence " his transformation to iron man is engrossing and awe-inspiring in terms of both visuals and storytelling " has a 3 % probability of being spam.
+Sentence " and yet you will find moments where his efforts fall flat in highly amusing ways " has a 1 % probability of being spam.
+Sentence " next to the gripping action and the subversive humour you will not find melodramatic filler but biting commentary on the gun industry " has a 82 % probability of being spam.
+19 % of sentences in chosen data set are classified as spam by us.

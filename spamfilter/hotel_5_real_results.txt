@@ -1,0 +1,101 @@
+Sentence "really lovely hotel " has a 4 % probability of being spam.
+Sentence " stayed on the very top floor and were surprised by a jacuzzi bath we didn't know we were getting " has a 3 % probability of being spam.
+Sentence " staff were friendly and helpful and the included breakfast was great " has a 6 % probability of being spam.
+Sentence " great location and great value for money " has a 94 % probability of being spam.
+Sentence " didn't want to leave " has a 66 % probability of being spam.
+Sentence " we stayed here for four nights in october " has a 18 % probability of being spam.
+Sentence " the hotel staff were welcoming friendly and helpful " has a 3 % probability of being spam.
+Sentence " assisted in booking tickets for the opera " has a 75 % probability of being spam.
+Sentence " the rooms were clean and comfortable good shower light and airy rooms with windows you could open wide " has a 2 % probability of being spam.
+Sentence " beds were comfortable " has a 46 % probability of being spam.
+Sentence " plenty of choice for breakfast " has a 50 % probability of being spam.
+Sentence " spa at hotel nearby which we used while we were there " has a 4 % probability of being spam.
+Sentence " we stayed here for four nights in october " has a 18 % probability of being spam.
+Sentence " the hotel staff were welcoming friendly and helpful " has a 3 % probability of being spam.
+Sentence " assisted in booking tickets for the opera " has a 75 % probability of being spam.
+Sentence " the rooms were clean and comfortable good shower light and airy rooms with windows you could open wide " has a 2 % probability of being spam.
+Sentence " beds were comfortable " has a 46 % probability of being spam.
+Sentence " plenty of choice for breakfast " has a 50 % probability of being spam.
+Sentence " spa at hotel nearby which we used while we were there " has a 4 % probability of being spam.
+Sentence " we loved staying on the island of lido " has a 42 % probability of being spam.
+Sentence " you need to take a water is from venice to get there " has a 14 % probability of being spam.
+Sentence " from the train station a boat ride takes 45 minutes but has beautiful views along the way " has a 6 % probability of being spam.
+Sentence " hotel is an easy walk from the boat dock " has a 78 % probability of being spam.
+Sentence " the room was very clean and the breakfast was plentiful " has a 1 % probability of being spam.
+Sentence " we would definitely recommend this hotel " has a 2 % probability of being spam.
+Sentence " we had absolutely no problems whatsoever with this hotel and were very pleasantly surprised by the quality considering the low price " has a 100 % probability of being spam.
+Sentence " the dcor of the room was pleasant and flawless unlike many of the venice hotels i've stayed in " has a 2 % probability of being spam.
+Sentence " the breakfast buffet was delicious too " has a 51 % probability of being spam.
+Sentence " and to finish all this off the staff couldn't have been friendlier or more helpful " has a 3 % probability of being spam.
+Sentence " in terms of location the hotel is about 10 minutes walk from the lido waterbus stop then a boat takes around 15 mins to get into venice " has a 25 % probability of being spam.
+Sentence " we didn't find this a problem at all we knew this was going to be the case so had pre-booked transport tickets to save money " has a 75 % probability of being spam.
+Sentence " the surrounding lido is pleasant and worth an explore in a spare couple of hours " has a 9 % probability of being spam.
+Sentence " in conclusion i would book this again due to the fantastic quality of the hotel despite the trade-off of not being in venice itself " has a 61 % probability of being spam.
+Sentence " lovely hotel 10 min walk to the water bus stop on lido " has a 0 % probability of being spam.
+Sentence " away from the madness of venice but close enough to be there in less than 20 minutes " has a 40 % probability of being spam.
+Sentence " located on the lido i would recommend this hotel if you require a little piece and quiet after the busy day's in venice facility's good staff very friendly and very helpful " has a 0 % probability of being spam.
+Sentence " i requested flowers for the room as it was one of my wife's special birthday's and yes they ordered exactly as requested can't ask for more " has a 99 % probability of being spam.
+Sentence " rooms are a little on the small side but in line with most european hotels of this standard so wasn't a surprise or a problem room and bathroom was cleaned every day with fresh towels supplied each day " has a 1 % probability of being spam.
+Sentence " buffet breakfast had various options to suit most peoples taste but it was a surprise to see sausage bacon and scrambled eggs available must have been put on to satisfy us brits " has a 32 % probability of being spam.
+Sentence " we stayed during late september so the lido is probably quieter at that time however we felt very safe walking around late at night back to the hotel but taxis are available if you feel a little vulnerable " has a 0 % probability of being spam.
+Sentence " restaurants and coffee bars are located in the main commercial area close to the waterbus stations and tend to be slightly cheaper than in venice " has a 0 % probability of being spam.
+Sentence " we had a water taxi think luxury speed boat " has a 0 % probability of being spam.
+Sentence " from the airport to the hotel and back again quite an experience a little costly but well worth it a lot quicker and less hassle than the waterbus " has a 29 % probability of being spam.
+Sentence " venice was very busy during the day time st marks square at night is a must fantastic atmosphere " has a 25 % probability of being spam.
+Sentence " all in all we had a great time in venice it can be a little expensive so don't ponder over the bills to much just pay up with a smile " has a 98 % probability of being spam.
+Sentence " stayed with parents wife twin toddlers in two triple rooms " has a 27 % probability of being spam.
+Sentence " the hotel is easy to reach and the rooms were well placed well furnished " has a 50 % probability of being spam.
+Sentence " the best feature was extremely friendly helpful staff particularly ms " has a 5 % probability of being spam.
+Sentence " annalucia ms " has a 51 % probability of being spam.
+Sentence " anna who were always ready to listen help out with big smiles " has a 25 % probability of being spam.
+Sentence " the breakfasts were very good with good spread and the guests were made welcome to sit and eat at leisure more important when you are with toddlers " has a 0 % probability of being spam.
+Sentence " would surely go back to venice would happily stay again at russo palace " has a 24 % probability of being spam.
+Sentence " really enjoyed the stay about a 10min walk to the main waterbus station " has a 0 % probability of being spam.
+Sentence " had the perfect quiet location and staff were really friendly " has a 4 % probability of being spam.
+Sentence " great hotel staff where amazing and the location and views make this a great base to visit venice " has a 60 % probability of being spam.
+Sentence " nice staff " has a 6 % probability of being spam.
+Sentence " nice location " has a 4 % probability of being spam.
+Sentence " we booked two nights at russo hotel on lido strip and two nights in the very center of venice " has a 13 % probability of being spam.
+Sentence " this is a good balance " has a 21 % probability of being spam.
+Sentence " lido is a bit further but it feels more local and is more relaxing too it gave us a taste of dolce vita " has a 23 % probability of being spam.
+Sentence " we didn't see it on the hotel description but they offered us a taxi boat ride to murano with another couple for free " has a 40 % probability of being spam.
+Sentence " the boat ride was very pleasant they dropped us in a glass blowing factory shop the glass making demonstration was nice and there was very little pressure to buy " has a 13 % probability of being spam.
+Sentence " internet was free for 20 minutes day but a bit slow like everywhere in venice " has a 77 % probability of being spam.
+Sentence " so in short a good pick good value for money " has a 35 % probability of being spam.
+Sentence " we had a wonderful relaxing time " has a 83 % probability of being spam.
+Sentence " the staff were completely attentive and accommodating " has a 45 % probability of being spam.
+Sentence " we had a corner king room with a kitchen two patios and a deluxe bathroom " has a 6 % probability of being spam.
+Sentence " you had to drive into town but they said that uber is available if you need it " has a 51 % probability of being spam.
+Sentence " this was our first visit to palm springs and hopefully not our last " has a 61 % probability of being spam.
+Sentence " it really " has a 17 % probability of being spam.
+Sentence " we were in palm springs on the day the temperature was 123 degrees " has a 8 % probability of being spam.
+Sentence " despite that we had a wonderful stay because of the little paradise hotel " has a 54 % probability of being spam.
+Sentence " the staff were friendly and accommodating and all of the little complimentary touches were so nice like a bottle of wine for us in the fridge sun care products near the pool and a " has a 21 % probability of being spam.
+Sentence " we arrived in palm springs not sure what to expect " has a 82 % probability of being spam.
+Sentence " it's a quiet kinda place in low season' " has a 18 % probability of being spam.
+Sentence " we drove down what appeared to be a residential street " has a 17 % probability of being spam.
+Sentence " parked up at a wooden gate and weren't sure what to expect " has a 34 % probability of being spam.
+Sentence " what awaited took us back in amazement " has a 40 % probability of being spam.
+Sentence " the room is spacious with an air of decadence " has a 20 % probability of being spam.
+Sentence " the welcome wine and comprehensive breakfast was more than " has a 91 % probability of being spam.
+Sentence " this place really is a little paradise " has a 18 % probability of being spam.
+Sentence " a beautiful boutique style hotel with everything meticulously thought out to make our vacation perfect " has a 71 % probability of being spam.
+Sentence " saltwater pool fresh fruit best showerhead i've ever experienced i can go on and on " has a 94 % probability of being spam.
+Sentence " the bed was so comfortable and we slept like babies " has a 45 % probability of being spam.
+Sentence " victor did a wonderful job and judy was just lovely and personable " has a 22 % probability of being spam.
+Sentence " spent 3 nights at little paradise boutique hotel on a mother-daughter trip " has a 43 % probability of being spam.
+Sentence " wonderful and relaxing experience " has a 79 % probability of being spam.
+Sentence " clean and newly redone rooms that are well equipped and spacious " has a 1 % probability of being spam.
+Sentence " perfect location off the main street in a quiet neighborhood that is close to downtown palm springs " has a 1 % probability of being spam.
+Sentence " the pool area has a nice gas fire pit area and lots of comfy chaise lounges " has a 0 % probability of being spam.
+Sentence " this little hotel surpassed all my expectations " has a 53 % probability of being spam.
+Sentence " the rooms are well equiped with a little kitchenette fridge was filled with croissants 3 bottles of water soda and much more " has a 72 % probability of being spam.
+Sentence " the room was very clean and the bathroom was equiped with a top notch shower " has a 1 % probability of being spam.
+Sentence " i would definately recommend this place to anyone visiting or passing trough palm springs " has a 1 % probability of being spam.
+Sentence " the reception " has a 72 % probability of being spam.
+Sentence " if you want peaceful and relaxing look no further " has a 60 % probability of being spam.
+Sentence " although set up like a single floor motel it is hardly anything but " has a 0 % probability of being spam.
+Sentence " the rooms are very nice with a full kitchen " has a 12 % probability of being spam.
+Sentence " they provide some breakfast items snacks and bottles of spring water " has a 7 % probability of being spam.
+Sentence " you can bring in anything you like to enjoy at the pool or in your room " has a 11 % probability of being spam.
+29 % of sentences in chosen data set are classified as spam by us.
