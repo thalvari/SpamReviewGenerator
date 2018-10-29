@@ -1,0 +1,101 @@
+Sentence "i am disappointed that the 1a didn't work with my ipad " has a 64 % probability of being spam.
+Sentence " that's what i get for buying a cheap adapter " has a 90 % probability of being spam.
+Sentence " after a week only one side works " has a 29 % probability of being spam.
+Sentence " didn't last very long " has a 34 % probability of being spam.
+Sentence " worked great when it worked but it is a cheap piece of plastic crap so i shouldn't have expected it to last " has a 0 % probability of being spam.
+Sentence " i bought this so that i could use and charge my tab at the same time " has a 96 % probability of being spam.
+Sentence " my tab does not recognize the high power port and will either charge while off or use power while on it will not charge while powered on " has a 8 % probability of being spam.
+Sentence " i could only give this usb car charger 2 stars because although it worked fine for about 3 months it subsequently died on me " has a 1 % probability of being spam.
+Sentence " pros has 2 usb ports for charging one the top is 2 " has a 0 % probability of being spam.
+Sentence " 1 amps " has a 50 % probability of being spam.
+Sentence " the bottom slot is lower presumably 1 or 1 " has a 46 % probability of being spam.
+Sentence " 5 amps " has a 50 % probability of being spam.
+Sentence " -fits well in my charging socket holds tight " has a 11 % probability of being spam.
+Sentence " i've had some that were loose in my charging socket " has a 1 % probability of being spam.
+Sentence " -works well to charge my iphone in the top slot and the bottom slot works with most android phones except the very high end ones " has a 42 % probability of being spam.
+Sentence " -has a blue led light to tell you it is on and ready to charge " has a 8 % probability of being spam.
+Sentence " -the usb sockets seem to be well made and tightly fit all my cables " has a 2 % probability of being spam.
+Sentence " -pretty solid construction " has a 8 % probability of being spam.
+Sentence " -it cost less than 2 " has a 76 % probability of being spam.
+Sentence " cons it died on me after 3 months " has a 94 % probability of being spam.
+Sentence " i had really enjoyed using this usb charger " has a 1 % probability of being spam.
+Sentence " it rapidly charged my iphone and worked well with charging the phones of my family and friends " has a 18 % probability of being spam.
+Sentence " the two slot design makes this design very handy with a 1 slot design no one else can charge their device unless i remove my cord " has a 0 % probability of being spam.
+Sentence " of course after this charger died i had to go back to the 1 slot design i was using before " has a 34 % probability of being spam.
+Sentence " after 3 months i began to notice the led light flickering " has a 54 % probability of being spam.
+Sentence " it was less than a week later that is quit working permanently " has a 94 % probability of being spam.
+Sentence " i'm not sure what the problem was faulty wiring bad design i guess i'll never know " has a 0 % probability of being spam.
+Sentence " i thought about getting another since they are so cheap but then i thought better of it " has a 1 % probability of being spam.
+Sentence " maybe they are so cheap because they are simply disposable after a short period of time " has a 56 % probability of being spam.
+Sentence " for whatever reason it died and i was forced to look for another 2 slot design i haven't found one in my price range yet " has a 2 % probability of being spam.
+Sentence " i loved the case when i first received it but shortly after the case started to peel off at first i did not know what it was until i looked on the back of the case and it was missing spots " has a 0 % probability of being spam.
+Sentence " guess sometimes a good deal is not really a good deal " has a 0 % probability of being spam.
+Sentence " would not purchase " has a 94 % probability of being spam.
+Sentence " it looked like it was used " has a 3 % probability of being spam.
+Sentence " it was broken when it got to be the paint job was horrible " has a 6 % probability of being spam.
+Sentence " i would never get it again " has a 64 % probability of being spam.
+Sentence " the samsung car charger has stopped working within a 6 month period " has a 96 % probability of being spam.
+Sentence " i thought a fuse was blown inside the unit but when i attempted to change it i've noticed that it doesn't come apart like most vehicle chargers " has a 0 % probability of being spam.
+Sentence " what a great price " has a 92 % probability of being spam.
+Sentence " right out of the box plug n upload sum juice " has a 82 % probability of being spam.
+Sentence " don't know if dropping it repeatedly on the floorboard or occasionally stuffing it in console to hide caused failure " has a 0 % probability of being spam.
+Sentence " but soon the green light failed to light and phones display showedit wasn't charging " has a 0 % probability of being spam.
+Sentence " so either spend several more dollars for one witha heavier cord stronger shell or treat it as a delicate flower " has a 83 % probability of being spam.
+Sentence " it worked fine for a few days then i had to change to cord " has a 3 % probability of being spam.
+Sentence " the charger itself working fine up to this point " has a 0 % probability of being spam.
+Sentence " rather than send it back i bought another cord from sprint for 19 " has a 7 % probability of being spam.
+Sentence " 00 " has a 50 % probability of being spam.
+Sentence " i thought this would be a samsung product but look like a cheap counterfiet " has a 41 % probability of being spam.
+Sentence " it came crushed and is slow to charge my phone " has a 88 % probability of being spam.
+Sentence " was here right on time " has a 52 % probability of being spam.
+Sentence " wall adapter what i expected and works well but dose not have quick-charge as this ad states and that was the whole reason i chose this chager so that is horribly disappointing and inconvenient " has a 3 % probability of being spam.
+Sentence " the micro usb is useless it looks and acts cheaply made and dose not fit well in to ports an either end will periodically stop working and my phone will freeze and turn off periodically as well " has a 0 % probability of being spam.
+Sentence " i know its the usd because i tried it in several devices and adapters and it had the same problems " has a 1 % probability of being spam.
+Sentence " i will never order from amazon again only two orders out of 13 have come without defect or wrong probuct " has a 43 % probability of being spam.
+Sentence " ugh " has a 37 % probability of being spam.
+Sentence " i bought this for the at t samsung galaxy s2 and the seller was very slow in getting this item to me " has a 20 % probability of being spam.
+Sentence " i also notice that this product do fit the sgs2 but the cut outs was not good " has a 95 % probability of being spam.
+Sentence " the cut out opening was too small for the power button there was also an extra cut out for no reason " has a 12 % probability of being spam.
+Sentence " it does fit nice so i gave it 2 stars but bad opening for my phone will be costly " has a 3 % probability of being spam.
+Sentence " well bought this so i could have a spare cord since i have the original cord in my car with a usb charger there got tired of keeping track where i had it last " has a 1 % probability of being spam.
+Sentence " so this cord works on when plugged into the wall " has a 17 % probability of being spam.
+Sentence " when hooked to a pc phone wont stay connected to the pc to transfer files or anything " has a 87 % probability of being spam.
+Sentence " so if you just need a cord to plug into the wall this will work but don't even think of this cord if you want to use it with a pc " has a 33 % probability of being spam.
+Sentence " this charger doesn't work very well " has a 35 % probability of being spam.
+Sentence " when plugged in it shows that it is charging but after ten minutes i'm lucky to get 1% more on my battery " has a 5 % probability of being spam.
+Sentence " i only use it now if my battery is low and i want to keep it from getting lower " has a 68 % probability of being spam.
+Sentence " that's really all it's good for " has a 7 % probability of being spam.
+Sentence " the plug fits and it charges my captivate it felt rather snug " has a 4 % probability of being spam.
+Sentence " the retractable ness of this charger is anything but " has a 33 % probability of being spam.
+Sentence " plain ol doesn't work " has a 46 % probability of being spam.
+Sentence " i literally took it out of the package and the first time i pulled the cord out didn't yank tug or otherwise forcefully pull it about 10 inches and hit the retract button to test it out and it retracted about 2 inches of it " has a 0 % probability of being spam.
+Sentence " i pulled it out further retracted about 4 or so inches of it " has a 67 % probability of being spam.
+Sentence " bottom line was that after messing with it and feeding it back into the charger versus it retracting itself automatically when depressing the retract button it took a few minutes to get the plug retracted so that only a few inches of cable was still hanging out of the charger and that was the best i could get " has a 1 % probability of being spam.
+Sentence " the cable would only automatically retract 2-4 inches at any given length " has a 51 % probability of being spam.
+Sentence " the main reason i wanted this was for the retractability since i hate having cables dangling around " has a 0 % probability of being spam.
+Sentence " working on getting a refund for this item now " has a 16 % probability of being spam.
+Sentence " when i went to take the charger out of my wallit snapped in half " has a 29 % probability of being spam.
+Sentence " lesson learned cheap things break too quickly " has a 6 % probability of being spam.
+Sentence " excited about this based on good reviews but did not have the same experience " has a 2 % probability of being spam.
+Sentence " tested on my nexus s cell phone person on the other end complained about static and poor quality sound " has a 0 % probability of being spam.
+Sentence " i unplugged headset and switched to using my cell and they said the problem went away so unfortunately problem seems to be with this headset " has a 0 % probability of being spam.
+Sentence " also just fyi this does not come retail packaged but shows up in a plastic bag with no instructions " has a 100 % probability of being spam.
+Sentence " not a problem for me but makes me wonder where these are from and the quality " has a 15 % probability of being spam.
+Sentence " i've tried and returned at least 5 headsets ranging from 15 to 150 " has a 90 % probability of being spam.
+Sentence " this one was typical of the others that i returned low volume on the earpiece and low quality microphone " has a 81 % probability of being spam.
+Sentence " i finally ended up with a panasonic tca60 for about 19 which is very loud and sounds great on both ends " has a 7 % probability of being spam.
+Sentence " it's nothing fancy no volume control and no mute but who needs that when you can accomplish the same thing with your phone " has a 3 % probability of being spam.
+Sentence " price does not determine sound quality " has a 96 % probability of being spam.
+Sentence " i recommend this product " has a 32 % probability of being spam.
+Sentence " the only problem with this headset is that people you are talking to will have trouble hearing you " has a 4 % probability of being spam.
+Sentence " this is pretty important to me so i only give it 2 stars " has a 8 % probability of being spam.
+Sentence " i have used it extensively with both my cell phone and my cordless phones at home with the same problem " has a 1 % probability of being spam.
+Sentence " i don't think this will last very long " has a 12 % probability of being spam.
+Sentence " i was thinking of deploying this in a call center environment but i don't think it would last very long " has a 5 % probability of being spam.
+Sentence " plus the cord is too short for desktop use " has a 6 % probability of being spam.
+Sentence " the torx is the only real useful tool in here for the evo4g " has a 27 % probability of being spam.
+Sentence " not a big fan just use a credit card instead " has a 86 % probability of being spam.
+Sentence " pros good tool set if you need to take things apart " has a 1 % probability of being spam.
+Sentence " cons they came in a plastic bag no case they're extremely flimsy plastic that makes me feel like if i use them over 10 times they're going to break " has a 29 % probability of being spam.
+Sentence " i don't recommend this at all and would recommend you buy something other than this " has a 1 % probability of being spam.
+29 % of sentences in chosen data set are classified as spam by us.

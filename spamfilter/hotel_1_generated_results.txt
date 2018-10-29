@@ -1,0 +1,101 @@
+Sentence "possibly the smokiest hotel room i've ever paid that kind of money for " has a 36 % probability of being spam.
+Sentence " the rooms had garbage on the floors in the bathroom were dirty and the entire building had a dirty smell " has a 74 % probability of being spam.
+Sentence " he could not verify that the sheets had been changed and said he didn't move anything but if it looks like he did " has a 1 % probability of being spam.
+Sentence " the bathroom was filthy looking upon our entry so much so my 11 year old daughter said the beds felt like they were peed in " has a 0 % probability of being spam.
+Sentence " i would never stay there again and we checked out early and got my money back " has a 30 % probability of being spam.
+Sentence " when i hung up and tried to call back i was unable to take pictures of the room to go kill time " has a 0 % probability of being spam.
+Sentence " the outside looked like a hotel you rent by the hour by the people that were coming in and out " has a 4 % probability of being spam.
+Sentence " offered me a room on the other side you might able sit up " has a 0 % probability of being spam.
+Sentence " this was a just down the street from the 1 2 price ticket kiosk and tourist information " has a 99 % probability of being spam.
+Sentence " we both will miss this place for the same price i wasn't offered a refund of any sort " has a 49 % probability of being spam.
+Sentence " we were never able to find the other hotel so we had to shower in a couple inches of water " has a 0 % probability of being spam.
+Sentence " there was no fridge in this room even though we had just walked from there and took pictures " has a 1 % probability of being spam.
+Sentence " wish you had complimentary breakfast so we don't have the phone number for the manager to call me " has a 100 % probability of being spam.
+Sentence " room looked like they hadn't been cleaned in years " has a 1 % probability of being spam.
+Sentence " to the point where i can't believe we don't have the word i don't like this part what do you want " has a 42 % probability of being spam.
+Sentence " and the carpet has cigarettes burn even though we were in a construction zone walls were unfinished taping everywhere floors undone " has a 2 % probability of being spam.
+Sentence " we stayed in this was the most disgusting place i have ever been " has a 37 % probability of being spam.
+Sentence " i called and complained and the hotel manager says that they will not refund my second night despite my complaints " has a 0 % probability of being spam.
+Sentence " the manager argued with me regarding the claim of smoking in the room they charge you a lot of money if you come early " has a 99 % probability of being spam.
+Sentence " i was told to take it up with the manager in the morning and went to salt lake city and got another hotel " has a 54 % probability of being spam.
+Sentence " i will never and i mean never stay at this location again after this terrible experience " has a 7 % probability of being spam.
+Sentence " i'm not the type to complain but kindly asked the front desk to checked us in they were too busy " has a 66 % probability of being spam.
+Sentence " the hotel facility is old and there is a swim park next door " has a 11 % probability of being spam.
+Sentence " i would not stay there again or recommend it to anyone " has a 20 % probability of being spam.
+Sentence " she said he said he didn't blame us for not wanting to stay in the port clinton area " has a 0 % probability of being spam.
+Sentence " even though the staff is very rude as well " has a 1 % probability of being spam.
+Sentence " my wife and i stayed at this hotel " has a 24 % probability of being spam.
+Sentence " it was causing the heater to run all night and i woke up with little red bumps and bites on our bodies " has a 0 % probability of being spam.
+Sentence " manager of hotel notified and i was told it was non smoking i think that just for the 3 nights i was there " has a 94 % probability of being spam.
+Sentence " seriously disappointed we go back to the room to show us bet was too busy checking in other guests " has a 0 % probability of being spam.
+Sentence " when we reserved for the shuttle the lady in the front desk informed the hotel is overbooked " has a 39 % probability of being spam.
+Sentence " the place looked nice enough the price was right and it advertised a pool " has a 28 % probability of being spam.
+Sentence " arrived late with young child to find out the owner shut the restaurant down " has a 89 % probability of being spam.
+Sentence " i stayed in this room because it was just across the street from one another at this exit " has a 0 % probability of being spam.
+Sentence " the sheets had holes and the shower did not work 2of 3 dryers did not work " has a 41 % probability of being spam.
+Sentence " all we wanted was a place to put my head " has a 30 % probability of being spam.
+Sentence " then we were switched to another room and they said sorry were sold out " has a 0 % probability of being spam.
+Sentence " shower head was coming out of the wall the appliances are old and dirty service is horrible " has a 96 % probability of being spam.
+Sentence " the toilet paper holder was the back of the door looked like it had been kicked down " has a 4 % probability of being spam.
+Sentence " there was only one person at the front desk was helpful and brought us a rollaway " has a 66 % probability of being spam.
+Sentence " the only way to get cold water in the bathroom was not clean and the ac didn't work had to call for help " has a 0 % probability of being spam.
+Sentence " i was on the second floor stunk of smoke and stale mildew " has a 14 % probability of being spam.
+Sentence " two words for this place is gross and the front desk person tells me he doesn't have any confirmation on my name " has a 24 % probability of being spam.
+Sentence " we were traveling to florida and thought this would be better than a motel " has a 13 % probability of being spam.
+Sentence " customer service was very poor the front desk clerk informed us that our bill would be reduced 20 " has a 97 % probability of being spam.
+Sentence " the cleanliness was lacking i lifted the toilet seat and there was hair on the pillow of my daughter bed " has a 1 % probability of being spam.
+Sentence " i will never stay there again especially for the price i paid " has a 78 % probability of being spam.
+Sentence " there was an iron left on the floor overnight were damp in the morning " has a 6 % probability of being spam.
+Sentence " we booked 2 nights at this hotel for two nights " has a 57 % probability of being spam.
+Sentence " when we finally got the correct room that i'm sure was there for some time " has a 2 % probability of being spam.
+Sentence " holiday inn has become one of the most dangerous streets in new orleans " has a 15 % probability of being spam.
+Sentence " even called the front desk to let them know we were in town for a function and on a tight schedule " has a 85 % probability of being spam.
+Sentence " this is the nastiest hotel we have stayed at the homewood plainfield previously and it was o " has a 33 % probability of being spam.
+Sentence " the lobby was being used for drug deals " has a 62 % probability of being spam.
+Sentence " my step daughter came up for the day and we were going to have to cancel our booking " has a 94 % probability of being spam.
+Sentence " we ended up going to a different hotel across the street " has a 13 % probability of being spam.
+Sentence " there were splatter stains all over the walls and bottom of the door to your room " has a 7 % probability of being spam.
+Sentence " we were given the room key to check out the room and the musty smell was overbearing " has a 0 % probability of being spam.
+Sentence " my wife checked the credit card and the company said there was nothing he could do and claimed the room was clean " has a 2 % probability of being spam.
+Sentence " that was yesterday and i still haven't been compensated for my missing items " has a 0 % probability of being spam.
+Sentence " when i told staff checking out she didn't seem to heat or cool to the stated temperature " has a 0 % probability of being spam.
+Sentence " we both will miss this place for the same price i wasn't offered a refund of any sort " has a 49 % probability of being spam.
+Sentence " so i asked for a one bedroom with two queen beds as i had requested " has a 93 % probability of being spam.
+Sentence " if wasn't so tired and the room was actually nice " has a 0 % probability of being spam.
+Sentence " there was a dowel in the window-not sure if it was the same in both bathrooms " has a 17 % probability of being spam.
+Sentence " the manger was belligerent and did not even offer to move me and was told there were no other rooms " has a 39 % probability of being spam.
+Sentence " it was a very bad experience me and my family will not stay in a days inn again " has a 80 % probability of being spam.
+Sentence " shower curtain was thin so water got all over the floor this time we called from our cell phone " has a 0 % probability of being spam.
+Sentence " i do not recommend this place to anybody " has a 18 % probability of being spam.
+Sentence " the first night we were there we had to call to find the place " has a 18 % probability of being spam.
+Sentence " so many things were wrong here i don't even want to sit on it " has a 0 % probability of being spam.
+Sentence " outdated and pretty much with the price we paid even a worse value than it already was " has a 12 % probability of being spam.
+Sentence " air conditioner didn't work and we had to prove for over 45 min the room was paid through expedia " has a 26 % probability of being spam.
+Sentence " the hotel facility is old and there is a swim park next door " has a 11 % probability of being spam.
+Sentence " i will not stay at the hotel because of stuffy room " has a 42 % probability of being spam.
+Sentence " we returned hours later around 10 pm and the smell was covered up by the comforter " has a 3 % probability of being spam.
+Sentence " the place advertised ad having free wifi but we were given a coupon booklet for hotels " has a 79 % probability of being spam.
+Sentence " this was our first time staying at this hotel the place is run down " has a 16 % probability of being spam.
+Sentence " staff goofed up our billing resulting in an hour and a half for our room at check in " has a 6 % probability of being spam.
+Sentence " the bathroom was unacceptable hair and dirt in toilet and the shower was dirty enough to cause me to skip it " has a 0 % probability of being spam.
+Sentence " who runs a business like this when they found a room we were given a new set to put on the bed " has a 0 % probability of being spam.
+Sentence " there were no towels so i called down to the desk no one answered the courtesy phone " has a 85 % probability of being spam.
+Sentence " the carpet was dirty and not maintained " has a 88 % probability of being spam.
+Sentence " i'll cut management a bit of a disappointment and literally " has a 42 % probability of being spam.
+Sentence " it was soooooo filthy and the smell was covered up by air freshener " has a 32 % probability of being spam.
+Sentence " i left a day early when they put me on the first floor and the lobby smelled really musty " has a 2 % probability of being spam.
+Sentence " i was greeted by two homeless men sitting in the parking lot possibly drug dealers and or user's " has a 1 % probability of being spam.
+Sentence " i called in april 2015 to cancel the second reservation i never booked " has a 43 % probability of being spam.
+Sentence " i called a few weeks ahead of our stay to check on the reservation and they refused to give me my " has a 20 % probability of being spam.
+Sentence " the room was dirty and not well maintained " has a 50 % probability of being spam.
+Sentence " i did finally take a look at the neighborhood where the hotel is " has a 14 % probability of being spam.
+Sentence " the ceiling above the shower looked like it hadn't been cleaned in years " has a 4 % probability of being spam.
+Sentence " the desk top was peeling off from what looked like water " has a 3 % probability of being spam.
+Sentence " after seeing the dead bugs in the room and i basically had to sleep with pistol " has a 0 % probability of being spam.
+Sentence " we did get a non-smoking room the rest of the staff does not respect her " has a 3 % probability of being spam.
+Sentence " when i arrived at the hotel at 4:30pm and we were informed that we would be put up in a penthouse suite via phone " has a 92 % probability of being spam.
+Sentence " asked for a roll away bed and was told they would have the room cleaned " has a 3 % probability of being spam.
+Sentence " this is the worse hotel i have ever stayed in " has a 4 % probability of being spam.
+Sentence " terrible customer service they failed to clean the room or make phone calls " has a 1 % probability of being spam.
+Sentence " the bathtub was slow to drain so we had to find a room in an area with none " has a 18 % probability of being spam.
+22 % of sentences in chosen data set are classified as spam by us.

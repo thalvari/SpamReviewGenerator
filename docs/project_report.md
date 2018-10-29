@@ -2,6 +2,10 @@
 
 ## 1 Introduction
 
+Our project SpamReviewGenerator generates new unique reviews based on existing reviews, we have also done sentiment analysis for our datasets and evaluated how spammy our generated reviews are. The steps of our project are detailed further later in this report. The purpose of the project is to explore algorithmic techniques behind the ubiquitous Internet bots of our day, as well as attempting to detect fraudulent content thereby created.
+We originally had multiple ideas for our project and we brainstormed for a while before settling for our idea. We picked this idea because it seemed to be one we could realistically implement within the allocated time and because the idea seemed interesting and amusing.
+
+
 ## 2 Data gathering
 
 Our model creator and generator currently support a total of three datasets. The marvel dataset was made by web scraping audience reviews from several movies belonging in the Marvel Cinematic Universe from [Rotten Tomatoes](https://www.rottentomatoes.com/). The scraped reviews were 1000 most recent ones visible on the website. The web scraper was coded for the purposes of this project and was created using the BeautifulSoup library for python. Originally we attempted to scrape more reviews from TripAdvisor but that proved to be too difficult after a while of trying to get a web scraper to work on their website. The hotel dataset is a [modified](https://data.world/jenka13all/lara-hotel-reviews/workspace/file?filename=7282_with_textcat_languagetags.csv) version of [Datafiniti's](https://data.world/datafiniti/hotel-reviews) hotel review dataset with language tags. The cell dataset is [Julian McAuley's](http://jmcauley.ucsd.edu/data/amazon/) Cell Phones and Accessories -dataset containing Amazon product reviews. Support for other datasets is can also be implemented with small changes to the code.
@@ -57,7 +61,7 @@ The datasets and generated datasets were further used in sentiment analysis of t
 
 For the sentiment analysis the data was first processed by lemmatizing all review texts, so that words like movies and movie would be counted as one word instead of two. This was done by utilising WordNetLemmatizer available in python library nltk. 
 
-The sentiment analysis itself was done using R studio and libaries: tidytext, dplyr, stringr and visualisation by using: ggplot2 and gridExtra. Sentiment libraries used were 'bing', which offeres a positive or negative sentiment for each word, and 'nrc', which offers sentiments based on emotions such as anger or joy and general negative and positive sentiments. Using a combination of tidytext, dplyr and stringr offers an easy way to analyse sentiments in texts. However the limitations of this model was that the libraris do not recognise negation in sentences as it only analyses words. Thus "not good" will be counted as positive since it contains the word "good". Other limitations are that the libraries do not take into account the context of a word thus in Marvel reviews the word "stark" is considered negative even if it is the surname of a character and should be considered neutral.
+The sentiment analysis itself was done using R studio and libaries: tidytext, dplyr, stringr and visualisation by using: ggplot2 and gridExtra. Sentiment libraries used were 'bing', which offeres a positive or negative sentiment for each word, and 'nrc', which offers sentiments based on emotions such as anger or joy and general negative and positive sentiments. Using a combination of tidytext, dplyr and stringr offers an easy way to analyse sentiments in texts. However the limitations of this model was that the libraries do not recognise negation in sentences as it only analyses words. Thus "not good" will be counted as positive since it contains the word "good". Other limitations are that the libraries do not take into account the context of a word thus in Marvel reviews the word "stark" is considered negative even if it is the surname of a character and should be considered neutral.
 
 Visualisation of the sentiment analysis results can be viewed fully in [reviewsvisualisation.pdf](reviewsvisualisation.pdf).
 
@@ -77,4 +81,16 @@ The following graph shows tf-idf scores of different review categories.
 
 ### 7.1 Review Sceptic
 
-[Review Sceptic](http://reviewskeptic.com/) is a spam review filter from 2011 developed by researchers at Cornell University. It uses machine learning to identify fake hotel reviews by combining keyword analysis with the ways certain words are combined in pairs. They claim a 89.8 percent accuracy. Their grading is either deceptive or truthful. Using our generated sample reviews of 100 sentences (for example [hotel_1_4_100.txt](../generated_samples/hotel_1_4_100.txt)) for each rating, all five are rated as truthful.
+[Review Sceptic](http://reviewskeptic.com/) is a spam review filter from 2011 developed by researchers at Cornell University. It claims to use machine learning (technique not specified) to identify fake hotel reviews by combining keyword analysis with the ways certain words are combined in pairs. They claim a 89.8 percent accuracy. Their grading is either deceptive or truthful. Using our generated sample reviews of 100 sentences (for example [hotel_1_4_100.txt](../generated_samples/hotel_1_4_100.txt)) for each rating, all five are rated as truthful.
+
+### 7.2 Naïve Bayes classifier
+
+Our team also devised a [spam filter](https://github.com/thalvari/SpamReviewGenerator/blob/master/spamfilter/Spamfilter.java) of its own to test the spam generator. The filter is based on email spam/ham data from the Apache SpamAssassin project, not exactly reviews nor ideal, but distinct data from what we have used as training data regardless. If a review has more than 50 % chance of being spam it is classified as such by our filter, else as a legit message. We hypothesised that the naïve bayes technique would perform poorly at identifying bot reviews created by our methods. This, we figured, is due to the fact that spam in this very simple filter is mainly identified by keywords, not context or grammar, whereas vocabulary wise the contents of our data set and reviews generated using our algorithm would be expected to be identical.
+
+The test results seem to support the above hypothesis: both real-life reviews and our own bot reviews get very similar spamicity scores. This is also in agreement with the results in the previous Review Sceptic test.
+
+![Cell spam plot](https://github.com/thalvari/SpamReviewGenerator/blob/master/docs/Cell%20spam%20plot.png)
+![Hotel spam plot](https://github.com/thalvari/SpamReviewGenerator/blob/master/docs/Hotel%20spam%20plot.png)
+![Marvel spam plot](https://github.com/thalvari/SpamReviewGenerator/blob/master/docs/Marvel%20spam%20plot.png)
+
+Although one should be careful not to jump to conclusions, in this limited test case, it seems based on the plots shown above that actually our "fake" reviews fare a little bit better against the spam filter than "real" reviews!

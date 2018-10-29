@@ -1,0 +1,101 @@
+Sentence "it's not that he doesn't have a lot of affection for the sam raimi spider-man movies we've already seen i " has a 44 % probability of being spam.
+Sentence " after a successful heist of a seemingly not-so-compelling factions of the characters " has a 21 % probability of being spam.
+Sentence " the action and effects were amazing and it has a very inspiring story " has a 5 % probability of being spam.
+Sentence " i'm very surprised how good this film would actually be " has a 2 % probability of being spam.
+Sentence " fun action film with a great story line " has a 0 % probability of being spam.
+Sentence " i'm raving that iron man is the well-rounded spider-man movie series amp combines them nicely " has a 67 % probability of being spam.
+Sentence " the action is incredible the villain is awesome the story is great and the characters get such great development " has a 1 % probability of being spam.
+Sentence " best stand alone iron man film but still good and entertaining " has a 0 % probability of being spam.
+Sentence " whedon knows how to direct a superhero movie " has a 32 % probability of being spam.
+Sentence " by far the funniest mcu film and one of the worst villains to date " has a 0 % probability of being spam.
+Sentence " at just 15-years-old this spider-man demonstrates humility and maturity " has a 85 % probability of being spam.
+Sentence " but really it's the degree of latitude given to guardians of the galaxy but in the same level as the last iron man " has a 0 % probability of being spam.
+Sentence " a sequel attempt by marvelit could have been a train wreck but the movie was more satisfying than i was expecting " has a 32 % probability of being spam.
+Sentence " plays the part he was born for the role of tony stark the story was very well done " has a 0 % probability of being spam.
+Sentence " i think the two things that bothered me the most about the movie was that the main villain was very good " has a 0 % probability of being spam.
+Sentence " as great as the first though and at times it felt like they were there to set up more films " has a 0 % probability of being spam.
+Sentence " good movie best spiderman to have come out in a long time and i can now forget about that ant-man travesty " has a 61 % probability of being spam.
+Sentence " i thought it was brilliant but they was a lot of fun and looked like they enjoyed their rolls " has a 1 % probability of being spam.
+Sentence " the story is very simple but it's entertaining enough just for the hulk action but don't expect anything huge from it " has a 15 % probability of being spam.
+Sentence " his cliche motivations needed more development and the ending was suitably fitting considering the hero of this film is the design of its script " has a 0 % probability of being spam.
+Sentence " the visual effects is a little chopper and the story was good still i give this one 4 and a half " has a 0 % probability of being spam.
+Sentence " seeing all these characters come together for the first time and the great dialogue and exhilarating action " has a 0 % probability of being spam.
+Sentence " a fun ride that sadly does not compare to the first one somehow but still great fun " has a 83 % probability of being spam.
+Sentence " the mcu has done a very good job as the lead and is one of the coolest action sequences in a marvel movie to date " has a 0 % probability of being spam.
+Sentence " i was not a fan of super-hero movies of the new marvel generation " has a 66 % probability of being spam.
+Sentence " edward norton does a fantastic job as ghost " has a 98 % probability of being spam.
+Sentence " great movie and end to phase two and i can't wait for the sequel to come " has a 17 % probability of being spam.
+Sentence " however i do understand that this movie can be considered one of the best " has a 78 % probability of being spam.
+Sentence " the only thing that holds this movie back from being better than the avengers in my opinion the 2 previous spidermans lacked ex " has a 4 % probability of being spam.
+Sentence " michael douglas was fantastic as hank pym it was nice to see a spider-man film " has a 0 % probability of being spam.
+Sentence " what whedon has created for this film is actually very well made with ed norton as bruce banner " has a 14 % probability of being spam.
+Sentence " the only sad moment happens at the end and that's about it on the criticism " has a 29 % probability of being spam.
+Sentence " in fact there's a scene with two people simply talking in a car that's not anything anyone expected from a marvel movie " has a 15 % probability of being spam.
+Sentence " an exciting addition to the mcu and is by far the funniest mcu film i've seen " has a 15 % probability of being spam.
+Sentence " that's when the story finally picks up and it was a interesting take on the franchise " has a 2 % probability of being spam.
+Sentence " one of the most visually beautiful movies of the year for me and one that is a must see " has a 96 % probability of being spam.
+Sentence " other standouts include chadwick boseman as the title hero out for redemption in the most unlikely of places " has a 28 % probability of being spam.
+Sentence " this is way better than iron man 2 but it isn't anywhere close to the first " has a 6 % probability of being spam.
+Sentence " due to its rich and well-developed and gets their own important role " has a 4 % probability of being spam.
+Sentence " this gives the filmmakers a lot of room to play and we get to see scarlet witch's power which was emense " has a 0 % probability of being spam.
+Sentence " fun but lacked the strong story that made the first film great and slimming the aspects that forced it to struggle " has a 0 % probability of being spam.
+Sentence " while i liked both the raimi and webb films spider-man homecoming is the best spider-man movie comes out " has a 8 % probability of being spam.
+Sentence " his back story could have been the most interesting part of the movie still this is a must watch for all marvel superhero movie fans " has a 0 % probability of being spam.
+Sentence " the downside is that he really isn't in the movie a lot but she nailed every scene she was in " has a 4 % probability of being spam.
+Sentence " the only thing that's negative about this movie is the most amazing spider-man 3 or batman v " has a 26 % probability of being spam.
+Sentence " even though this movie has some great twists for example the villain who is a little inscrutable and underdeveloped but these are small complaints " has a 1 % probability of being spam.
+Sentence " some of the film is that just by speculating the story and plot are simple and the best part about the movie " has a 16 % probability of being spam.
+Sentence " loki is the best bad guy for this movie i can think of that were interesting were loki vulture killmonger and maybe ego " has a 0 % probability of being spam.
+Sentence " it is not as good as the first but i know i'm in the minority " has a 7 % probability of being spam.
+Sentence " i really didn't like the first one but still a great fun action movie about family " has a 4 % probability of being spam.
+Sentence " in marvel's attempt to bring ant-man to the big screen donning the black panther outfit " has a 6 % probability of being spam.
+Sentence " with amazings scenes a good plot and a good cast " has a 13 % probability of being spam.
+Sentence " beyond the performances there are plenty of visuals to behold " has a 11 % probability of being spam.
+Sentence " with a brilliant performance by robert downey jr and serves a great introduction to the marvel cinematic universe or mcu " has a 3 % probability of being spam.
+Sentence " iron man is a welcome addition to the superhero genre and it started an enormous phenomenon that has been going strong since " has a 0 % probability of being spam.
+Sentence " while i agree the film focuses a bit too much time might've been spent on andy serkis ulysses klaue " has a 0 % probability of being spam.
+Sentence " on the flip side of this i will say that i really really loved what they did with yondu's character here " has a 0 % probability of being spam.
+Sentence " the motives of hammer didn't make sense or were just too unrealistic " has a 4 % probability of being spam.
+Sentence " if you saw the first hulk and found it to be a big dud like it was too ambitious of a project " has a 1 % probability of being spam.
+Sentence " i watched this for the 2nd time and it's worth seeing for fans " has a 0 % probability of being spam.
+Sentence " not my favorite spider-man movie to date and one of the best movie of the summer " has a 17 % probability of being spam.
+Sentence " even better than the original or even the best marvel film i've seen so far " has a 0 % probability of being spam.
+Sentence " it's fresh while sticking to the comics and tv show the avengers earth's mightiest heroes " has a 49 % probability of being spam.
+Sentence " anyways i can't wait to see ant man have a partner helping him " has a 36 % probability of being spam.
+Sentence " the characters have much more depth than in the first movie and that the action was more investing " has a 19 % probability of being spam.
+Sentence " sonny burch is surprisingly quite common throughout ant-man and the hole cast is good overall " has a 0 % probability of being spam.
+Sentence " he gets great support from the rest of the cosmic side of the marvel universe " has a 1 % probability of being spam.
+Sentence " the four main cast members form a perfect union and one of the best villains marvel is had recently with michael b " has a 69 % probability of being spam.
+Sentence " the most negative storyline i've ever seen in a spider man movie " has a 4 % probability of being spam.
+Sentence " just another quality edition to the marvel universe and i can't really differentiate them anymore " has a 7 % probability of being spam.
+Sentence " wasn't the best marvel movie to date " has a 21 % probability of being spam.
+Sentence " the cast was amazing likable quirky the special effects were great it made me love ants " has a 76 % probability of being spam.
+Sentence " the final battle alone is one of the strongest mcu movies a well deserved 94 % " has a 32 % probability of being spam.
+Sentence " an improvement over its predecessor but not up to the first film but it's a rather good movie story is ok " has a 0 % probability of being spam.
+Sentence " sure the villain was a little weak and there are a few scenes that warrant special mention " has a 3 % probability of being spam.
+Sentence " paul bettany was the perfect choice for one of my favorite movies " has a 55 % probability of being spam.
+Sentence " solid debut for ant-man to the big screen donning the black panther outfit " has a 36 % probability of being spam.
+Sentence " i really thought this was such a great exciting and totally lived up to the hype of the movie with great performances " has a 25 % probability of being spam.
+Sentence " the movie recaptures the magic of the first movie and some scenes reminded me of the first film " has a 0 % probability of being spam.
+Sentence " i genuinely thought this was a great entry in the iron man history but it still one of best movies " has a 1 % probability of being spam.
+Sentence " why would he scrape the bottom of the barrel for the guardians of the galaxy but doesn't exceed it's predecessor " has a 93 % probability of being spam.
+Sentence " what's refreshing about spider-man in the comic books " has a 68 % probability of being spam.
+Sentence " iron man is a bit of a letdown but there were some noticeably cheap-looking effects here " has a 0 % probability of being spam.
+Sentence " this might be the best marvel movie the avengers is a wonderful culmination of five movies that all pays off " has a 90 % probability of being spam.
+Sentence " edward norton fits right into this movie as i was expecting something overly goofy i was pleasantly surprised with how much i enjoyed it " has a 83 % probability of being spam.
+Sentence " amazing film and way beyond expectations even with all the stuff that happens on the screen " has a 0 % probability of being spam.
+Sentence " hiring james gunn for these movies is one of the best mcu films ever which is saying something " has a 4 % probability of being spam.
+Sentence " by the film's dedication to high-octane action sequences allowing even non-comics fans can enjoy " has a 0 % probability of being spam.
+Sentence " but it works really well especially in the portion of the movie left me wanting is more " has a 1 % probability of being spam.
+Sentence " while it's too short for my liking the second and third viewing however shoed it to be the gem it is " has a 16 % probability of being spam.
+Sentence " big and action-packed age of ultron is a solid sequel in an amazing franchise " has a 95 % probability of being spam.
+Sentence " i watched ironman3 because i am a fan not only of the black panther " has a 19 % probability of being spam.
+Sentence " how often is the sequel just as good even if that meant making some of the previous characters more fleshed out which was desperately needed " has a 0 % probability of being spam.
+Sentence " and i must admit it is still one of my favorite marvel characters " has a 1 % probability of being spam.
+Sentence " in many ways iron man 2 is still a great movie " has a 4 % probability of being spam.
+Sentence " avengers age of ultron it's an entertaining movie with great special effects that are mind-boggling to behold " has a 99 % probability of being spam.
+Sentence " it's a fun entertaining movie with a combination of superhero and heist film " has a 3 % probability of being spam.
+Sentence " plot the film starts out as most franchise starting films do with a lot of military exhilarating action and fantastic effects with the hulk " has a 2 % probability of being spam.
+Sentence " my biggest qualm is that they kill off so many characters but joss whedon pulls it off somehow " has a 1 % probability of being spam.
+Sentence " on the character even better cartoon itself becoming one of the best superhero movies of all time " has a 0 % probability of being spam.
+17 % of sentences in chosen data set are classified as spam by us.

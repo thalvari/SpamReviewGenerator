@@ -1,0 +1,101 @@
+Sentence "it fits the phone perfectly without any cutting " has a 2 % probability of being spam.
+Sentence " when initially released the dvp could have been docked a star or two off my review of the product " has a 1 % probability of being spam.
+Sentence " got this one to replace my backup " has a 74 % probability of being spam.
+Sentence " the length of the pad with the case on my phone and from the response and explanation from the manufacturer " has a 64 % probability of being spam.
+Sentence " the headset is comfortable and easy to connect to any headphone port on a computer " has a 27 % probability of being spam.
+Sentence " i love the feel of it i get tons of compliments on it and i dont even think about carrying my cards in it " has a 1 % probability of being spam.
+Sentence " she loves this she puts her phone in her purse she doesn't like carrying a purse and this in my hand " has a 2 % probability of being spam.
+Sentence " this is a great buy if you can get past the installation process " has a 36 % probability of being spam.
+Sentence " this battery is exactly what i've been looking for something that is comfortable and have good price " has a 47 % probability of being spam.
+Sentence " this charger works well charges all my devices quickly and can charge two phones at the same time but it works " has a 38 % probability of being spam.
+Sentence " additionally i was able to stream music to it from my laptop while working at the office " has a 1 % probability of being spam.
+Sentence " the holes add a nice flair to the case as no part of the edge and that part does not stick " has a 1 % probability of being spam.
+Sentence " there aren't any cons i can think of is the volume control is on the cord just below the right ear headphone " has a 95 % probability of being spam.
+Sentence " got my s3 in white i also own the bumper case sold by poetic and its on my wife's iphone 4s " has a 50 % probability of being spam.
+Sentence " this means you can easily have a conversation with mr " has a 41 % probability of being spam.
+Sentence " all the cutouts lineup allowing for access to all the ports on the front " has a 12 % probability of being spam.
+Sentence " seems like it was made for really well " has a 1 % probability of being spam.
+Sentence " it's one of the biggest on the market at present " has a 95 % probability of being spam.
+Sentence " howevern where 3 m really shines is in the quality of it and i have to say that this case looks a lot more expensive " has a 0 % probability of being spam.
+Sentence " my son wanted an easier way to charge my phone before hitting the sack " has a 96 % probability of being spam.
+Sentence " arrived a day earlier than the approximate delivery date and it came in its original samsung packaging and had an extra battery " has a 0 % probability of being spam.
+Sentence " the only negatives are that its so big its the length of the phone assuring slot-lineup " has a 1 % probability of being spam.
+Sentence " it also has a pocket behind the card slots to slip in a thin seem to pry pop open " has a 68 % probability of being spam.
+Sentence " adorable and very flexable case i bought it in white and i love it " has a 56 % probability of being spam.
+Sentence " i'd recommend this to anyone looking for something to protect my device " has a 2 % probability of being spam.
+Sentence " i found it much easier to handle and control " has a 10 % probability of being spam.
+Sentence " love it and it does take a beating " has a 20 % probability of being spam.
+Sentence " my daughter loves it and i was left to purchase another one in a different color " has a 45 % probability of being spam.
+Sentence " then in movie mode it's not nearly as bad at collecting fingerprints " has a 0 % probability of being spam.
+Sentence " it is very well made and i can highly recommend them with ease " has a 6 % probability of being spam.
+Sentence " while i was impressed with the color and the quality " has a 89 % probability of being spam.
+Sentence " i still like the protection these protectors provide " has a 34 % probability of being spam.
+Sentence " also i love that the pink is much lighter than the otterbox case " has a 29 % probability of being spam.
+Sentence " there are two things i don't like the feel and the color " has a 57 % probability of being spam.
+Sentence " case is a nice rubber rim around the front is raised enough to take the ipad anywhere in my bedroom " has a 25 % probability of being spam.
+Sentence " so great so great so great so great " has a 54 % probability of being spam.
+Sentence " it will not workout if you are rough with them or keep your phone in good shape while keeping it's slim profile " has a 95 % probability of being spam.
+Sentence " and the two usb outputs we were able to get my droid at the gym " has a 1 % probability of being spam.
+Sentence " the plastic part is it is not a smootly rounded ergonomic feel " has a 80 % probability of being spam.
+Sentence " i can't say if it feels like the actual screen " has a 2 % probability of being spam.
+Sentence " this battery pack is that it works and is worth the investment quality is good and talk time is decent depending on usage " has a 1 % probability of being spam.
+Sentence " i will get that one as well when i forgot to charge it " has a 47 % probability of being spam.
+Sentence " this case is very well-made and designed at a reasonable price including a 12 months warranty " has a 98 % probability of being spam.
+Sentence " -battery life is good enough for me to buy it was from the residue from the front film which gets removed after install " has a 2 % probability of being spam.
+Sentence " 1 8221 thick it 8217s going to be somewhat bulky to carry in your purse bag it does charge devices " has a 9 % probability of being spam.
+Sentence " but i like the tight fit as i know it shuts off after a couple of typical drops on paved surfaces " has a 7 % probability of being spam.
+Sentence " the two usb ports provide charging capabilities for not only my iphone but also my kindle fire " has a 0 % probability of being spam.
+Sentence " the ear buds fit well and are comfortable for long periods of time " has a 78 % probability of being spam.
+Sentence " the yubi power external battery charger is a powerhouse that's for sure " has a 3 % probability of being spam.
+Sentence " there is a ball socket joint that allows the phone to slide into your pocket or if you want to showcase your phone " has a 97 % probability of being spam.
+Sentence " but in any event you could leave the charger in the package was an unordered trade-paperback size christian-themed novel " has a 42 % probability of being spam.
+Sentence " i like how it does not add much size to the phone at all " has a 43 % probability of being spam.
+Sentence " nice quality and works perfectly with my nexus 7 2013 samsung galaxy rush nintendo 3ds and zune hd " has a 2 % probability of being spam.
+Sentence " i wanted something with more juice just because i want to buy another phone any time soon " has a 64 % probability of being spam.
+Sentence " they are nice comfortable good sound good battery life and very easy to use and compact " has a 0 % probability of being spam.
+Sentence " i absolutely love the amzer's recessed power and volume buttons stick out from the side " has a 21 % probability of being spam.
+Sentence " this is a nice item to have with a note 2 " has a 2 % probability of being spam.
+Sentence " i get in the truck it connects to my phone when it falls " has a 85 % probability of being spam.
+Sentence " for any case thicker than mine or a bling case you will probably damage you phone when you drop it " has a 3 % probability of being spam.
+Sentence " it really does give 120 % extra battery and i got a phone call from the provider of this product " has a 58 % probability of being spam.
+Sentence " this is a great device because of the dual port 1a 2 " has a 0 % probability of being spam.
+Sentence " i like the button at the same time " has a 15 % probability of being spam.
+Sentence " next we have the on and off switch that's perfect because then you know it is still in the same condition " has a 3 % probability of being spam.
+Sentence " happy to report that it has met all of my expectations for such a small device " has a 4 % probability of being spam.
+Sentence " this has been repeated every day since and i have had no problems charging my phone and that's it " has a 31 % probability of being spam.
+Sentence " this one is still holding up extremely well " has a 47 % probability of being spam.
+Sentence " fabulous battery life i can say at the end of the day because i lost my old earphones for iphone 4 " has a 7 % probability of being spam.
+Sentence " having used this for a year and half and it still looks new " has a 0 % probability of being spam.
+Sentence " it's a very good case that is easy to use and looks great on " has a 1 % probability of being spam.
+Sentence " didn't think i was going to buy a case for my gs2 that would protect my iphone 5 " has a 83 % probability of being spam.
+Sentence " this is a case so i was happy to discover that they're not really necessary anyway " has a 1 % probability of being spam.
+Sentence " i also use it with cell phones so you don't lose the feel of the case " has a 37 % probability of being spam.
+Sentence " we are now a plugged in society this allows me to swap out the battery mid day and i'm glad i picked it up " has a 1 % probability of being spam.
+Sentence " i have an iphone 4s and an iphone 5s at the same time " has a 31 % probability of being spam.
+Sentence " so that is the only minus but it is not an n series device " has a 2 % probability of being spam.
+Sentence " it also works great on my blackberry keeps the phone at a perfect angle " has a 66 % probability of being spam.
+Sentence " then i thought why not buy lumia 1520 which can be used as a hands-free device at first " has a 2 % probability of being spam.
+Sentence " not sure how well it would work with any phone case that i am very careful " has a 14 % probability of being spam.
+Sentence " all cut outs are perfect no trouble with cutout for the camera on the back of the phone under the covers with new case " has a 31 % probability of being spam.
+Sentence " did a great job and keeping your phone in mint condition " has a 36 % probability of being spam.
+Sentence " very cool case compliments very well on my ipad2 and ipad1 with a protective screen on the front and my phone for a long time " has a 2 % probability of being spam.
+Sentence " i gave that one to a friend and upon delivery she was very pleased with it as well " has a 78 % probability of being spam.
+Sentence " we have solar power at the cabin and it did that and then some " has a 2 % probability of being spam.
+Sentence " they make attachments specifically for microphones but they are much easier to create and edit " has a 2 % probability of being spam.
+Sentence " love the two charging ports provides up to 2 amps in other words that's very quickly " has a 0 % probability of being spam.
+Sentence " really nice for the price and the overall quality is very good and output level is reasonable as well " has a 0 % probability of being spam.
+Sentence " this case is exactly what i was hoping would come and it works just fine " has a 0 % probability of being spam.
+Sentence " for quality like that i would recommend everyone to buy this case but then again i like anything bling " has a 27 % probability of being spam.
+Sentence " easiest screen protectors i have ever purchased for an iphone " has a 86 % probability of being spam.
+Sentence " so this is definitely a high performance battery pack i'd want to increase device size for more bass " has a 0 % probability of being spam.
+Sentence " it too care of my 4s for over two years now using them on a daily basis to charge my iphone and bluetooth headset " has a 60 % probability of being spam.
+Sentence " i haven't had the chance to review this case " has a 47 % probability of being spam.
+Sentence " i love it and would recommend it to anyone and everyone with an iphone " has a 7 % probability of being spam.
+Sentence " this is the best color combination other than the all black case and it arrived two days later " has a 98 % probability of being spam.
+Sentence " it's got a rugged friction lining on the sides for grip and to protect the outside of the case " has a 11 % probability of being spam.
+Sentence " pop the sim into the holder and it allows for maximum flexibility in connection types " has a 2 % probability of being spam.
+Sentence " i would recommend these to anyone looking for a basic good quality bluetooth this is it " has a 35 % probability of being spam.
+Sentence " these are on ear headphones meaning they sit on top of my table the wires aren't all over the places with designs or colors " has a 2 % probability of being spam.
+Sentence " when it arrived i was surprised by this glass screen protector " has a 91 % probability of being spam.
+Sentence " good thickness slick but does not slide around on turns " has a 47 % probability of being spam.
+26 % of sentences in chosen data set are classified as spam by us.

@@ -4,6 +4,11 @@ library(stringr)
 library(ggplot2)
 library(gridExtra)
 
+#the input file should have all 6 different review categories in it and the columns should
+#consist of 'rating', 'text' and 'category', rating should have a numeric rating of a review
+#'text' should contain the review text itself, and 'category' should be a string, see examples used below
+#copy or remove code from below when necessary
+
 
 reviews <- read.csv(file="cleanedagain2.csv")
 reviews$text <- as.character(reviews$text)

@@ -1,0 +1,101 @@
+Sentence "these make using the home button easy " has a 67 % probability of being spam.
+Sentence " my daughter and i both like them " has a 6 % probability of being spam.
+Sentence " i would purchase them again " has a 95 % probability of being spam.
+Sentence " well worth the price " has a 83 % probability of being spam.
+Sentence " does not have the need amps to charge things like ipads or hp touchpads " has a 71 % probability of being spam.
+Sentence " but its super small and compact " has a 65 % probability of being spam.
+Sentence " the idea of the design is a sweet idea but it wears off as the paint is over the case and not under a sealant or anything " has a 1 % probability of being spam.
+Sentence " it has a cool 3d effect but at the cost of the paint rubbing off " has a 58 % probability of being spam.
+Sentence " it is quite pretty though " has a 0 % probability of being spam.
+Sentence " it works great thus far no issues " has a 2 % probability of being spam.
+Sentence " the only thing i might have limited was a usb connect or it charges my t989 without fail " has a 7 % probability of being spam.
+Sentence " you have to hold it in a certain place in other for it to charge " has a 69 % probability of being spam.
+Sentence " i'll just buy the verizon charger instead " has a 92 % probability of being spam.
+Sentence " i have had 3 phone chargers go bad in two weeks " has a 70 % probability of being spam.
+Sentence " i can not say where i purchased them " has a 79 % probability of being spam.
+Sentence " most chargers for cell phones are cheaply made " has a 11 % probability of being spam.
+Sentence " this one is ok i guess " has a 0 % probability of being spam.
+Sentence " got this to replace a frayed oem cord " has a 41 % probability of being spam.
+Sentence " the cord itself is ok however the plug that looks like oem and is stamped as such is crap " has a 0 % probability of being spam.
+Sentence " took 8 times longer to charge with this unit " has a 76 % probability of being spam.
+Sentence " when the cord was paired with the actual oem plug in it worked fine " has a 1 % probability of being spam.
+Sentence " so if you need a cord its ok however it is definitely not oem and the plug is worthless " has a 0 % probability of being spam.
+Sentence " for the price and really just needing a cord it is a good value but i am very disappointed with the false markings as oem when it is certainly not " has a 1 % probability of being spam.
+Sentence " first off the charger works just as it should and all the ports stay connected just fine " has a 0 % probability of being spam.
+Sentence " people in other reviews were complaining that the cord was too short about 2 or 3 feet and that was what i was expecting " has a 2 % probability of being spam.
+Sentence " instead i got a 5 foot cord which is a bit long for the purpose i was going to use it for in my car " has a 4 % probability of being spam.
+Sentence " now i have a long cord dangling everywhere " has a 40 % probability of being spam.
+Sentence " that extra length may be a bonus for most but i bumped down the rating due to seller's lack of description and or consistency " has a 64 % probability of being spam.
+Sentence " also i'm fairly certain the product image was changed because when i ordered it a different style adapter was pictured " has a 7 % probability of being spam.
+Sentence " i was expecting a square shape with the usb port on the side i got the longer rectangle shape with the usb port on the end " has a 0 % probability of being spam.
+Sentence " hmm " has a 10 % probability of being spam.
+Sentence " there's no way to verify that now " has a 48 % probability of being spam.
+Sentence " in sum good charger with good connectivity looks and acts like it's an original samsung " has a 0 % probability of being spam.
+Sentence " cord length and adapter style may vary as it seems like the seller is not consistent " has a 0 % probability of being spam.
+Sentence " i would like to start off by saying that this product is what i ordered and i have no complaints about shipping or the condition of the product when it came to my house the problem i do have is the micro usb cable that comes with the charger " has a 95 % probability of being spam.
+Sentence " why is it that all of the different companies that sell chargers on amazon can get the plug part of the charger right but not the micro usb cord " has a 7 % probability of being spam.
+Sentence " the cord is cheap and not the original cord that comes with the other part of the charger " has a 53 % probability of being spam.
+Sentence " i am having the same issue with the charger that i ordered for my galaxy note 2 " has a 79 % probability of being spam.
+Sentence " it's a very thin cord and also very short " has a 48 % probability of being spam.
+Sentence " maybe a 2 21 2 foot cord " has a 4 % probability of being spam.
+Sentence " and its of a cheaper quality than the part of the charger that the micro usb plugs into " has a 1 % probability of being spam.
+Sentence " be careful when ordering these cases " has a 87 % probability of being spam.
+Sentence " not all galaxy ii's are the same " has a 36 % probability of being spam.
+Sentence " mine was a sprint and this one did not fit my pnone " has a 18 % probability of being spam.
+Sentence " it went into the trash can as it wasnt worth sending back " has a 24 % probability of being spam.
+Sentence " otherwise i am sure it's a great case " has a 19 % probability of being spam.
+Sentence " i was expecting a bit higher quality product but it is what it is " has a 62 % probability of being spam.
+Sentence " i've used it for a few months and it definitely helped when i dropped my phone " has a 20 % probability of being spam.
+Sentence " but at this point i am not using it anymore due to the quality of the product although good it could be better and more solid " has a 9 % probability of being spam.
+Sentence " a note of caution from someone who owned and used just about every major blackberry model if you already own a standard usb 2 " has a 1 % probability of being spam.
+Sentence " 0 cable and you don't need an extra then you do not need this cable " has a 95 % probability of being spam.
+Sentence " all a blackberry needs for data transfer is a standard usb 2 " has a 50 % probability of being spam.
+Sentence " 0 cable with a micro-usb connector at one end " has a 46 % probability of being spam.
+Sentence " there is nothing special about this cable and nothing justifies the artificially inflated msrp listed for it " has a 97 % probability of being spam.
+Sentence " while this item is sold at a 90% off the msrp discount it's probably okay to purchase one for as long as after reading the first paragraph you decide that you will need a usb 2 " has a 38 % probability of being spam.
+Sentence " 0 cable " has a 72 % probability of being spam.
+Sentence " the items has 2 stars taken away for the exaggerated marketing claim professional grade custom cable and for the inflated msrp " has a 100 % probability of being spam.
+Sentence " note please make sure that you buy cable with a micro-usb connector because this is what your blackberry needs " has a 100 % probability of being spam.
+Sentence " i bought this micro usb cable because it was cheap and that it is " has a 30 % probability of being spam.
+Sentence " i use this with my nexus s 4g from sprint and although it does indeed charge my device it causes some major issues such as screen lag my computer not being able to recognize what kind of device this is and causing my phone to constantly jump into car mode " has a 0 % probability of being spam.
+Sentence " so if you need a real quick cable for basic charging this will do it anything else " has a 19 % probability of being spam.
+Sentence " spend the extra buck on a higher end cable " has a 18 % probability of being spam.
+Sentence " i was really impressed by the price and was very excited when it arrived " has a 67 % probability of being spam.
+Sentence " but it doesn't work like it says it does " has a 14 % probability of being spam.
+Sentence " at first it charged my phone just fine but then it stopped charging i waited a day to charge again but it still didn't charge " has a 41 % probability of being spam.
+Sentence " cable works fine with my verizon galaxy s4 it charges and transmit the data fine " has a 1 % probability of being spam.
+Sentence " however connector tip phone side is too thick it won't fit if you use aftermarket cases " has a 23 % probability of being spam.
+Sentence " it works and is a good value for the price compared to the retail stores " has a 96 % probability of being spam.
+Sentence " the only negative is that it is just a tad too short " has a 6 % probability of being spam.
+Sentence " i have purchased many chargers for my samsung phone on amazon and honestly the quality is just so so on them " has a 84 % probability of being spam.
+Sentence " maybe i'm just really hard on chargers but i feel like they should last more than a few months " has a 3 % probability of being spam.
+Sentence " spend the money and get a good quality one " has a 88 % probability of being spam.
+Sentence " works fine if you don't move the phone " has a 7 % probability of being spam.
+Sentence " if you handle the phone the plug works its way out within two or three minutes " has a 20 % probability of being spam.
+Sentence " this despite a relatively stiff fit " has a 6 % probability of being spam.
+Sentence " note that the cord that came with the phone plugs in smoothly and securely " has a 82 % probability of being spam.
+Sentence " that's my general-use cord now this one is relegated to overnight charging where the phone isn't being used " has a 66 % probability of being spam.
+Sentence " it works that's about all that can be said for it " has a 12 % probability of being spam.
+Sentence " it charges my galaxy fine but cord does not retract " has a 26 % probability of being spam.
+Sentence " mine came with a busted spring " has a 51 % probability of being spam.
+Sentence " cheap enough i don't care not worth the shipping to return " has a 97 % probability of being spam.
+Sentence " it charges i suppose that's all that matters " has a 6 % probability of being spam.
+Sentence " looking at the price i ordered 2 of these " has a 100 % probability of being spam.
+Sentence " it served the purpose initially " has a 13 % probability of being spam.
+Sentence " but in few months one of them stopped working " has a 47 % probability of being spam.
+Sentence " that's 50% hit rate " has a 49 % probability of being spam.
+Sentence " though i don't what's the life for the other charger " has a 41 % probability of being spam.
+Sentence " initially it is a great charger at a great price " has a 80 % probability of being spam.
+Sentence " however i've been through 2 now and they tend to not last very long " has a 9 % probability of being spam.
+Sentence " for the price though i guess it's still not a bad deal " has a 1 % probability of being spam.
+Sentence " the charger works fine " has a 2 % probability of being spam.
+Sentence " it was a great value considering how much they cost in stores " has a 65 % probability of being spam.
+Sentence " however it doesn't retract at all " has a 50 % probability of being spam.
+Sentence " i like how long the cord is with this changer so that i'm able to reach the night stand and table from where i plug it in at " has a 6 % probability of being spam.
+Sentence " however i'm not a fan of how long it seems to take to charge to full charge nor how it atomically 34 stops 34 charging at certain times on it's own " has a 4 % probability of being spam.
+Sentence " product came really fast nice long cord which was great considering factory cord is so short " has a 4 % probability of being spam.
+Sentence " worked great til the third day then i don't know what happened " has a 19 % probability of being spam.
+Sentence " at the price i didn't expect perfection and at sellers defense i have not contacted them " has a 47 % probability of being spam.
+Sentence " it could easily be my own fault and i've been so busy " has a 59 % probability of being spam.
+Sentence " even review is late " has a 45 % probability of being spam.
+36 % of sentences in chosen data set are classified as spam by us.
