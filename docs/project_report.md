@@ -2,7 +2,7 @@
 
 ## 1 Introduction
 
-Our project SpamReviewGenerator generates new unique reviews based on existing reviews, we have also done sentiment analysis for our datasets and evaluated how spammy our generated reviews are. The steps of our project are detailed further, later in this report.
+Our project SpamReviewGenerator generates new unique reviews based on existing reviews, we have also done sentiment analysis for our datasets and evaluated how spammy our generated reviews are. The steps of our project are detailed further later in this report. The purpose of the project is to explore algorithmic techniques behind the ubiquitous Internet bots of our day, as well as attempting to detect fraudulent content therby created.
 We originally had multiple ideas for our project and we brainstormed for a while before settling for our idea. We picked this idea because it seemed to be one we could realistically implement within the allocated time and because the idea seemed interesting and amusing.
 
 
@@ -81,4 +81,4 @@ The following graph shows tf-idf scores of different review categories.
 
 ### 7.1 Review Sceptic
 
-[Review Sceptic](http://reviewskeptic.com/) is a spam review filter from 2011 developed by researchers at Cornell University. It uses machine learning to identify fake hotel reviews by combining keyword analysis with the ways certain words are combined in pairs. They claim a 89.8 percent accuracy. Their grading is either deceptive or truthful. Using our generated sample reviews of 100 sentences (for example [hotel_1_4_100.txt](../generated_samples/hotel_1_4_100.txt)) for each rating, all five are rated as truthful.
+[Review Sceptic](http://reviewskeptic.com/) is a spam review filter from 2011 developed by researchers at Cornell University. It claims to use machine learning (technique not specified) to identify fake hotel reviews by combining keyword analysis with the ways certain words are combined in pairs. They claim a 89.8 percent accuracy. Their grading is either deceptive or truthful. Using our generated sample reviews of 100 sentences (for example [hotel_1_4_100.txt](../generated_samples/hotel_1_4_100.txt)) for each rating, all five are rated as truthful.
