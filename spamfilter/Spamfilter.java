@@ -11,7 +11,10 @@ import java.util.Map;
 import java.util.Scanner;
 
 /*
-Special thanks to Teemu Roos from the University of Helsinki and his course DATA15001 Introduction to Artificial Intelligence for the template to this code! Spam and ham word count files are originally from the Apache SpamAssassin project.
+Special thanks to Teemu Roos from the University of Helsinki 
+and his course DATA15001 Introduction to Artificial Intelligence 
+for the template to this code! Spam and ham word count files 
+are originally from the Apache SpamAssassin project.
 */
 
 public class Spamfilter {
@@ -20,7 +23,6 @@ public class Spamfilter {
     private final static String HAM_PATH = "hamcount.txt";
 
     private static List<List<String>> readMessage(String input) throws IOException {
-        //String teksti = new String(Files.readAllBytes(Paths.get(file)));
         List<String> list = Arrays.asList(input.split("\\."));
         List<List<String>> listlist = new ArrayList<>();
         for (String sentence : list) {
