@@ -1,0 +1,101 @@
+Sentence "the white part of the case was not in their " has a 71 % probability of being spam.
+Sentence " whoknows maybe you or i will be looking to purchase an otter box " has a 91 % probability of being spam.
+Sentence " i bought this case because it was thin stylish and protective " has a 68 % probability of being spam.
+Sentence " we ordered the 30-day unlimited plan and the sim card activation kit has been 1 star " has a 100 % probability of being spam.
+Sentence " i seated the battery and used it for a day then threw it away " has a 30 % probability of being spam.
+Sentence " they were the corrcet dimensions to cover the entire screen leaving a mm or 2 on each side " has a 7 % probability of being spam.
+Sentence " if it was smooth i would still use it since i paid for it what a waste of time and money " has a 87 % probability of being spam.
+Sentence " they are so crappy that the 5 bucks i paid was way too much trouble to include a getting started guide " has a 96 % probability of being spam.
+Sentence " i have had other trident cases in the past with no case at all " has a 39 % probability of being spam.
+Sentence " however when i reinsert it into my telephone to see if it will go through another episode " has a 65 % probability of being spam.
+Sentence " blew up the second time i tried to use it " has a 4 % probability of being spam.
+Sentence " some of them won't work at all switched battery around many times and still nothing or worse it dials the wrong person " has a 0 % probability of being spam.
+Sentence " i'm very happy with the first one " has a 26 % probability of being spam.
+Sentence " i have thrown out the latest broken case and the holster for a week before the holster snapped in half " has a 20 % probability of being spam.
+Sentence " i first tried to install it following the instructions on the video listed on the package " has a 39 % probability of being spam.
+Sentence " i owned this motorola h730 for a little over a month and the rubber case was chewed up by the carrier " has a 100 % probability of being spam.
+Sentence " this review has been changed due to the water hitting the screen " has a 0 % probability of being spam.
+Sentence " well if you have your window down in the car and it didn't charge " has a 91 % probability of being spam.
+Sentence " i first loved it when i got home from travel " has a 63 % probability of being spam.
+Sentence " this is definitely not the same length as the apple model " has a 0 % probability of being spam.
+Sentence " i wanted a car charger for my samsung galaxy tablet 3 " has a 87 % probability of being spam.
+Sentence " we'll see how well they work considering i bought this for my phone and will not stay attatched " has a 51 % probability of being spam.
+Sentence " will not buy it again and i don't know why " has a 89 % probability of being spam.
+Sentence " half the flag was already worn off when i got it back so quickly because it was a p " has a 1 % probability of being spam.
+Sentence " first the shipping was bad it took them 5 days to get it charged and it hasn't even been 48 hours " has a 99 % probability of being spam.
+Sentence " not so great to say the least and thank you amazon for refunding replacing this with a higher quality cord " has a 43 % probability of being spam.
+Sentence " you're better off just getting even an inexpensive offbrand case that will actually do it's job but since it hasn't worked since " has a 4 % probability of being spam.
+Sentence " the front plastic super clear and you can see the thread here with the actual sellers shady responses " has a 12 % probability of being spam.
+Sentence " although it didn't last long at all even on a flat surface and you can not draw with it " has a 5 % probability of being spam.
+Sentence " what a waste of money don't buy this case is a fake it doesnt fit the phone properly and is very cheap " has a 96 % probability of being spam.
+Sentence " i was very impressed with it however i lost it and replaced it with the elago breath case and loving it " has a 1 % probability of being spam.
+Sentence " i think i will continue to use it " has a 10 % probability of being spam.
+Sentence " zagg's customer service offered me a refund which i would get in approximately four weeks " has a 100 % probability of being spam.
+Sentence " the gears already broken and i can not add another one " has a 10 % probability of being spam.
+Sentence " way to hard to do any thing with this i dont recommend this seller is not serious with this piece of crap " has a 0 % probability of being spam.
+Sentence " it covers my entire phone which is what i have noticed in the first week of use " has a 11 % probability of being spam.
+Sentence " so if you have an s2 then this works great but if you are ordering this item as a christmas gift 12 22 2013 " has a 92 % probability of being spam.
+Sentence " just wanted to try this product but was let down hard " has a 69 % probability of being spam.
+Sentence " i wouldn't recommend this case at all to protect my phone either " has a 31 % probability of being spam.
+Sentence " it has been a week with no other chargers available it just quit working after a month " has a 91 % probability of being spam.
+Sentence " i contacted zero lemon and they promptly sent another one of the wrong battery " has a 47 % probability of being spam.
+Sentence " had one on my 4s for at least a year before i decide to upgrade " has a 36 % probability of being spam.
+Sentence " looks good but does not even come close to fitting the s4 phone " has a 1 % probability of being spam.
+Sentence " but my screen protector was dirty from the start i should've known better " has a 85 % probability of being spam.
+Sentence " that said i really don't know if i will try a jabra product " has a 7 % probability of being spam.
+Sentence " i only gave it a 4 5 stars for now unless it fails on me " has a 1 % probability of being spam.
+Sentence " doesn't even work with the new 4 g phones " has a 26 % probability of being spam.
+Sentence " the only thing i've ever bought has always given just a slight amount of the weight is negated by the poor quality " has a 95 % probability of being spam.
+Sentence " the more precise version the product is the epitome of 34 you get what you pay for " has a 44 % probability of being spam.
+Sentence " the rubber case seems almost too big for the iphone 5 which has since been released in two awful colors " has a 0 % probability of being spam.
+Sentence " the cover is what protects the phone when put together it also doesn't want to stay down and yes i read the instructions " has a 98 % probability of being spam.
+Sentence " i only gave this 1 star because there is not less " has a 18 % probability of being spam.
+Sentence " problem 1 i bought these because i thought they would last at least a while longer " has a 6 % probability of being spam.
+Sentence " then suddenly they did not want me to do a preview of his product " has a 44 % probability of being spam.
+Sentence " decided to get it for my iphone after 6 months the inside of the case was all scratched up " has a 68 % probability of being spam.
+Sentence " the only way to shut it down and tried it again no luck " has a 5 % probability of being spam.
+Sentence " this adapter seemed to work fine for about a month and then started to not be able to power it much " has a 1 % probability of being spam.
+Sentence " you can not reach the buttons on the side cuz it does not fit at all " has a 72 % probability of being spam.
+Sentence " i originally bought one of these ordering it ahead of time so my expectations were set accordingly " has a 74 % probability of being spam.
+Sentence " the headset was fine when i first used it but i couldn't believe it when i got home from travel " has a 8 % probability of being spam.
+Sentence " it falls out easily it does not snap together properly on my phone " has a 30 % probability of being spam.
+Sentence " i purchased this from alernativewireles for my motorola droid 2 and it didn't " has a 98 % probability of being spam.
+Sentence " if you phone doesn't have such a connection then you may want to check out the problems people having with this crazy phone " has a 26 % probability of being spam.
+Sentence " but then again its white so it will get dirty and dont waste your money " has a 80 % probability of being spam.
+Sentence " i have called dozens of friends with this device and when you click dismiss your only option nothing happens " has a 8 % probability of being spam.
+Sentence " you have to peel one side and hope you can stick it on the screen just so it would be easy to get on straight " has a 3 % probability of being spam.
+Sentence " in short i think i'll have to buy a better power pack " has a 16 % probability of being spam.
+Sentence " i sent several photos showing the phone in the holster it will protect the phone from scratches but thats not what i needed " has a 4 % probability of being spam.
+Sentence " it's all internal and there's no major bumps or holes " has a 15 % probability of being spam.
+Sentence " i had one for my iphone 5 i need this adaptor " has a 62 % probability of being spam.
+Sentence " the rubber layer feels very cheap and not worth time but just wanted these really bad " has a 1 % probability of being spam.
+Sentence " it stop charging my phone and my ipad " has a 22 % probability of being spam.
+Sentence " however both my daughter and i have tried to get them to adhere around the edges " has a 3 % probability of being spam.
+Sentence " the whole is not big enough at the top and bottom of the phone like i do " has a 22 % probability of being spam.
+Sentence " the cable was thinner the the original and the first time i put it into the phone " has a 56 % probability of being spam.
+Sentence " however it didn't so i'm sending it back " has a 82 % probability of being spam.
+Sentence " it's cheap and you never have to worry it will fall out " has a 83 % probability of being spam.
+Sentence " i once installed it worked fine for 2 months and i wondered should i tell the company " has a 0 % probability of being spam.
+Sentence " don't get me wrong but i didnt get this i got iphone screen protector i contacted the seller " has a 37 % probability of being spam.
+Sentence " it looks nice when delivered except for the massive branding on the side of the dongle in order to power it " has a 0 % probability of being spam.
+Sentence " and the lg g3 is already such a comfortable phone it's hard to tell if there is really any charge going into the battery " has a 37 % probability of being spam.
+Sentence " i don't know but what i do know is that the screen doesn't come into contact with the table at all " has a 75 % probability of being spam.
+Sentence " i'll know not to get this one even after to read that this product was broken from the start " has a 72 % probability of being spam.
+Sentence " and the lg g3 is already such a comfortable phone it's hard to ignore it it's too bright and distracting when driving " has a 1 % probability of being spam.
+Sentence " the magnet in the snap isn't strong enough to close the case when you put your phone in it " has a 8 % probability of being spam.
+Sentence " i am now trying the plantronics voyager pro headset fits in this case it looks very cheap and the backing wasn't even attached " has a 1 % probability of being spam.
+Sentence " nothing charges the handset does not charge the note ii properly " has a 98 % probability of being spam.
+Sentence " i loved it took great care of it but if i wanted a cable that would only work when i'm not using it properly " has a 45 % probability of being spam.
+Sentence " i've been much happier with the quality and fit of these protectors " has a 87 % probability of being spam.
+Sentence " eventually was able to return them for a partial refund and i will have to buy constantly " has a 65 % probability of being spam.
+Sentence " i've had plenty of them that would just pop off since it barely held onto the corners " has a 8 % probability of being spam.
+Sentence " they had actually next day this to me because i was leaving to go maine for a while and this is my second review " has a 29 % probability of being spam.
+Sentence " the tv app and ir blaster are two of the best features of this phone is the worst phone you will find anywhere " has a 96 % probability of being spam.
+Sentence " leather already tearing after less than a week of use " has a 33 % probability of being spam.
+Sentence " i was excited for this one and like it the least " has a 13 % probability of being spam.
+Sentence " so for me it was the battery " has a 17 % probability of being spam.
+Sentence " the base needs a mini-usb connection on the case " has a 9 % probability of being spam.
+Sentence " evo users don't waste your time and money and don't buy this it is a very comfortable worthless piece of earwear " has a 96 % probability of being spam.
+Sentence " 00 plus dollars i tried to make the phone work the way it was looking " has a 98 % probability of being spam.
+Sentence " because of the ease of the return i would definitely buy from this seller again as this is the first bluetooth headset that i bought " has a 60 % probability of being spam.
+40 % of sentences in chosen data set are classified as spam by us.

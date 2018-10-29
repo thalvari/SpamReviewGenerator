@@ -1,0 +1,101 @@
+Sentence "it worked for the first week then it only charge my phone to 20% " has a 89 % probability of being spam.
+Sentence " it is a waste of money " has a 97 % probability of being spam.
+Sentence " it worked great for the first couple of weeks then it just stopped completely " has a 19 % probability of being spam.
+Sentence " so basically a small waste of money " has a 76 % probability of being spam.
+Sentence " only works one side at a time " has a 28 % probability of being spam.
+Sentence " when you connect two cables one side stop working and also overheated burning the fuses " has a 11 % probability of being spam.
+Sentence " i purchased two of them and it's the same problem " has a 39 % probability of being spam.
+Sentence " cheap and bad quality " has a 53 % probability of being spam.
+Sentence " i bought 2 of this and tried to test first " has a 13 % probability of being spam.
+Sentence " after few minutes of charging it felt hot " has a 46 % probability of being spam.
+Sentence " pulled it out and the product smelled burnt " has a 55 % probability of being spam.
+Sentence " tried the other one too and same thing " has a 1 % probability of being spam.
+Sentence " be careful " has a 14 % probability of being spam.
+Sentence " this one could be fire hazard or could potentially destroy the electrical system " has a 10 % probability of being spam.
+Sentence " this case for some reason is peeling there isn't much left of the orginal skin i loved the case with pink being my favorite color but i wouldn't recommend this specific one for anyone " has a 3 % probability of being spam.
+Sentence " the charger only lasted a week ad after that it just stopped charging my samsung galaxy s3 " has a 51 % probability of being spam.
+Sentence " they really need to start making these chargers better " has a 44 % probability of being spam.
+Sentence " i've been thru several " has a 41 % probability of being spam.
+Sentence " junk " has a 44 % probability of being spam.
+Sentence " this product must be miss labeled " has a 93 % probability of being spam.
+Sentence " i can not get my samsung s2 phone to charge with this oem charger " has a 99 % probability of being spam.
+Sentence " the lights are on the phone says its charging but nothing happens " has a 1 % probability of being spam.
+Sentence " i am not sure if i got a defective product but it is very upsetting to sit in your car for hours and not see your phone recharge " has a 95 % probability of being spam.
+Sentence " if you need a reliable charger do not purchase this product " has a 100 % probability of being spam.
+Sentence " if you need a car charger for your samsung s2 i would recommend the motorola vehicle power adapter " has a 92 % probability of being spam.
+Sentence " it charges fast and is dependable " has a 95 % probability of being spam.
+Sentence " plugged into the car and worked the first couple of days " has a 18 % probability of being spam.
+Sentence " hasn't worked since " has a 17 % probability of being spam.
+Sentence " my phone does not even recognize it's plugged in " has a 6 % probability of being spam.
+Sentence " this thing worked well when it actually functioned but today it stopped working and i am past the 30 day return window by 10 days give or take " has a 27 % probability of being spam.
+Sentence " i'm guessing the quality might not be great as that is why it stopped working who knows " has a 1 % probability of being spam.
+Sentence " what a waste of money " has a 97 % probability of being spam.
+Sentence " first this is kind of cheap-looking but i did try to buy the cheapest oem car charger i could for my phone so that's forgiveable " has a 87 % probability of being spam.
+Sentence " the springs on the side don't have much force though so this is constantly slipping out of the 12v car port " has a 0 % probability of being spam.
+Sentence " the cable is sturdy but the rubber near the connector is kind of stiff which makes charging and operating your phone on the go a bit of a hassle " has a 12 % probability of being spam.
+Sentence " it's held up well since i purchased it though " has a 64 % probability of being spam.
+Sentence " update stopped charging after a month " has a 7 % probability of being spam.
+Sentence " i received this product in a very timely manner which was delightful however i gave it as a gift and was embarrassed to find out it was a defective item " has a 69 % probability of being spam.
+Sentence " i was reimbursed for the product but would have much rather had a product that worked the first time " has a 37 % probability of being spam.
+Sentence " had all the marking of a legit samsung product but the cord stop working after 3 days " has a 38 % probability of being spam.
+Sentence " i'm not upset because it was very inexpensive but maybe you should spend a little more and buy a better product off amazon " has a 48 % probability of being spam.
+Sentence " when it did work it worked very well " has a 6 % probability of being spam.
+Sentence " this charger doesn't charge the battery of my samsung galaxy s2 i9100 properly " has a 89 % probability of being spam.
+Sentence " when i connect it to my s2 the screen gets frozen and the cell behaves in a unusual abnormal way " has a 2 % probability of being spam.
+Sentence " in a nutshell this is not an oem charger " has a 29 % probability of being spam.
+Sentence " although it has the samsung markings it doesn't seat well with a samsung phone " has a 23 % probability of being spam.
+Sentence " this means that it's either meant for another market or it's counterfeit " has a 30 % probability of being spam.
+Sentence " with that said i wouldn't buy this again " has a 63 % probability of being spam.
+Sentence " august 17 2013 updatethe seller tried to make amends by sending me three replacement chargers " has a 25 % probability of being spam.
+Sentence " after using this for a while it is still garbage " has a 6 % probability of being spam.
+Sentence " it does not charge my phone and in fact it drains the phone " has a 97 % probability of being spam.
+Sentence " this must be a counterfeit product " has a 82 % probability of being spam.
+Sentence " it has samsung markings but it does not charge the phone " has a 95 % probability of being spam.
+Sentence " do not buy this product " has a 97 % probability of being spam.
+Sentence " after 2 weeks my charger just fell apart while i was taking it from the plug not a strong charger at all i would have asked for my money but it wasn't even worth it " has a 4 % probability of being spam.
+Sentence " this one came in broken the bottom pice snaps on to the sides and the main backing is a inlay piece " has a 8 % probability of being spam.
+Sentence " came in scuffed with paint and the pieces will not click in together " has a 72 % probability of being spam.
+Sentence " if it was not broken i would like it " has a 28 % probability of being spam.
+Sentence " also if it wasn't in three click in pieces " has a 94 % probability of being spam.
+Sentence " i never do this but i almost bought this product based off of the amazing sounding fake reviews provided by the shills for powerbear " has a 20 % probability of being spam.
+Sentence " if you look at all the positive reviews for this case you will see that none of them are verified purchases and yet every negative review other than this one of course is a verified purchase " has a 31 % probability of being spam.
+Sentence " what that means is that everyone who has actually bought and used this product thinks that it is crap " has a 0 % probability of being spam.
+Sentence " furthermore many of the reviewers have posted twice on this product once per color " has a 48 % probability of being spam.
+Sentence " why amazon allows this is beyond me but that is not the point " has a 1 % probability of being spam.
+Sentence " also if you look at the profiles of the positive reviewers you will see that they have posted multiple positive reviews for powerbear products and many of the reviews are carbon copies of each other " has a 0 % probability of being spam.
+Sentence " beware the paid shills " has a 76 % probability of being spam.
+Sentence " watch-out all these positive reviews are fake " has a 2 % probability of being spam.
+Sentence " some have even reviewed it twice using the same name " has a 2 % probability of being spam.
+Sentence " what a sleazy way to sell an item " has a 23 % probability of being spam.
+Sentence " i was raving to a friend about how amazon has great phone cases and how cheap they are and bought him this " has a 45 % probability of being spam.
+Sentence " it didn't even fit his phone right " has a 61 % probability of being spam.
+Sentence " poorly made " has a 29 % probability of being spam.
+Sentence " the case did not fit my phone was a tad too small " has a 17 % probability of being spam.
+Sentence " i could only get 3 corners into the case " has a 42 % probability of being spam.
+Sentence " i wound up buying a two piece case that cost about 20 from a local store " has a 64 % probability of being spam.
+Sentence " have dropped the phone so many times the case is beat to s and no damage to the phone " has a 25 % probability of being spam.
+Sentence " good reason to buy a case just not this one " has a 66 % probability of being spam.
+Sentence " my co-worker delayed in getting a case because he could not find one he liked and broke the display screen making his phone unusable " has a 14 % probability of being spam.
+Sentence " buy a case not this rubber thing " has a 87 % probability of being spam.
+Sentence " i threw mine away within 5 minutes of it's arrival " has a 88 % probability of being spam.
+Sentence " i read the first few reviews and didn't read any further and now i wish i had cause this thing does not work for the sprint galaxy s2 " has a 90 % probability of being spam.
+Sentence " wish i had known that " has a 87 % probability of being spam.
+Sentence " there is a different between the size design of galaxy ii that is carried by usa and what's carried by asia " has a 0 % probability of being spam.
+Sentence " i'm in usa i ordered the cover for galaxy ii that i bought from usa the cover didn't fit and the speaker location is different from the phone " has a 95 % probability of being spam.
+Sentence " i copmared the cover to another galaxy ii that is sold in asia and i found that the design is different " has a 2 % probability of being spam.
+Sentence " so if you bought galaxy ii from usa don't buy cover from outside usa " has a 87 % probability of being spam.
+Sentence " i purchased 3 of these cables because they were cheap and got good reviews " has a 31 % probability of being spam.
+Sentence " i don't know how people are getting these cables to work " has a 27 % probability of being spam.
+Sentence " but out of the 3 i bought 0 have functioned properly with my palm pre " has a 31 % probability of being spam.
+Sentence " the best i can do is get it to charge though the entire time it is charging the computer is complaining about unknown device and could not install drivers even though it works beautifully with the original cable " has a 0 % probability of being spam.
+Sentence " the only setting that works is just charge " has a 44 % probability of being spam.
+Sentence " each of the 3 cables fails slightly differently which makes me believe that each has a different flaw " has a 0 % probability of being spam.
+Sentence " i've tried this with my wife's palm pixi as well as used different computers and that failed as well " has a 0 % probability of being spam.
+Sentence " look elsewhere when attempting to purchase a cable for your palm device " has a 3 % probability of being spam.
+Sentence " this cable not recommended for this device " has a 6 % probability of being spam.
+Sentence " that is what i get for an error message " has a 53 % probability of being spam.
+Sentence " plus it is really short " has a 46 % probability of being spam.
+Sentence " poor manufacturing quality the connector is too long and does not properly fit in my phone " has a 75 % probability of being spam.
+Sentence " i would not buy this " has a 88 % probability of being spam.
+Sentence " the cable is good but it does not fit the samsung galaxy s4 " has a 73 % probability of being spam.
+38 % of sentences in chosen data set are classified as spam by us.
